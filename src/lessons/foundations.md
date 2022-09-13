@@ -1,0 +1,20 @@
+# Foundations
+
+This week, you'll lay the foundations... of the foundations. Everyone has seen some web technology before -- whether it's just as someone who's used websites, or built some of your own. These technologies are ubiquitous.
+
+Whatever your prior expereince, this week you'll touch on HTML, CSS, and JavaScript, three core languages at the heart of the internet. As you get your first taste of reading and writing each language, you'll focus on how they are connected.
+
+You'll also start practicing learning and working together. The internet is social, and technologists build it together. So, that's what you'll learn to do too.
+
+## Learning Outcomes
+
+After this week, you will be able to:
+
+- Explain the role of HTML, CSS, and JavaScript
+- Use core HTML elements to structure a webpage
+- Select and apply styles using CSS
+- Use a script tag to include a JavaScript file on a webpage
+
+## Welcome Video
+
+<!-- TODO: Welcome video -->

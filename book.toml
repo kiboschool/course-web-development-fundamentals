@@ -1,0 +1,11 @@
+[book]
+authors = ["Lola Odelola", "Rob Cobb"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Web Foundations"
+
+[build]
+build-dir = "output"
+create-missing = false
+use-default-preprocessors = false
