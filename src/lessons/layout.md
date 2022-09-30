@@ -1,6 +1,6 @@
 # Multimedia and Layout
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./multimedia-and-layout/multimedia/multimedia-4.png); background-size: cover;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(bonus/multimedia-layout/multimedia/multimedia-4.png); background-size: cover;"></iframe></div>
 
 In previous lessons, you've seen how to create website contents using different HTML elements and adding styles using CSS. This week, we'll focus on adding multimedia contents to a website using HTML and also look at using different layout and positioning options in CSS.
 
