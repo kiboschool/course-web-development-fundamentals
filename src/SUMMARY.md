@@ -37,8 +37,8 @@
 ### Week 3
 
 - [Layout](lessons/layout/layout.md)
-  - [CSS Grid](lessons/layout/grid.md)
   - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
   - [Positioning](lessons/layout/positioning.md)
   - [Practice](lessons/layout/practice.md)
   - [Project](lessons/layout/rest-of-world-project.md)
