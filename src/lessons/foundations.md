@@ -17,4 +17,4 @@ After this week, you will be able to:
 
 ## Welcome Video
 
-<!-- TODO: Welcome video -->
+<!-- TODO: Welcome video from your Instructor, Wasiu-->
