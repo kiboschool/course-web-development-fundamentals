@@ -151,6 +151,22 @@ Here’s the result:
 <p>This is a paragraph. It has an <a href="https://example.com">Example Link</a> inside the paragraph. </p>
 ```
 
+### CSS Syntax
+
+Each rule has a **selector** and a list of **declarations.** The selector says which elements should get these styles.
+
+> In the example, the selector is `p`, so all the `<p>` elements should get the styles.
+>
+
+A declaration is a **property** and a **value.**
+
+> In the example, the property is `color` and the value is `red`
+>
+
+![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
+
+There’s a ton more to learn about how the selectors work, what properties are available, and what values are available. We’ll cover some in the course, but not everything!
+
 ### Try It: Change the Color
 
 <aside>
@@ -167,22 +183,6 @@ Set a timer for **10 minutes** to experiment with HTML and CSS in Replit.
 *If the embed below doesn’t load, use this link to open the page directly: <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Try-It-Change-the-Color" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>*
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/tk5-web/Try-It-Change-the-Color" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-### CSS Syntax
-
-Each rule has a **selector** and a list of **declarations.** The selector says which elements should get these styles.
-
-> In the example, the selector is `p`, so all the `<p>` elements should get the styles.
->
-
-A declaration is a **property** and a **value.**
-
-> In the example, the property is `color` and the value is `red`
->
-
-![Untitled](/web-foundations-july-2022/publishing-and-sharing/domains-and-hosting/untitled-2.png)
-
-There’s a ton more to learn about how the selectors work, what properties are available, and what values are available. We’ll cover some in the course, but not everything!
 
 ## Browser Developer Tools
 
