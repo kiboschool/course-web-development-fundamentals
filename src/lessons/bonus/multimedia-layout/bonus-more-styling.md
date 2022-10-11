@@ -33,16 +33,6 @@ What happens to that overflowing content? It might scroll horizontally or vertic
 
 Read more on [MDN about handling overflowing content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content).
 
-## CSS Grid
-
-Grid is a popular way of laying out content. 
-
-`grid` is an inside display value that changes the flow of elements inside a container, similar to `flex`.
-
-You can read more about `display: grid` and the [grid layout system on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids).
-
-To practice laying out elements in a grid, try [https://cssgridgarden.com/](https://cssgridgarden.com/)
-
 ## The `margin: auto` trick
 
 Setting `margin: auto` is a one way to center an element horizontally. It sets the left and right margins to whatever is needed to center the element. It doesn’t work for vertical alignment.

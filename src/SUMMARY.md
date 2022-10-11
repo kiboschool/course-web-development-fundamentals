@@ -36,14 +36,12 @@
 
 ### Week 3
 
-- [Multimedia and Layout](lessons/multimedia-and-layout.md)
-  - [Multimedia HTML Elements](lessons/multimedia-and-layout/multimedia-html-elements.md)
-  - [Layout](lessons/multimedia-and-layout/layout.md)
-  - [Flexbox](lessons/multimedia-and-layout/flexbox.md)
-  - [Positioning](lessons/multimedia-and-layout/positioning.md)
-  - [Practice](lessons/multimedia-and-layout/practice.md)
-  - [Project ](lessons/multimedia-and-layout/rest-of-world-project.md)
-  - [Bonus: More styling](lessons/multimedia-and-layout/bonus-more-styling.md)
+- [Layout](lessons/layout/layout.md)
+  - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
+  - [Positioning](lessons/layout/positioning.md)
+  - [Practice](lessons/layout/practice.md)
+  - [Project](lessons/layout/rest-of-world-project.md)
 
 ### Week 4
 

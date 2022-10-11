@@ -1,42 +1,19 @@
 # Websites and the internet
 
+## The Web vs The Internet
+## The Internet
+Even though we tend to use "the web" and "the internet" interchangably, they're actually two different things. While 
+the focus of this course is on the web and web development, it's good to have some foundational understanding of the 
+internet. The internet was created during World War II to enable the British military to decode the 
+secret messages intercepted from the German military. Since then, it's grown to be a global network of cables and 
+computers which are connected via a series of protocols. You may know some familiar protocols such as `http` or 
+`https` which you sometimes see in an address bar before a website domain.
+
 ## Web Pages
-
-Everything you do on the computer has a computer program — “software” — behind the scenes.
-
-We write computer programs to help us solve problems or perform tasks, like editing documents, browsing web pages, sharing images, or chatting with friends.
-
-In this course, we’re focused on a specific kind of program: **Web Pages**.
-
-A web page is basically a document written using HTML and other web technologies which can be accessed using a web browser. Web pages contains text, images, links, and other files. Combination of multiple web pages makes up a **website**.
-
-### Static vs. Dynamic websites
-
-Content of a web page can either be **static** or **dynamic**.
-
-<aside>
-
-📺 This video explains more.
-
-</aside>
-
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe width="100%" height="415" src="https://www.youtube.com/embed/0QT06AFAbdc" title="Static vs Dynamic Websites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<aside>
-
-Here's a recap on static and dynamic web pages.
-
-- **Static** means it doesn’t change — it shows the same way for different users at different times. Wikipedia is a good example of a web page, or lots of web pages.
-- **Dynamic** means the site changes — it shows up differently for different users at different times, like Facebook or Gmail. It usually means it saves data that users enter.
-
-</aside>
-
-In this course, you’ll learn to make static web pages. Your final project will be more like Wikipedia, and less like Facebook.
-
-Web Apps use the same building blocks as static websites. The tools in this course will help when you move on to building Web Apps in the future.
+The web is made up of a collection of files and documents, some of these files and documents are shown to users 
+while others are not. The documents that are visible to users are called web pages are usually written 
+using HTML, CSS and other web technologies which can be accessed using a web browser. Web pages contain text, images, 
+links, and other elements. Combination of multiple web pages makes up a **website**.
 
 ## 📺 How does the web work?
 
@@ -53,7 +30,6 @@ Web Apps use the same building blocks as static websites. The tools in this cour
 🤯 That was a lot information!
 
 Here’s the **main things to focus on**:
-
 
 1. You use your browser to navigate to a url:
 
