@@ -29,17 +29,21 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 - Your final project should be about as complicated as the most complicated exercises and projects you’ve already done, or maybe a little bit more advanced.
 - Don’t plan to learn a whole new technology for the final project. Plan to use mostly what you’ve already learned (with a little bit more Googling for the things you run into along the way).
 
-Some project ideas:
+### The Project
 
-- A website for a friend or family member’s business
-- A page about a field of study or topic that you are interested in
-- A small game you can build in JavaScript
+YouTube need a low-bandwidth front page with just videos. Choose up to 6 videos from YouTube to showcase on the this front page, include titles and descriptions for each video. Come up with a distinct theme so that it's distinguishable from the main YouTube website. Users do not need to be able to search, you don't need to collect any user data. Use JavaScript to add some interesting interactions, if you're comfortable with JS.
 
-### What features should you **include?**
+This is your time to really play to your strengths, if you're more comfortable with CSS play into that, if you're comfortable with JS, showcase that too! Have fun with it! You don't have to copy the current YouTube website, you can be creative but your site needs to be accessible and easy to read.
 
-- Different HTML elements
-- Web Design (fonts, colors, layout)
-- Interactivity (images, media, JavaScript)
+At the end of the project, write a short essay explaining the decisions you made within the project and your input within the group. This essay should be at least 500words and at most 800words.
+
+## Rubric
+
+You should:
+
+- [ ] A website that has up to 6 videos
+- [ ] A theme that uses accessible colours and typography
+- [ ] Deploy this online
 
 ### What features should you **avoid**?
 
@@ -48,8 +52,6 @@ Some project ideas:
 - Payment
 
 We haven’t covered how to collect and save data from users. Don’t plan to build a banking app, a social media website, or an e-commerce site.
-
-If you have an idea that you and your team really love, that depends on saving user data, try to come up with a version of the design that works without saving any user data. For instance, you could have a version of Youtube that only has a few videos, and doesn’t save comments or likes. Without those features, it’s not exactly like youtube, but it’s still pretty cool.
 
 ## How should you work together?
 
