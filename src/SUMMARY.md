@@ -3,8 +3,6 @@
 [Course Overview](course-overview.md)
 [Weekly Projects](weekly-projects.md)
 [Final Project](final-project.md)
-[Learning Together](learning-together.md)
-[Debugging Mindset](the-debugging-mindset.md)
 
 ## Lessons
 
@@ -34,15 +32,6 @@
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
 
-### Week 3
-
-- [Layout](lessons/layout/layout.md)
-  - [Flexbox](lessons/layout/flexbox.md)
-  - [CSS Grid](lessons/layout/grid.md)
-  - [Positioning](lessons/layout/positioning.md)
-  - [Practice](lessons/layout/practice.md)
-  - [Project](lessons/layout/rest-of-world-project.md)
-
 ### Week 4
 
 - [Action and Interaction](lessons/action-and-interaction.md)
@@ -52,7 +41,17 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
 
+### Week 4
+
+- [Layout](lessons/layout/layout.md)
+  - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
+  - [Positioning](lessons/layout/positioning.md)
+  - [Practice](lessons/layout/practice.md)
+  - [Project](lessons/layout/rest-of-world-project.md)
+
 ### Week 5
+
   - [Publishing and Sharing](lessons/publishing-and-sharing.md)
     - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
     - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)

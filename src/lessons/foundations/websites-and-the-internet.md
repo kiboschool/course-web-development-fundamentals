@@ -1,19 +1,38 @@
 # Websites and the internet
 
-## The Web vs The Internet
+## The Web and The Internet
+
 ## The Internet
+
 Even though we tend to use "the web" and "the internet" interchangably, they're actually two different things. While 
 the focus of this course is on the web and web development, it's good to have some foundational understanding of the 
-internet. The internet was created during World War II to enable the British military to decode the 
-secret messages intercepted from the German military. Since then, it's grown to be a global network of cables and 
-computers which are connected via a series of protocols. You may know some familiar protocols such as `http` or 
-`https` which you sometimes see in an address bar before a website domain.
+internet. Starting in the 1960s, university and government researchers created a system to share files
+between computers. That system, called ARPANET, established protocols for file sharing, routing, and messaging that
+grew into the public internet.
+
+Since then, the internet has grown to become a global network of cables, cell towers, satellites, phones, and computers 
+, all connected by networking protocols descended from those of ARPANET. You may have seen protocols like `http` 
+(it's in the address bar, or at the beginning of a URL). HTTP (the hypertext transfer protocol) and protocols like it 
+are rules that software programs follow so that they understand each other when they
+send messages back and forth on the network.
+
+Connecting billions of different devices requires a lot of rules! There are a
+lot of protocols that make up the modern Internet -- HTTP, TCP/IP, Ethernet,
+DNS, Websockets... Even Bluetooth is a protocol that ends up carrying
+internet traffic! You don't need to know what those acronyms stand for yet. 
+You should know that the internet is made of a lot of devices, connected by a
+set of protocols.
 
 ## Web Pages
-The web is made up of a collection of files and documents, some of these files and documents are shown to users 
-while others are not. The documents that are visible to users are called web pages are usually written 
-using HTML, CSS and other web technologies which can be accessed using a web browser. Web pages contain text, images, 
-links, and other elements. Combination of multiple web pages makes up a **website**.
+
+If the Internet is the connections between the computers plus the protocols they
+use to communicate, the Web is the most visible way that people interact with
+the internet in their daily lives. The Web was originally conceived as a
+collection of files and documents, shared and linked together using the internet. 
+
+Web pages are documents, created using HTML, CSS and other web technologies. Web 
+pages can be accessed using a web browser, like Chrome or Edge. Pages contain text, 
+images, links, and other elements. A combination of multiple web pages makes up a **website**.
 
 ## 📺 How does the web work?
 
@@ -28,6 +47,8 @@ links, and other elements. Combination of multiple web pages makes up a **websit
 <aside>
 
 🤯 That was a lot information!
+
+</aside>
 
 Here’s the **main things to focus on**:
 
@@ -45,9 +66,6 @@ Here’s the **main things to focus on**:
 4. Your browser turns those files into the page that you see.
 
 ![Screenshot 2022-04-11 at 18.26.02.png](websites-and-the-internet/screenshot-2022-04-11-at-18.26.02.png)
-
-</aside>
-
 
 <details>
 <summary>
@@ -68,7 +86,6 @@ Computers connected to the web are called **clients** and **servers**. A simp
 ## What makes up a web page?
 
 <aside>
-
 
 🔑 Building a website means writing the files that the browser uses to make the page.
 

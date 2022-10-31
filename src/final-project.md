@@ -12,9 +12,7 @@ You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final
 
 <aside>
 
-👥 **The final project will be a team project**. You can have up to three people on your team. You can work with teammates you’ve worked with before, or find new teammates.
-
-If you have trouble finding a partner, use the **#help-web** channel in Discord to see who else needs a team. You can work with anyone, you are not restricted to your squad. You are allowed to work independently, but it’s good practice to work together.
+👥 **The final project will be a team project**. You can work with teammates you’ve worked with before, or find new teammates.
 
 Your team will have to agree on a project idea. If you have a firm idea of what you want to build, make sure to tell your partners before you decide to join the team together.
 
@@ -28,22 +26,6 @@ Here’s some guidelines that can help you pick an exciting project you’ll be 
 
 - Your final project should be about as complicated as the most complicated exercises and projects you’ve already done, or maybe a little bit more advanced.
 - Don’t plan to learn a whole new technology for the final project. Plan to use mostly what you’ve already learned (with a little bit more Googling for the things you run into along the way).
-
-### The Project
-
-YouTube need a low-bandwidth front page with just videos. Choose up to 6 videos from YouTube to showcase on the this front page, include titles and descriptions for each video. Come up with a distinct theme so that it's distinguishable from the main YouTube website. Users do not need to be able to search, you don't need to collect any user data. Use JavaScript to add some interesting interactions, if you're comfortable with JS.
-
-This is your time to really play to your strengths, if you're more comfortable with CSS play into that, if you're comfortable with JS, showcase that too! Have fun with it! You don't have to copy the current YouTube website, you can be creative but your site needs to be accessible and easy to read.
-
-At the end of the project, write a short essay explaining the decisions you made within the project and your input within the group. This essay should be at least 500words and at most 800words.
-
-## Rubric
-
-You should:
-
-- [ ] A website that has up to 6 videos
-- [ ] A theme that uses accessible colours and typography
-- [ ] Deploy this online
 
 ### What features should you **avoid**?
 
