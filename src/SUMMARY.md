@@ -32,7 +32,7 @@
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
 
-### Week 4
+### Week 3
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
@@ -48,7 +48,6 @@
   - [CSS Grid](lessons/layout/grid.md)
   - [Positioning](lessons/layout/positioning.md)
   - [Practice](lessons/layout/practice.md)
-  - [Project](lessons/layout/rest-of-world-project.md)
 
 ### Week 5
 
@@ -58,4 +57,3 @@
     - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
-    - [Project](lessons/publishing-and-sharing/project.md)

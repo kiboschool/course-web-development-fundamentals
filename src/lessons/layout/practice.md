@@ -37,3 +37,14 @@ elements, flexbox and position.
 [**Access and submit on Replit here**](https://replit.com/team/web-foundations-july-2022/kibo-website)
 
 </aside>
+
+## Landing Page Recreation
+
+<aside>
+
+This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
+
+[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Recreate-the-Rest-Of-World-Homepage)
+
+</aside>
+

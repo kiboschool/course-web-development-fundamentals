@@ -15,14 +15,15 @@ You can work together by sharing your screen, or by creating a new replit and sh
 
 In this project, you’ll get a chance to combine interactive elements with CSS and JavaScript to build an interactive gallery of content.
 
-[**Access** and **submit** the project in Replit here](https://replit.com/team/web-foundations-july-2022/Content-Gallery)
+> 👉🏿 Access and submit the project on GitHub using this [link](https://github.com/kiboschool/content-gallery)
 
-</aside>
+## Rubric
 
-Remember...
+| Points | Criteria | Description |
+|---|---|---|
+| 20 pts | Site uses appropriate HTML elements | - Should use multimedia elements<br>- Elements should be used for their intended purposes |
+| 30 pts | Interactive JS features | - Uses JS Event Listener to respond to click<br>- Updates the page in response to events |
+| 10 pts | Site is styled effectively | - Color palette creates contrast<br>- Appropriate spacing between elements<br>- Text is styled for readability |
+| 10 pts | Code is styled well | - indented properly<br>- organized effectively<br>- appropriately commented |
+| **60 pts** | **Total** | 70 possible points, scored out of 60 |
 
-- **Read** the instructions tab in Replit
-- **Plan** before you code
-- **Debug** if you aren't getting the desired output
-- **Attend** office hours if you need additional support
-- **Ask** for help in Discord

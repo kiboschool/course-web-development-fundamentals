@@ -10,7 +10,7 @@ _6 ECTS Credits_
 
 </aside>
 
-<!-- TODO: welcome video -->
+<!-- TODO: Wasiu to add welcome video -->
 
 ## What you'll learn
 
@@ -22,8 +22,12 @@ The course culminates in a project where you'll create a website of your own des
 
 ## Meeting Times
 
+<!-- TODO: Wasiu to class meeting times + Office hours -->
+
 
 ## Instructor
+
+<!-- TODO: Wasiu to add contact preferences -->
 
 
 ## Course Learning Outcomes
