@@ -66,22 +66,22 @@ practice problems included in the course.
 
 Your overall course grade is made up of:
 
-* Class participation (30%) 
-* Weekly assignments (40%) 
-* Final project (30%)
-
-* **Weekly Assignments**: Each week, you will have several ungraded exercises to 
-  practice the concepts you learned that week. You will also have a graded 
-  project each week. There are 3 such projects, each worth 15 points of your 
-  final grade.
-* **Final Project**: You will have one larger project at the end of the course, 
-  reflecting all that you've learned. It contributes 30% of your final grade.
+* **Class Participation (30%)** will based on submission of the activities
+    or exercises in the live class, and scored based on completion, not
+    correctness. If you miss a class, you will be expected to review the
+    recording of the class and submit the activity or exercise from class.
+* **Weekly Assignments (40%)**: Each week, you will have several ungraded exercises to 
+    practice the concepts you learned. You will also have a graded 
+    project each week. There are 3 such projects, each worth 15 points of your 
+    final grade.
+* **Final Project (30%)**: You will have one larger project at the end of the course, 
+    reflecting all that you've learned. It contributes 30% of your final grade.
 
 Your projects will be hosted on Github and turned in on Gradescope (see the 
 Tools section below). Projects will be scored in Gradescope based on whether 
 they complete the task successfully and effectively.
 
-More details about your assignments are given on the next few pages.
+More details about live classes and your assignments are given on the next pages.
 
 ## Tools
 
