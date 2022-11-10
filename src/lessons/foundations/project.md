@@ -1,11 +1,19 @@
-# Project: Your “CS Professor” Home Page
+# Project: Your “CS Professor” Page
+
+<aside>
 
 
-## 👩🏾‍🏫 **Your profile page**
+💡 This is an individual project. You are expected to work independently.
 
-This project is a chance to show off your creativity! You'll create a profile web page using fundamental HTML elements.
+If you get stuck, confused, or have trouble with the project, you should use the **#help-web** channel in Discord or message an instructor. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
-> 👉🏿Access and submit the project on GitHub using this [link](https://github.com/kiboschool/cs-professor-page)
+</aside>
+
+## 👩🏾‍🏫 Your CS Professor page
+
+CS Professors are notorious for building sites that, while functional, are
+totally unstyled. In this project, you'll put together your own CS Professor
+website.
 
 
 ## Rubric

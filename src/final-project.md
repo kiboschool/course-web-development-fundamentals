@@ -7,11 +7,16 @@
 <aside>
 
 👥 **This is a team project**. You can work with teammates you’ve worked with 
-before, or find new teammates.
+before, or find new teammates. Communicate with your teammates, then join the 
+Github team together and schedule time to work on the project.
 
 Your team will have to agree on a project idea. If you have a firm idea of what 
 you want to build, make sure to tell your partners before you decide to join 
 the team together.
+
+You can work together by sharing your screen, or by creating a new project in 
+Replit and sharing the join link with your teammate. You should be sure that
+both of your names are linked to the submission in Github and Gradescope.
 
 </aside>
 
