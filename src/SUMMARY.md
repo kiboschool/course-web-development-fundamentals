@@ -1,6 +1,7 @@
 # Web Foundations
 
 [Course Overview](course-overview.md)
+[Live Classes](live-classes.md)
 [Weekly Projects](weekly-projects.md)
 [Final Project](final-project.md)
 

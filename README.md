@@ -1,6 +1,6 @@
 # Web Foundations
 
-A template for an [mdbook](https://rust-lang.github.io/mdBook/index.html)-powered course site.
+The files for Kibo's Web Foundations course. https://web-foundations.vercel.app/
 
 ## What's here?
 
