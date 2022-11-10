@@ -61,7 +61,7 @@ As you've seen, you change other properties using JavaScript. However, JavaScrip
 document.querySelector('h1.menu-title').style = "background-color: lavender; padding: 12px; font-family: monospace"
 ```
 
-![title.png](./actions/title.png)
+![Result of changing the title](./actions/title.png)
 
 It works... but it’s not as nice as writing styles in CSS.
 
