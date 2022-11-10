@@ -26,7 +26,7 @@ This CSS sets the color of the text within paragraphs to red. Here’s the resul
 
 ## Try It: Change the Color
 
-👉🏿 Your turn! Practice changing what shows up on the page by editing the CSS.
+> 👉🏿 Your turn! Practice changing what shows up on the page by editing the CSS.
 
 Set a timer for **10 minutes** to experiment with HTML and CSS.
 
@@ -65,11 +65,11 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 
 ## Practice: Link the stylesheet
 
-Add the `<link>` tag to this HTML page so that the styles are connected.
-
-👉🏿 Use the link below to attempt the practice exercise
-
-https://github.com/kiboschool/opes-tea-shop
+> Add the `<link>` tag to this HTML page so that the styles are connected.
+> 
+> 👉🏿 Use the link below to attempt the practice exercise
+>
+> https://github.com/kiboschool/opes-tea-shop
 
 ## CSS Syntax
 
@@ -215,9 +215,9 @@ If you want to see them and browse more examples, check out the [MDN page on CSS
 
 ## Practice: Select the Elements
 
-👉🏿 Practice using selectors
-
-In the CSS file, fill in the selectors for each of the rules so that the styles work.
+> 👉🏿 Practice using selectors
+>
+> In the CSS file, fill in the selectors for each of the rules so that the styles work.
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="NWzpWYP" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rrcobb/pen/NWzpWYP">
@@ -228,8 +228,8 @@ In the CSS file, fill in the selectors for each of the rules so that the styles 
 
 ## Practice: CSS Diner
 
-🍽️  For more practice with CSS selectors, try out [CSS Diner](https://flukeout.github.io/).
-
-There are 30 short exercises to practice selecting the plates, the food, or the table.
-
-**Try to get to at least Level 10!**
+> 🍽️  For more practice with CSS selectors, try out [CSS Diner](https://flukeout.github.io/).
+>
+> There are 30 short exercises to practice selecting the plates, the food, or the table.
+>
+> **Try to get to at least Level 10!**

@@ -293,12 +293,12 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 
 🔍 The **Mozilla Developer Network (MDN)** is a top source of tutorials and reference materials for Web Developers.
 
-Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. Using the link below, share:
-
-- the name of the element
-- the link to the MDN page, and
-- what you find interesting about it
-
+> Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. Using the link below, share:
+>
+> - the name of the element
+> - the link to the MDN page, and
+> - what you find interesting about it
+>
 > [https://padlet.com/curriculumpad/48oj31pmpjw4yjwb](https://padlet.com/curriculumpad/48oj31pmpjw4yjwb)
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/48oj31pmpjw4yjwb" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:408px;display:block;padding:0;margin:0"></iframe></div>
@@ -306,5 +306,5 @@ Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/
 ## Practice: Use the basic elements
 
 > 👉🏿 Your turn! Use these tags to mark up the page.
-
-https://github.com/kiboschool/basic-elements
+> 
+> https://github.com/kiboschool/basic-elements

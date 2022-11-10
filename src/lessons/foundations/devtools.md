@@ -24,12 +24,12 @@ You can read more on MDN about:
 
 ## Try it: Devtools Scavenger hunt
 
-In the Scavenger Hunt, you’ll use the DevTools to view and edit properties of a webpage. You’ll get to explore for yourself what a webpage is made of, and practice using the tools that real web developers use to debug websites.
+> In this **Scavenger Hunt**, you’ll use the DevTools to view and edit properties of a webpage. You’ll get to explore for yourself what a webpage is made of, and practice using the tools that real web developers use to debug websites.
+>
+> - On your laptop, go to [https://devtools.programming.africa/](https://devtools.programming.africa/)
+> - Use the DevTools to find the **secret messages** on the page
 
-- On your laptop, go to [https://devtools.programming.africa/](https://devtools.programming.africa/)
-- Use the DevTools to find the **secret messages** on the page
-
-> ⚠️ If you get stuck on this assignment, watch the video below to see how to solve each clue.
+⚠️ If you get stuck on this assignment, watch the video below to see how to solve each clue.
 
 <details>
 <summary><strong>Scavenger Hunt Solution Video</strong></summary>

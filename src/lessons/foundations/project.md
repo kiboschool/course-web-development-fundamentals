@@ -11,11 +11,11 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 ## 👩🏾‍🏫 Your CS Professor page
 
-CS Professors are notorious for building sites that, while functional, are
-totally unstyled. In this project, you'll put together your own CS Professor
-website.
-
-https://github.com/kiboschool/cs-professor-page
+> CS Professors are notorious for building sites that, while functional, are
+> totally unstyled. In this project, you'll put together your own **CS Professor
+> website**.
+>
+> https://github.com/kiboschool/cs-professor-page
 
 ## Rubric
 

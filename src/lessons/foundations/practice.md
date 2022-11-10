@@ -15,18 +15,18 @@
 
 ## Chicken Peanut Stew Recipe Page
 
-🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
-
-https://github.com/kiboschool/chicken-peanut-stew
+> 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
+> 
+> https://github.com/kiboschool/chicken-peanut-stew
 
 ## Shirt City Landing Page: Debug
 
-👕 Help the new clothing brand Shirt City debug their landing page.
-
-https://github.com/kiboschool/shirt-city
+> 👕 Help the new clothing brand Shirt City debug their landing page.
+> 
+> https://github.com/kiboschool/shirt-city
 
 ## Make a Greeting Card
 
-🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
-
-https://github.com/kiboschool/greeting-card
+> 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
+>
+> https://github.com/kiboschool/greeting-card
