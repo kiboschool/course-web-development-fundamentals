@@ -1,9 +1,8 @@
 # CSS Selectors and Properties
 
-You were previously introduced to CSS. Let’s revisit what you learned, and dive deeper into CSS Selectors.
+Let's dive deeper into CSS selectors and properties.
 
 <aside>
-
 
 📺 Check out this [Code.org](http://Code.org) video on CSS
 
@@ -23,48 +22,60 @@ p {
 
 This CSS sets the color of the text within paragraphs to red. Here’s the result:
 
-![BCDF355C-419C-4670-A99D-D70D1D5C78AB-655-0000EDA4FBD29F61.png](../learning-with-kibo/intro-to-web-development/bcdf355c-419c-4670-a99d-d70d1d5c78ab-655-0000eda4fbd29f61.png)
+![paragraph rendered with red text](/lessons/foundations/css-selectors-and-properties/css-example-red-paragraph.png)
 
+## Try It: Change the Color
+
+👉🏿 Your turn! Practice changing what shows up on the page by editing the CSS.
+
+Set a timer for **10 minutes** to experiment with HTML and CSS.
+
+- Try changing the text in the paragraph.
+- Try changing the CSS so that the color is blue.
+
+_If the embed below doesn’t load, use this link to open the page directly: [https://codepen.io/rrcobb/pen/poKeopy](https://codepen.io/rrcobb/pen/poKeopy)_
+
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="poKeopy" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/poKeopy">
+  Try it: Change the color</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Linking CSS
 
-<aside>
-
-
-📺 Check out this [Code.org](http://Code.org) video on how to link your CSS
-
-</aside>
-
+<details>
+<summary>
+📺 Check out this Code.org video on how to link your CSS
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/VgBVKlpLqsE" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</details>
 
-Here's a recap on how to link CSS to your webpage.
+We’ll put our styles in a CSS file, usually called `style.css`. We need to tell the browser that this file is "linked" to the content in our HTML file.
 
-- We’ll put our styles in a CSS file, usually called `style.css`.
-- In the HTML file, we’ll link to `style.css` using the `<link>` tag:
-	```html
-	<link href="style.css" rel="stylesheet" type="text/css" />
-	```
+In the HTML file, we’ll link to `style.css` using the `<link>` tag:
+
+```html
+<link href="style.css" rel="stylesheet" type="text/css" />
+```
+
 - The `href` attribute of the `link` says where to find the CSS file
 - The `rel` attribute of the `link` says what the relationship is to the page — for us, always `stylesheet`.
 - The `type` attribute of the `link` says that the kind of file it is — always `text/css` for us.
 
 ## Practice: Link the stylesheet
 
-<aside>
-
-👉🏿 Try adding the `<link>` tag to this HTML page so that the styles are connected.
+Add the `<link>` tag to this HTML page so that the styles are connected.
 
 👉🏿 Use the link below to attempt the practice exercise
 
-[https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Stylesheet)
-
-</aside>
+https://github.com/kiboschool/opes-tea-shop
 
 ## CSS Syntax
 
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled-2.png)
-
 Each rule has a **selector** and a list of **declarations.** The selector says which elements should get these styles.
+
+![css syntax](/lessons/foundations/css-selectors-and-properties/css-syntax.png)
 
 > The selector is `p`, so all the `<p>` elements get the styles.
 
@@ -76,11 +87,13 @@ A declaration is a **property** and a **value.**
 
 When you write CSS, the steps often go:
 
-1. Try getting the styles right in the DevTools
-2. Pick what elements to style
-3. Write the style rules
+1. Pick what elements to style
+1. Edit their styles in the DevTools
+3. Write the style rules in your CSS file
 
-Step 2 is “Pick what elements to style”. Selectors say **which elements** will get **which styles**.
+Step 1 is “Pick what elements to style”.
+
+Selectors determine **which elements** will get **which styles**.
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="mdxJNxP" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rrcobb/pen/mdxJNxP">
@@ -132,7 +145,7 @@ img {
 
 </details>
 
-### class selectors
+### Class selectors
 
 When an element has a class attribute, there’s special syntax to select them.
 
@@ -162,6 +175,8 @@ An id selector selects elements that have a matching `id`. It’s similar to a c
 
 ## Combining selectors
 
+### Matching either selector ('or')
+
 You can select more than one element with a combined selector.
 
 The easiest way is to list multiple selectors, separated by commas.
@@ -174,7 +189,7 @@ p, a, .cool-text {
 
 All paragraphs, links, and elements with the `cool-text` class will be selected.
 
-### Combining Selectors
+### Matching both Selectors ('and')
 
 If you put two selectors together, you select elements that match both selectors. You can select “the paragraphs that also have the class `cool-paragraph`” by combining the `p` and `.cool-paragraph` selectors like `p.cool-paragraph`.
 
@@ -191,34 +206,30 @@ You don’t need to memorize all the combinators.
 
 If you want to see them and browse more examples, check out the [MDN page on CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors).
 
-<aside>
-
+<details>
+<summary>
 📺 A video recap of CSS and Selectors
-
-</aside>
-
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/XPv4EeB0PJ8?start=38" title="CSS and Selectors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</details>
 
 ## Practice: Select the Elements
 
-<aside>
+👉🏿 Practice using selectors
 
-👉🏿 Practice selectors using the Replit link below
+In the CSS file, fill in the selectors for each of the rules so that the styles work.
 
-In `style.css`, fill in the selectors for each of the rules so that the styles work
-
-[https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements](https://replit.com/team/web-foundations-july-2022/Practice-Select-the-Elements)
-
-</aside>
+<p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="NWzpWYP" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/NWzpWYP">
+  Try it: Select the Elements</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ## Practice: CSS Diner
-
-<aside>
 
 🍽️  For more practice with CSS selectors, try out [CSS Diner](https://flukeout.github.io/).
 
 There are 30 short exercises to practice selecting the plates, the food, or the table.
 
 **Try to get to at least Level 10!**
-
-</aside>

@@ -94,3 +94,13 @@ Open that page, then click the link in the last sentence of each explanation to 
 If you want to read more about visual design, see [Clean Up Your Mess: A Guide to Visual Design For Everyone](https://www.visualmess.com/) (10 min).
 
 It discusses what makes a design “clean” and how to communicate what’s important. In particular, it focuses on how to use spacing, size, proximity, and alignment to create contrast and a visual hierarchy.
+
+## Practice: CSS Diner
+
+You're going to be using CSS Selectors a _ton_ this week.
+
+If you skipped it in Week 1 (or if you just want to practice selectors more), [CSS Diner](https://flukeout.github.io/) is a great place to practice selectors.
+
+There are 30 short exercises to practice selecting the plates, the food, or the table.
+
+**Try to get 5 levels beyond where you got last time!**

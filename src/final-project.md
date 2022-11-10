@@ -6,15 +6,15 @@
 
 <aside>
 
-👥 **This is a team project**. You can work with teammates you’ve worked with 
-before, or find new teammates. Communicate with your teammates, then join the 
+👥 **This is a team project**. You can work with teammates you’ve worked with
+before, or find new teammates. Communicate with your teammates, then join the
 Github team together and schedule time to work on the project.
 
-Your team will have to agree on a project idea. If you have a firm idea of what 
-you want to build, make sure to tell your partners before you decide to join 
+Your team will have to agree on a project idea. If you have a firm idea of what
+you want to build, make sure to tell your partners before you decide to join
 the team together.
 
-You can work together by sharing your screen, or by creating a new project in 
+You can work together by sharing your screen, or by creating a new project in
 Replit and sharing the join link with your teammate. You should be sure that
 both of your names are linked to the submission in Github and Gradescope.
 
@@ -24,11 +24,13 @@ both of your names are linked to the submission in Github and Gradescope.
 
 Your final project will be a website you design and create with a team.
 
-You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final 
+You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final
 project is your chance to build a website of your own design from scratch.
 
 There are few requirements. You must use the knowledge you learned in the
 course, as outlined in the rubric below.
+
+https://github.com/kiboschool/wf-final-project
 
 ## Rubric
 
@@ -45,17 +47,17 @@ course, as outlined in the rubric below.
 
 ## Topic and Design Guidelines
 
-Your team gets to decide the topic for your final project. The challenge is to 
-choose a design that is exciting to you, but is not so big that it’s 
+Your team gets to decide the topic for your final project. The challenge is to
+choose a design that is exciting to you, but is not so big that it’s
 overwhelming or impossible to complete.
 
-Here’s some guidelines that can help you pick an exciting project you’ll be 
+Here’s some guidelines that can help you pick an exciting project you’ll be
 able to complete.
 
-- Your final project should be about as complicated as the most complicated 
+- Your final project should be about as complicated as the most complicated
   exercises and projects you’ve already done, or maybe a little bit more advanced.
-- Don’t plan to learn a whole new technology for the final project. Plan to use 
-  mostly what you’ve already learned (with a little bit more Googling for the 
+- Don’t plan to learn a whole new technology for the final project. Plan to use
+  mostly what you’ve already learned (with a little bit more Googling for the
   things you run into along the way).
 
 ### What features should you **avoid**?
@@ -64,7 +66,7 @@ able to complete.
 - Forms
 - Payment
 
-We haven’t covered how to collect and save data from users. Don’t plan to build 
+We haven’t covered how to collect and save data from users. Don’t plan to build
 a banking app, a social media website, or an e-commerce site.
 
 ## How should you work together?

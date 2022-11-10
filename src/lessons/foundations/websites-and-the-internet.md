@@ -1,38 +1,42 @@
-# Websites and the internet
-
-## The Web and The Internet
+# The Web and the Internet
 
 ## The Internet
 
-Even though we tend to use "the web" and "the internet" interchangably, they're actually two different things. While 
-the focus of this course is on the web and web development, it's good to have some foundational understanding of the 
-internet. Starting in the 1960s, university and government researchers created a system to share files
+Even though we tend to use "the web" and "the internet" interchangably, they're actually two different things. While
+the focus of this course is on the web and web development, it's good to have some foundational understanding of the
+internet.
+
+Starting in the 1960s, university and government researchers created a system to share files
 between computers. That system, called ARPANET, established protocols for file sharing, routing, and messaging that
 grew into the public internet.
 
-Since then, the internet has grown to become a global network of cables, cell towers, satellites, phones, and computers 
-, all connected by networking protocols descended from those of ARPANET. You may have seen protocols like `http` 
-(it's in the address bar, or at the beginning of a URL). HTTP (the hypertext transfer protocol) and protocols like it 
-are rules that software programs follow so that they understand each other when they
-send messages back and forth on the network.
+Since then, the internet has grown to become a global network of cables, cell towers, satellites, phones, and computers
+, all connected by _networking protocols_ descended from those of ARPANET.
+
+You may have seen protocols like `http` (it's in the address bar, or at the beginning of a URL). **Protocols** like HTTP (the hypertext transfer protocol)
+are _sets of rules_ that software programs follow so that they understand each other.
 
 Connecting billions of different devices requires a lot of rules! There are a
 lot of protocols that make up the modern Internet -- HTTP, TCP/IP, Ethernet,
-DNS, Websockets... Even Bluetooth is a protocol that ends up carrying
-internet traffic! You don't need to know what those acronyms stand for yet. 
-You should know that the internet is made of a lot of devices, connected by a
-set of protocols.
+DNS, Websockets... Even Bluetooth is a protocol that carries internet traffic!
+
+You don't need to know what those acronyms stand for yet. You should
+know that the Internet is made of a lot of devices, connected by protocols.
 
 ## Web Pages
 
 If the Internet is the connections between the computers plus the protocols they
 use to communicate, the Web is the most visible way that people interact with
-the internet in their daily lives. The Web was originally conceived as a
-collection of files and documents, shared and linked together using the internet. 
+the internet in their daily lives.
 
-Web pages are documents, created using HTML, CSS and other web technologies. Web 
-pages can be accessed using a web browser, like Chrome or Edge. Pages contain text, 
-images, links, and other elements. A combination of multiple web pages makes up a **website**.
+The Web was originally conceived as a collection of files and documents,
+shared and linked together using the internet.
+
+Web pages are documents, created using HTML, CSS and other web technologies. Web
+pages can be accessed using a web browser, like Chrome or Edge. Pages contain text,
+images, links, and other elements.
+
+A combination of multiple web pages makes up a **website**.
 
 ## 📺 How does the web work?
 
@@ -54,7 +58,7 @@ Here’s the **main things to focus on**:
 
 1. You use your browser to navigate to a url:
 
-![Screenshot 2022-04-11 at 18.25.20.png](websites-and-the-internet/screenshot-2022-04-11-at-18.25.20.png)
+![Navigating to a URL in the browser](websites-and-the-internet/browser-url-navigation.png)
 
 2. Your browser requests files from a server
 3. The server sends files
@@ -65,7 +69,7 @@ Here’s the **main things to focus on**:
     - others like audio, fonts, and attachments
 4. Your browser turns those files into the page that you see.
 
-![Screenshot 2022-04-11 at 18.26.02.png](websites-and-the-internet/screenshot-2022-04-11-at-18.26.02.png)
+![A successfully rendered webpage, the Kibo homepage](websites-and-the-internet/kibo-homepage-example.png)
 
 <details>
 <summary>
@@ -130,4 +134,3 @@ Some ideas to include in your image: browser, server, files (HTML, CSS, JS)
 > [https://padlet.com/curriculumpad/ds38eg0ahmw35ytq](https://padlet.com/curriculumpad/ds38eg0ahmw35ytq)
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/ds38eg0ahmw35ytq" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-

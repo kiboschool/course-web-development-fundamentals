@@ -15,6 +15,7 @@ CS Professors are notorious for building sites that, while functional, are
 totally unstyled. In this project, you'll put together your own CS Professor
 website.
 
+https://github.com/kiboschool/cs-professor-page
 
 ## Rubric
 

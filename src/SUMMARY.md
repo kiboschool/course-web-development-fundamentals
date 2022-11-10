@@ -15,8 +15,8 @@
   - [HTML Elements and Attributes](lessons/foundations/html-elements-and-attributes.md)
   - [CSS Selectors and Properties](lessons/foundations/css-selectors-and-properties.md)
   - [A Taste of Javascript](lessons/foundations/a-taste-of-javascript.md)
+  - [Browser Devtools](lessons/foundations/devtools.md)
   - [Practice](lessons/foundations/practice.md)
-  - [Devtools Scavenger Hunt](lessons/foundations/devtools-scavenger-hunt.md)
   - [Project](lessons/foundations/project.md)
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
 

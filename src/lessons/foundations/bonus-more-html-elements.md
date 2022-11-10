@@ -95,7 +95,7 @@ Sometimes, you don’t know which semantic element to use. `<div>` stands for �
 
 ### Structure and Page Information
 
-When you create an HTML project in Replit, there is a bunch of HTML in `index.html`. You will not need to write these tags yourself, but here’s what they mean in case you were curious.
+When you create an HTML project, your editor might suggest a bunch of default starter HTML in `index.html`. You will usually not need to write these tags yourself, but here’s what they mean in case you were curious.
 
 <details>
 <summary>
