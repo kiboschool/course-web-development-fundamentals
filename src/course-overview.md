@@ -95,8 +95,7 @@ More details about live classes and your assignments are given on the next pages
 ## Tools
 
 In this course, we are using these tools to work on code. If you haven't set up 
-your laptop and installed the software yet, follow the guide in 
-[https://github.com/kiboschool/setup-guides]https://github.com/kiboschool/setup-guides
+your laptop and installed the software yet, follow the guide in [https://github.com/kiboschool/setup-guides](https://github.com/kiboschool/setup-guides)
 
 *Github* is a website that hosts code. We'll use it as a place to keep our project 
 and assignment code. *Github Classroom* is a tool for assigning individual and 
