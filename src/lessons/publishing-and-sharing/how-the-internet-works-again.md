@@ -28,10 +28,9 @@ This week, we’ll focus on Domain Names, since that’s what you need to know a
 
 <aside>
 
-
 🎥 Check out the following videos about how the Internet works.
 
-In the Week 1 lessons, we included a video from [Code.org](http://Code.org) about [HTTP and HTML (YouTube)](https://www.youtube.com/watch?v=kBXQZMmiA4s) (watch it again if you want!)
+In the Week 1 lessons, we included a video from Code.org about [HTTP and HTML (YouTube)](https://www.youtube.com/watch?v=kBXQZMmiA4s) (watch it again if you want!)
 
 Code.org has a whole series of videos about the Internet. If you are curious about any of these topics, check them out for a great overview.
 
@@ -48,14 +47,13 @@ Or check out the full playlist [How the Internet Works](https://www.youtube.com/
 
 In the next few lessons, you’ll learn:
 
-- To use Replit and Github as the server for your site
+- To use Github Pages as the server for your site
 - How to configure a custom domain name
 - Other tips and tricks to make sharing your site great
 
 ## Draw the Internet: Revisited
 
 <aside>
-
 
 ✏️ Remember in Week 1, when you drew a picture of the internet?
 
