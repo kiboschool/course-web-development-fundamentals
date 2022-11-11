@@ -13,6 +13,8 @@ If you get stuck, confused, or have trouble with the project, you should use the
 
 This project is a chance to show off your creativity! You'll create a profile web page using fundamental HTML elements. You'll use what you've learned about web design to style your profile page.
 
+https://github.com/kiboschool/cs-professor-css
+
 ## Rubric
 
 | Points | Criteria | Description |

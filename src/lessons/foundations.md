@@ -15,6 +15,7 @@ After this week, you will be able to:
 - Select and apply styles using CSS
 - Use a script tag to include a JavaScript file on a webpage
 
+<!-- 
 ## Welcome Video
 
-<!-- TODO: Welcome video from your Instructor, Wasiu-->
+TODO: Welcome video from your Instructor, Wasiu-->

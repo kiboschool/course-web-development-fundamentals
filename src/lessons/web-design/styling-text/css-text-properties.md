@@ -13,19 +13,6 @@ Using CSS, we can control the appearance of the text, including:
 
 Using these properties, we can make the text look good!
 
-## Key rules for Typography
-
-- Point size should be 15-25 pixels
-- Line spacing should be 120–145% of the point size
-- Line length should be 45–90 characters (including spaces)
-- Less color is more effective
-
-<aside>
-
-📘 In this lesson, we refer several times to Matthew Butterick’s book [Practical Typography](http://practicaltypography.com). It’s great further reading material, if you are curious to learn more about typography.
-
-</aside>
-
 You can use CSS to control these properties. The properties are:
 
 - `font-size`
@@ -33,7 +20,36 @@ You can use CSS to control these properties. The properties are:
 - `max-width` (for controlling the length of each line)
 - `color` and `background-color`
 
-### Point size should be 15-25 pixels
+<aside>
+
+📘 In this lesson, we refer several times to Matthew Butterick’s book [Practical Typography](http://practicaltypography.com). It’s great further reading material, if you are curious to learn more about typography.
+
+</aside>
+
+## Practice: Good Text, Bad Text
+
+<aside>
+
+🔤 Practice using the properties to style text.
+
+Follow the instructions to style one paragraph of the text to look good and
+the other to look bad! You can refer to the Key Rules below for help on styling
+the good text.
+
+https://github.com/kiboschool/good-text-bad-text
+
+</aside>
+
+
+## Key rules for Typography
+
+- Point size should be 15-25 pixels
+- Line spacing should be 120–145% of the point size
+- Line length should be 45–90 characters (including spaces)
+- Less color is more effective
+
+
+### Body text point size should be 15-25 pixels
 
 `font-size` is the relevant CSS property, so the recommendation is body text between `font-size: 15px` and `font-size: 25px`.
 
@@ -82,7 +98,7 @@ body {
 
 ### Summary
 
-Combining all the rules above:
+Combining all the rules above, here's a default style for body text:
 
 ```css
 body {
@@ -96,25 +112,13 @@ body {
 
 There's lots of wiggle room! You don't need to use _exactly_ these rules.
 
-## Practice: CSS Text Properties
-
-<aside>
-
-🔤 Practice using the properties to style text. Follow the instructions in the Repl.
-
-[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties)
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Practice-CSS-Text-Properties" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ## Further Exploration
 
 ### What makes good Typography?
 
 Butterick’s page [What is good typography?](https://practicaltypography.com/what-is-good-typography.html) says
 
-> "Good typography makes reinforces the meaning of the text."
+_"Good typography reinforces the meaning of the text."_
 
 There's lots to learn about what makes typography good.
 
@@ -135,7 +139,7 @@ For each of the terms you don’t understand, try doing a quick google search to
 
 ### Text and Font Styling
 
-There's lots more to text styling that we didn't cover here.
+There's also lots more to learn about the CSS properties for text styling. 
 
 <details><summary><strong>Read more: Text and Font Styling</strong></summary>
 
