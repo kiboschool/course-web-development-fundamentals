@@ -73,7 +73,8 @@ while read -r project; do
         echo $project
         git checkout main
         name=$(echo $project | cut -d '/' -f 3)
-        gh repo create "kibo-web-foundations-oct-22/$name" --source=. --private --template --remote=oct-22 --push 
+        gh repo create "kibo-web-foundations-oct-22/$name" --source=. --private --remote=oct-22 --push 
+        gh repo edit "kibo-web-foundations-oct-22/$name" --template 
         popd
 done
 ```
@@ -122,47 +123,9 @@ co main
 - assumes there's a solution.py file in .lesson that is the solution
 - Does some fairly aggro git pushing, rewriting remote history. Take care.
 
-## Exercise Tree
+## Exercises 
 
-After you run 'clone all' script, you should have a directory `.exercises` so that `tree
--L 2 .exercises` shows the following (as of Sept 25 2022):
+After you run 'clone all' script, you should have a directory `.exercises` with
+the exercises in the `list-of-exercises.txt` file
 
-```
-.exercises
-├── 01-foundations
-│   ├── basic-elements
-│   ├── chicken-peanut-stew
-│   ├── cs-professor-page
-│   ├── greeting-card
-│   ├── opes-tea-shop
-│   ├── shirt-city
-│   ├── taste-test
-│   └── tea-shop-select-elements
-├── 02-web-design
-│   ├── biography-page
-│   ├── box-model-practice
-│   ├── community-college
-│   ├── good-text-bad-text
-│   ├── laid-back-recipes-palette
-│   ├── peanut-stew-two
-│   ├── voices-of-open-source
-│   └── wanted-poster
-├── 03-multimedia-and-layout
-│   ├── absolute-robot
-│   ├── block-and-inline
-│   ├── laid-back-recipes-layout
-│   ├── maps-and-videos
-│   ├── mini-kibo-website
-│   └── recreate-rest-of-world
-├── 04-action-and-interaction
-│   ├── click-counter
-│   ├── content-gallery
-│   ├── hide-the-bunny
-│   ├── kibo-slide-show
-│   ├── the-cat-that-disappeared
-│   └── video-like-button
-├── 05-publishing-and-sharing
-│   ├── laid-back-recipes-link-preview
-│   └── write-a-readme
-└── projects
-```
+`tree -L 2 .exercises` shows the exercises.
