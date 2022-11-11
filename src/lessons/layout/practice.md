@@ -27,6 +27,14 @@ https://github.com/kiboschool/mini-kibo-website
 
 </aside>
 
+## Profile Page Layout
+
+<aside>
+
+Follow the instructions to create the layout for your profile page.
+
+</aside>
+
 ## Landing Page Recreation
 
 <aside>

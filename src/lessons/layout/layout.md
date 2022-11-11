@@ -4,13 +4,9 @@ With the Box Model, you can control the size and spacing in and around elements.
 
 In this lesson, you’ll learn about laying out the elements on the page.
 
+> 🚧 Layout can be time-consuming and difficult. Be patient!
+
 ![Examples of page layouts, using colored boxes to suggest elements arranged around a web page.](layout/layout.png)
-
-<aside>
-
-🚧 Layout can be time-consuming and difficult. Be patient!
-
-</aside>
 
 ## CSS Layout
 
@@ -35,37 +31,16 @@ In this lesson, we’re leaving out things you might want to learn eventually. L
 - Table layout
 - Multi-column layout
 - Responsive design and media queries
-- Grid
 
 Check out [MDN’s Introduction to CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction) for an overview of layout topics.
 
 </details>
 
-## Normal Flow
-
-**Normal flow** is how elements are laid out on the page by default.
-
-![Normal flow. Elements are 100% width and stack on each other.](layout/normal-flow.png)
-
-In Normal Flow, block elements stack on top of each other, each on its own line.
-
-- **Block elements** fill up 100% of the available width. Usually, that’s the width of the screen. They are as tall as their content.
-
-- **Inline elements**, like links and spans, are laid out inside the block elements, and don’t go on new lines.
-
-Read more about [Normal flow on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow).
-
 ## Display
 
-<aside>
-
-
-🎥 **Video: Watch this video from WDS on CSS `display`**
-
-</aside>
-
+<details><summary><strong> 🎥 Watch this video from WDS on CSS `display`</strong></summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Qf-wVa9y9V4?start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+</details>
 
 The `display` property controls how each element gets treated in the flow.
 
@@ -112,9 +87,39 @@ https://github.com/kiboschool/block-and-inline
 
 This is particularly useful if you want to hide something, like if it should only appear when a button is clicked.
 
-It doesn’t have inside or outside display values.
+### `display: flex;`
 
-### Inside Display
+This turns the contents into a _Flexbox_.
+
+You'll learn about Flexbox in another lesson.
+
+### `display: grid;`
+
+This turns the contents into a _Grid_.
+
+You'll learn about Grid in another lesson.
+
+<details>
+<summary><strong>Normal Flow</strong></summary>
+
+**Normal flow** is how elements are laid out on the page by default.
+
+![Normal flow. Elements are 100% width and stack on each other.](layout/normal-flow.png)
+
+In Normal Flow, block elements stack on top of each other, each on its own line.
+
+- **Block elements** fill up 100% of the available width. Usually, that’s the width of the screen. They are as tall as their content.
+
+- **Inline elements**, like links and spans, are laid out inside the block elements, and don’t go on new lines.
+
+When you learn about Flex and Grid, those are _alternate flow modes_. Elements will no longer follow the normal flow rules.
+
+> Read more about [Normal flow on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow).
+
+</details>
+
+<details>
+<summary><strong>Inside Display</strong></summary>
 
 So far, we’ve only talked about _Normal flow_, using block and inline elements.
 There are other flow modes that make creating certain layouts much easier.
@@ -125,9 +130,6 @@ layout rules.
 
 The only other flow mode we’re going to explore in depth is `flex`. You might
 come across grid and table layouts.
-
-<details>
-<summary>Further Exploration: Inside Display values</summary>
 
 The [MDN reference on the CSS display property](https://developer.mozilla.org/en-US/docs/Web/CSS/display) lists comprehensive information about what the possible display values are. You can get by without knowing most of them, but the possible inside display values are `flow`, `flow-root`, `table`, `flex`, `grid`, and `ruby`.
 

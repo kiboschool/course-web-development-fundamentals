@@ -18,6 +18,7 @@
   - [Browser Devtools](lessons/foundations/devtools.md)
   - [Practice](lessons/foundations/practice.md)
   - [Project](lessons/foundations/project.md)
+  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
 
 ### Week 2
@@ -45,11 +46,15 @@
 
 ### Week 4
 
-- [Layout](lessons/layout/layout.md)
+- [Layout and Multimedia](lessons/layout.md)
+  - [Layout](lessons/layout/layout.md)
   - [Flexbox](lessons/layout/flexbox.md)
   - [CSS Grid](lessons/layout/grid.md)
   - [Positioning](lessons/layout/positioning.md)
+  - [Multimedia Elements](lessons/bonus/multimedia-layout/multimedia-html-elements.md)
   - [Practice](lessons/layout/practice.md)
+  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
+  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
 
 ### Week 5
 

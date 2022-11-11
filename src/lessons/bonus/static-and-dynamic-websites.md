@@ -1,4 +1,4 @@
-### Static vs. Dynamic websites
+# Bonus: Static vs. Dynamic websites
 
 The content of a web page can either be **static** or **dynamic**.
 
