@@ -108,10 +108,9 @@ The other attributes are new:
 
 ## Practice: Maps and Videos
 
-📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
-
-> [Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Add-Embedded-Videos-and-Maps)
-
+> 📺 Practice using the `<iframe>` element by embedding a map and a video into a page.
+>
+> https://github.com/kiboschool/maps-and-videos
 
 ## Audio and Video
 

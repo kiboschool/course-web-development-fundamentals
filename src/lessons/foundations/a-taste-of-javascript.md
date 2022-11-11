@@ -36,7 +36,7 @@ https://github.com/kiboschool/taste-test
 
 Look at all the places it uses CSS Selectors:
 
-```jsx
+```js
 document.querySelector('#gross')
 document.querySelector('.reaction')
 document.querySelector('#yum')

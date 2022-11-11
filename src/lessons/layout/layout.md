@@ -100,7 +100,7 @@ element show up inline, but take up space like a block.
 
 📺 Practice using the `display` property and your new understanding of inline and block elements.
 
-[Access and attempt the exercise here](https://replit.com/team/web-foundations-july-2022/Practice-Block-and-Inline)
+https://github.com/kiboschool/block-and-inline
 
 </aside>
 
