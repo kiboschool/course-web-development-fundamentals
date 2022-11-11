@@ -33,6 +33,8 @@ https://github.com/kiboschool/mini-kibo-website
 
 Follow the instructions to create the layout for your profile page.
 
+https://github.com/kiboschool/profile-page-layout
+
 </aside>
 
 ## Landing Page Recreation
