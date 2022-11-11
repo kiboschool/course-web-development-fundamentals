@@ -15,7 +15,7 @@ If you get stuck, confused, or have trouble with the project, you should use the
 > totally unstyled. In this project, you'll put together your own **CS Professor
 > website**.
 >
-> https://github.com/kiboschool/cs-professor-page
+>[![cs-professor-page](https://img.shields.io/static/v1?label=Open%20Project&message=cs%20professor%20page&color=blue)](https://classroom.github.com/a/i3eYXJJ7)
 
 ## Rubric
 

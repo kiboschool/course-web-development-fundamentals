@@ -23,7 +23,7 @@ both of your names are linked to the submission in Github and Gradescope.
 In this project, you’ll combine interactive elements with CSS and JavaScript to
 build an interactive gallery of content.
 
-https://github.com/kiboschool/content-gallery
+[![content-gallery](https://img.shields.io/static/v1?label=Open%20Project&message=content%20gallery&color=blue)](https://classroom.github.com/a/DylLWGdB)
 
 ## Rubric
 

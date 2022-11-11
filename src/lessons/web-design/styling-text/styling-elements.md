@@ -1,13 +1,13 @@
 # Styling Elements
 
-Most of the text on the page is body text, so the styling recommendations so far 
+Most of the text on the page is body text, so the styling recommendations so far
 have been about body text. But, there’s other text on the page too!
 
 Let's see how to style different kinds of elements.
 
 ## Headings
 
-Like you learned in Week 1, you can use the `<h1>` through `<h6>` tags for 
+Like you learned in Week 1, you can use the `<h1>` through `<h6>` tags for
 headings. You can and should style those elements.
 
 Here’s the suggested rules:
@@ -23,7 +23,7 @@ Here’s the suggested rules:
 
 ## Emphasis
 
-You can use the `<strong>` and `<em>` tags to create emphasis. You can style 
+You can use the `<strong>` and `<em>` tags to create emphasis. You can style
 those elements to create further contrast, if you want.
 
 - **Bold** text creates strong emphasis
@@ -55,13 +55,13 @@ People visually recognize links because they are styled differently from other t
 Often, they are colored differently and underlined.
 
 - Links are a good time to use an accent color to style text.
-- You can change the `text-decoration` - you can remove the underline, or show 
+- You can change the `text-decoration` - you can remove the underline, or show
   it only on hover.
 - You can style other properties, like `background-color` and `border-bottom`.
 - Link states: hover, visited, active
 
-Links can show differently when they are hovered over, or after they’ve been 
-clicked. To apply styles to particular states, you need a new kind of selector: 
+Links can show differently when they are hovered over, or after they’ve been
+clicked. To apply styles to particular states, you need a new kind of selector:
 the `:hover` and `:visited` pseudo-selectors.
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="QWxpapp" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -81,14 +81,14 @@ It’s also nice to be able to make the cursor show differently when hovering so
 
 🏫 Practice applying what you’ve learned about styling text by styling the homepage for a school.
 
-https://github.com/kiboschool/community-college
+[![community-college](https://img.shields.io/static/v1?label=Open%20Project&message=community%20college&color=blue)](https://classroom.github.com/a/x93QLZ8v)
 
 </aside>
 
 ### Further Exploration: Styling Lists
 
-You can control the appearance of lists using the text styling and spacing CSS 
-properties. There’s also some additional properties to control the appearance 
-of list items. 
+You can control the appearance of lists using the text styling and spacing CSS
+properties. There’s also some additional properties to control the appearance
+of list items.
 
 > Read more about [styling lists on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists).

@@ -131,6 +131,6 @@ You won’t learn everything about JavaScript syntax in this course. Instead, yo
 
 🐈 Practice hiding elements by making the cat disappear after a few seconds.
 
-https://github.com/kiboschool/the-cat-that-disappeared
+[![the-cat-that-disappeared](https://img.shields.io/static/v1?label=Open%20Project&message=the%20cat%20that%20disappeared&color=blue)](https://classroom.github.com/a/Mdmqw6la)
 
 </aside

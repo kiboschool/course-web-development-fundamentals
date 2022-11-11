@@ -184,7 +184,7 @@ margin: 0;
 
 ↔️ Practice applying the box model properties.
 
-https://github.com/kiboschool/box-model-practice
+[![box-model-practice](https://img.shields.io/static/v1?label=Open%20Project&message=box%20model%20practice&color=blue)](https://classroom.github.com/a/3-ZF_ans)
 
 </aside>
 

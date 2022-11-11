@@ -36,7 +36,7 @@ Follow the instructions to style one paragraph of the text to look good and
 the other to look bad! You can refer to the Key Rules below for help on styling
 the good text.
 
-https://github.com/kiboschool/good-text-bad-text
+[![good-text-bad-text](https://img.shields.io/static/v1?label=Open%20Project&message=good%20text%20bad%20text&color=blue)](https://classroom.github.com/a/Xg_qjeOQ)
 
 </aside>
 
@@ -139,7 +139,7 @@ For each of the terms you don’t understand, try doing a quick google search to
 
 ### Text and Font Styling
 
-There's also lots more to learn about the CSS properties for text styling. 
+There's also lots more to learn about the CSS properties for text styling.
 
 <details><summary><strong>Read more: Text and Font Styling</strong></summary>
 

@@ -47,8 +47,8 @@ If you don’t have enough **contrast**, the text won’t be readable.
 
 In the lesson on Styling Text, we said
 
-> Your primary goal should be to create *contrast* between the background color 
-> and the text color. Dark text on a dark background is hard to read. So is 
+> Your primary goal should be to create *contrast* between the background color
+> and the text color. Dark text on a dark background is hard to read. So is
 > light text on a light background.
 >
 > Usually, the best choice is black or dark gray text, on a white or near-white background.
@@ -155,6 +155,6 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 This recipe page has most of the styling done already, but it needs color.
 
-https://github.com/kiboschool/laid-back-recipes-palette
+[![laid-back-recipes-palette](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20palette&color=blue)](https://classroom.github.com/a/lejpR3ZB)
 
 </aside>

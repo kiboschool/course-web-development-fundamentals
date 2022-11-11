@@ -12,7 +12,7 @@
 
 📽️ Practice writing a Readme for an HTML slide show project.
 
-https://github.com/kiboschool/write-a-readme
+[![write-a-readme](https://img.shields.io/static/v1?label=Open%20Project&message=write%20a%20readme&color=blue)](https://classroom.github.com/a/GpcMnSUe)
 
 </aside>
 
@@ -24,7 +24,7 @@ https://github.com/kiboschool/write-a-readme
 
 👀 Add tags to this site so that it has a cool preview when shared on social media or viewed in search results.
 
-https://github.com/kiboschool/laid-back-recipes-link-preview
+[![laid-back-recipes-link-preview](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20link%20preview&color=blue)](https://classroom.github.com/a/ZsHHXM70)
 
 </aside>
 

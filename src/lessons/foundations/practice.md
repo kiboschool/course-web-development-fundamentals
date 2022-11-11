@@ -16,17 +16,17 @@
 ## Chicken Peanut Stew Recipe Page
 
 > 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
-> 
-> https://github.com/kiboschool/chicken-peanut-stew
+>
+> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/O9b8VYk_)
 
 ## Shirt City Landing Page: Debug
 
 > 👕 Help the new clothing brand Shirt City debug their landing page.
-> 
-> https://github.com/kiboschool/shirt-city
+>
+> [![shirt-city](https://img.shields.io/static/v1?label=Open%20Project&message=shirt%20city&color=blue)](https://classroom.github.com/a/CiIkIvVu)
 
 ## Make a Greeting Card
 
 > 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
 >
-> https://github.com/kiboschool/greeting-card
+> [![greeting-card](https://img.shields.io/static/v1?label=Open%20Project&message=greeting%20card&color=blue)](https://classroom.github.com/a/mAHJBeEw)

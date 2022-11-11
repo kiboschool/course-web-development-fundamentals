@@ -66,10 +66,10 @@ In the HTML file, we’ll link to `style.css` using the `<link>` tag:
 ## Practice: Link the stylesheet
 
 > Add the `<link>` tag to this HTML page so that the styles are connected.
-> 
+>
 > 👉🏿 Use the link below to attempt the practice exercise
 >
-> https://github.com/kiboschool/opes-tea-shop
+> [![opes-tea-shop](https://img.shields.io/static/v1?label=Open%20Project&message=opes%20tea%20shop&color=blue)](https://classroom.github.com/a/PuiZLhPw)
 
 ## CSS Syntax
 

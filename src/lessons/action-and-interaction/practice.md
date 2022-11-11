@@ -12,7 +12,7 @@
 
 🔢 Practice JavaScript by making a button that tracks how many times it’s been clicked.
 
-https://github.com/kiboschool/click-counter
+[![click-counter](https://img.shields.io/static/v1?label=Open%20Project&message=click%20counter&color=blue)](https://classroom.github.com/a/IlUgsNC9)
 
 </aside>
 
@@ -22,7 +22,7 @@ https://github.com/kiboschool/click-counter
 
 📽️ You don’t need PowerPoint or Google Slides! You can use _JavaScript_ instead.
 
-https://github.com/kiboschool/kibo-slide-show
+[![kibo-slide-show](https://img.shields.io/static/v1?label=Open%20Project&message=kibo%20slide%20show&color=blue)](https://classroom.github.com/a/OTcC6rdQ)
 
 </aside>
 
@@ -38,7 +38,7 @@ If you get stuck on the Slide Show exercise, you can view a solution here: <div 
 
 👍🏿 Make the Like button count up, similar to YouTube’s Like button.
 
-https://github.com/kiboschool/video-like-button
+[![video-like-button](https://img.shields.io/static/v1?label=Open%20Project&message=video%20like%20button&color=blue)](https://classroom.github.com/a/JD7zzCmT)
 
 </aside>
 
@@ -48,6 +48,6 @@ https://github.com/kiboschool/video-like-button
 
 Follow the steps to add interactivity to your Profile Page.
 
-https://github.com/kiboschool/profile-page-js
+[![profile-page-js](https://img.shields.io/static/v1?label=Open%20Project&message=profile%20page%20js&color=blue)](https://classroom.github.com/a/XYnNkPL8)
 
 </aside>

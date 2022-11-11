@@ -306,5 +306,5 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 ## Practice: Use the basic elements
 
 > 👉🏿 Your turn! Use these tags to mark up the page.
-> 
-> https://github.com/kiboschool/basic-elements
+>
+> [![basic-elements](https://img.shields.io/static/v1?label=Open%20Project&message=basic%20elements&color=blue)](https://classroom.github.com/a/qe8bdlLT)

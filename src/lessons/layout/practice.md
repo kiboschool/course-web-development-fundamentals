@@ -12,7 +12,7 @@
 
 🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.
 
-https://github.com/kiboschool/laid-back-recipes-layout
+[![laid-back-recipes-layout](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20layout&color=blue)](https://classroom.github.com/a/C8T3JNTL)
 
 </aside>
 
@@ -23,7 +23,7 @@ https://github.com/kiboschool/laid-back-recipes-layout
 🍽️ Help improve a mini version of the Kibo website. Practice using multimedia
 elements, flexbox and position.
 
-https://github.com/kiboschool/mini-kibo-website
+[![mini-kibo-website](https://img.shields.io/static/v1?label=Open%20Project&message=mini%20kibo%20website&color=blue)](https://classroom.github.com/a/7XFYiSJ1)
 
 </aside>
 
@@ -33,7 +33,7 @@ https://github.com/kiboschool/mini-kibo-website
 
 Follow the instructions to create the layout for your profile page.
 
-https://github.com/kiboschool/profile-page-layout
+[![profile-page-layout](https://img.shields.io/static/v1?label=Open%20Project&message=profile%20page%20layout&color=blue)](https://classroom.github.com/a/DaKY3Z8y)
 
 </aside>
 
@@ -43,7 +43,7 @@ https://github.com/kiboschool/profile-page-layout
 
 This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
 
-https://github.com/kiboschool/recreate-rest-of-world
+[![recreate-rest-of-world](https://img.shields.io/static/v1?label=Open%20Project&message=recreate%20rest%20of%20world&color=blue)](https://classroom.github.com/a/-YPq4B8F)
 
 **Warning**: This project is quite extensive. Only tackle it if you are sure you have time.
 

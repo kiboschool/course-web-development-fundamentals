@@ -30,7 +30,7 @@ project is your chance to build a website of your own design from scratch.
 There are few requirements. You must use the knowledge you learned in the
 course, as outlined in the rubric below.
 
-https://github.com/kiboschool/wf-final-project
+[![final-project](https://img.shields.io/static/v1?label=Open%20Project&message=final%20project&color=blue)](https://classroom.github.com/a/_yuQgueb)
 
 ## Rubric
 
