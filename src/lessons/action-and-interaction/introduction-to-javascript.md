@@ -7,7 +7,7 @@ As you’ve heard lots of times by now, HTML is for the content and structure of
 <aside>
 
 
-⚠️ JavaScript is a deep topic.
+⚠️ **JavaScript is a deep topic.**
 
 You’ll learn a little bit of JavaScript in the next few lessons, enough to add some basic interactivity to your pages. There’s way more JavaScript to learn later, which we aren’t covering here. After this course, you can find other resources to pursue further learning in JavaScript.
 

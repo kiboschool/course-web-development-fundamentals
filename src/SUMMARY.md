@@ -37,6 +37,7 @@
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
+  - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
   - [JavaScript and the page](lessons/action-and-interaction/javascript-and-the-page.md)
   - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
   - [Practice](lessons/action-and-interaction/practice.md)
@@ -58,3 +59,4 @@
     - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
+    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
