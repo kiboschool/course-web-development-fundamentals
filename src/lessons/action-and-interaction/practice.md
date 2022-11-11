@@ -48,6 +48,6 @@ https://github.com/kiboschool/video-like-button
 
 Follow the steps to add interactivity to your Profile Page.
 
-
+https://github.com/kiboschool/profile-page-js
 
 </aside>
