@@ -18,8 +18,8 @@
   - [Browser Devtools](lessons/foundations/devtools.md)
   - [Practice](lessons/foundations/practice.md)
   - [Project](lessons/foundations/project.md)
-  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
+  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
 
 <!-- 
 ### Week 2
