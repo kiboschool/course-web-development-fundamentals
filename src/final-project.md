@@ -4,7 +4,6 @@
 
 **Due Date: Dec 16**
 
-<!--
 <aside>
 
 👥 **This is a team project**. You can work with teammates you’ve worked with
@@ -20,15 +19,11 @@ Replit and sharing the join link with your teammate. You should be sure that
 both of your names are linked to the submission in Github and Gradescope.
 
 </aside>
--->
 
 # Description
 
 Your final project will be a website you design and create with a team.
 
-More details will be shared later in the course.
-
-<!--
 You’ve learned a ton about HTML, CSS, and JavaScript in this course. The final
 project is your chance to build a website of your own design from scratch.
 
@@ -83,5 +78,3 @@ It may be helpful to create a **design doc**. Using Google docs or a text file i
 A design doc can also help you track what work you’ve done, and what work is left to do.
 
 ### ✨✨Have fun!✨✨
-
--->
