@@ -1,29 +1,27 @@
-# Project: Your “CS Professor” Home Page
+# Project: Your “CS Professor” Page
 
 <aside>
 
-**👥 This is a team project.**
 
-Find a teammate (or two teammates, for a maximum of three students per team) from your squad, and schedule time to work on the project together.
+💡 This is an individual project. You are expected to work independently.
 
-If you have trouble finding a partner, or have trouble with the project, use the **#help-web** channel in Discord. You can work with anyone, you are not restricted to your squad. You are also allowed to work on your own, but it’s good practice to work together.
-
-You can work together by sharing your screen, or by creating a new replit and sharing the join link with your teammate. You should each submit a copy of the project, but it can be copied from your teammate’s version (**which you all created together**!).
+If you get stuck, confused, or have trouble with the project, you should use the **#help-web** channel in Discord or message an instructor. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
 </aside>
 
-## 👩🏾‍🏫 **CS Professor Home Page**
+## 👩🏾‍🏫 Your CS Professor page
 
-This project is a chance to show off your creativity! You'll create a “CS Professor” web page using fundamental HTML elements.
-
-> 👉🏿 Access and submit the project in Replit using this link
+> CS Professors are notorious for building sites that, while functional, are
+> totally unstyled. In this project, you'll put together your own **CS Professor
+> website**.
 >
-> [https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page](https://replit.com/team/web-foundations-july-2022/CS-Professor-Home-Page)
+>[![cs-professor-page](https://img.shields.io/static/v1?label=Open%20Project&message=cs%20professor%20page&color=blue)](https://classroom.github.com/a/i3eYXJJ7)
 
-Remember...
+## Rubric
 
-- **Read** the instructions tab in Replit
-- **Plan** before you code
-- **Debug** if you aren't getting the desired output
-- **Attend** office hours if you need additional support
-- **Ask** for help in Discord
+| Points | Criteria | Description |
+|---|---|---|
+| 30 pts | Site is complete  | - valid HTML and CSS<br>- no errors|
+| 20 pts | Site uses appropriate HTML elements | - Should use 5 different elements<br>- Elements should be used for their intended purposes |
+| 10 pts | (Bonus) Code is styled well | - indented properly<br>- organized effectively<br>- appropriately commented |
+| **50** | **Total** | 60 possible points with the bonus, scored out of 50 |

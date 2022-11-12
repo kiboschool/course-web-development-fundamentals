@@ -13,6 +13,7 @@ After this week, you will be able to:
 - Use the console to experiment with JavaScript on a page
 - Write JavaScript to make changes on the page in response to user actions
 
+<!-- 
 ## Welcome Video
 
-<!-- TODO: welcome video -->
+TODO: welcome video -->

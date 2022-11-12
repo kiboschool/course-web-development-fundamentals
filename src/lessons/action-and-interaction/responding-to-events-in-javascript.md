@@ -4,19 +4,26 @@ An interactive page changes when the user takes an action. In the last lesson, y
 
 ## Listening For Events
 
-Click the link below to check out the demo. Run the program, and be sure to also look at the code.
+Check out the demo below. Click the button to see it in action, and be sure to look at the code.
 
-> [Access the demo here](https://replit.com/@kibocurriculum/Event-Listener-Demo#script.js)
+<p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="qBKrJpb" data-editable="true" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/rrcobb/pen/qBKrJpb">
+  Event Listener Demo</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 ### `addEventListener`
 
 ```javascript
-button.addEventListener('click', () => {
+button.addEventListener('click', function() {
 	console.log("clicked");
 })
 ```
 
-Events happen when the user does something. `addEventListener` is how you set up code to run when an event happens. JavaScript will run the code between the curly braces `{}` when the button is clicked.
+_Events_ happen when the user does something, like click on the button.
+
+`addEventListener` lets  you set up code to run when an event happens. JavaScript will run the code between the curly braces `{}` when the button is clicked.
 
 <details><summary>Further Reading: Events</summary>
 
@@ -26,11 +33,13 @@ The [MDN guide on Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScr
 
 ## Practice: Hide on click
 
-🙈 The bunny is quite timid. It runs away when someone is near. Or, at least, it should! Help the bunny hide with an Event Listener
-
 <aside>
 
-[Access the exercise here](https://replit.com/team/web-foundations-july-2022/Hide-on-click)
+🙈 The bunny is quite timid. It runs away when someone is near. Or, at least, it should! Help the bunny hide with an Event Listener
+
+[![hide-the-bunny](https://img.shields.io/static/v1?label=Open%20Project&message=hide%20the%20bunny&color=blue)](https://classroom.github.com/a/8keOAr4m)
+
+</aside>
 
 <details>
 <summary><strong>Solution: Hide on click</strong></summary>
@@ -41,28 +50,24 @@ If you get stuck, you can watch this video to see how to solve the exercise.
 
 </details>
 
-</aside>
-
-
 ### Further reading: Available events
 
 You can listen to more events than just `'click'`. MDN has [a reference page listing all of the available events](https://developer.mozilla.org/en-US/docs/Web/Events). There are a lot!
 
 ## Debugging
 
-Things don’t always go as planned when writing code. When writing HTML and CSS, you might have learned some tricks that helped you solve problems when things weren’t working as planned. Here’s some tricks that work in general:
+Here's some tricks help when things don't work as planned:
 
-- Make small changes, then run the code to see what’s changed
-- If there’s an error message, read the message. Try to copy and paste the error message into Google.
-- Pay close attention to the syntax. A lot of errors happen because of missing parentheses and brackets, or because of typos.
-- Isolate the problem. Try removing code until the problem is gone, then adding things back piece by piece to see which piece was wrong.
+- **Make small changes**, then run the code to see what’s changed
+- **Read the error** If there’s an error message, read the message. If you don't understand it, try to copy and paste the error message into Google, or ask the community.
+- **Check your syntax** A lot of errors happen because of missing parentheses and brackets, or because of typos.
+- **Isolate the problem**. Try removing code until the problem is gone, then adding things back piece by piece to see which piece was wrong.
 
-Now that you’re writing JavaScript, there are new kinds of bugs, and new tools for debugging them. Here are some strategies that can help:
+These strategies help with JavaScript in particular:
 
-- Try individual pieces of code in the console to confirm that they work as you expect them to
-- Use `alert` and `console.log` to show values at different points in your code, or to make sure that the code is actually running
-
-It’s even more important that you build solutions piece by piece. The exercises and practice activities are intended to walk you through the pieces step by step. As you get more practice, try planning those steps yourself, then writing code to complete them.
+- **Use the console**: Try individual pieces of code in the console to confirm that they work as you expect them to
+- **Use `alert` and `console.log`** to show values at different points in your code, or to make sure that the code is actually running
+- **Build piece by piece**. The exercises walk you through solutions step by step. As you get more practice, try planning the steps yourself, then writing the code.
 
 ### Further reading: Debugging
 

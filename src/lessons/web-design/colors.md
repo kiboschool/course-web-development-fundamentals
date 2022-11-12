@@ -8,8 +8,6 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HxztHgRN8I4" title="CSS Colors" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<br>
-
 # Colors in CSS
 
 CSS has lots of properties that deal with color. The primary ones you’ll deal with are
@@ -43,14 +41,17 @@ As usual, MDN has your guide. The page on [color values](https://developer.mozil
 
 # Choosing Good Colors
 
-Choosing bad colors makes a site look amateurish. If you don’t have enough **contrast**, the text won’t be readable.
+Choosing bad colors makes a site look amateurish. So, what makes good colors?
+
+If you don’t have enough **contrast**, the text won’t be readable.
 
 In the lesson on Styling Text, we said
 
-> Your primary goal should be to create *contrast* between the background color and the text color. Dark text on a dark background is hard to read. So is light text on a light background.
-
-Usually, the best choice is black or dark gray text, on a white or near-white background.
+> Your primary goal should be to create *contrast* between the background color
+> and the text color. Dark text on a dark background is hard to read. So is
+> light text on a light background.
 >
+> Usually, the best choice is black or dark gray text, on a white or near-white background.
 
 This is still true.
 
@@ -58,10 +59,12 @@ This is still true.
 
 When designers create a color palette, they usually pick:
 
-- a **background** color (usually an off-white, like `#eeeeee`).
-- a **body font color** (usually a dark gray, like `#222222`).
-- an **Accent** color, for links and highlights.
-- a **Theme** color, or several related **theme colors,** for background colors for the header and footer.
+- **Theme** color (or several related **theme colors**) for background colors for the header and footer.
+- **Accent** color, for links and highlights.
+- **Background** color (usually an off-white, like `#eeeeee`).
+- **Body font color** (usually a dark gray, like `#222222`).
+
+### Try it: Count the colors
 
 <aside>
 
@@ -71,14 +74,14 @@ Kibo has a colorful homepage! But, if you actually count up the colors on the pa
 
 1. Try to count up all the colors on the page. How many are there?
 2. What roles do the colors play?
+    - What is the theme color?
+    - What is the accent color?
     - What color is the body text?
     - What color is the background?
-    - What’s the theme color?
-    - What’s the accent color?
 
 </aside>
 
-## A color palette
+## Try it: A color palette
 
 Even on a site that looks very colorful, there’s only a handful of colors.
 
@@ -152,8 +155,6 @@ Try to match the color in the smaller circle by picking the same color on the wh
 
 This recipe page has most of the styling done already, but it needs color.
 
-[Access the repl here](https://replit.com/team/web-foundations-july-2022/Apply-a-Palette)
+[![laid-back-recipes-palette](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20palette&color=blue)](https://classroom.github.com/a/lejpR3ZB)
 
 </aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://replit.com/team/web-foundations-july-2022/Apply-a-Palette" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>

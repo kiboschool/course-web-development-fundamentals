@@ -1,4 +1,4 @@
-### Static vs. Dynamic websites
+# Bonus: Static vs. Dynamic websites
 
 The content of a web page can either be **static** or **dynamic**.
 
@@ -25,5 +25,3 @@ Here's a recap on static and dynamic web pages.
 In this course, you’ll learn to make static web pages. Your final project will be more like Wikipedia, and less like Facebook.
 
 Web Apps use the same building blocks as static websites. The tools in this course will help when you move on to building Web Apps in the future.
-
-[//]: # (TODO: Add exercise instructions for dynamic & static exercises)

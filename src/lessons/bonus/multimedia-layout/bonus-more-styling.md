@@ -1,6 +1,6 @@
 # Bonus: More Styling and CSS
 
-We skipped over tons of topics in the lessons. This section has some further, 
+We skipped over tons of topics in the lessons. This section has some further,
 optional information that might be useful.
 
 ## Responsive Design
@@ -11,19 +11,15 @@ Designing for different screen sizes is hard! MDN has a few guides on strategies
 - [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) details how to include images that work well across screen sizes
 - [Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries) are a core tool you can use to adapt to different screen sizes.
 
-## z-index
+## CSS Units
 
-When CSS boxes overlap, which one shows up on top? 
+So far, we’ve used pixels (`px`) as the units in our examples. CSS has lots of different kinds of units that are useful in different situations.
 
-The `z-index` property decides.
+Pixels are not the only units! CSS actually has more than 10 units you can use. For now, the only one we’ll mention is `em`. `1em` is the same as saying “the current font size”. So, to make text three quarters the size of the surrounding text, you could use `font-size: 0.75em`.
 
-The name "z-index" comes from thinking about the screen's x and y dimensions. If 
-x and y are left/right and up/down directions on the screen, then the ‘z’ 
-dimension is "popping out of" and "going into" the screen.
+You can also specify values in terms of percentages. An element with `width: 50%` will try to take up 50% of the width of its parent element.
 
-</details>
-
-`z-index` is tricky to use, in part because it’s hard to see and think about. To learn more about it, check out the [MDN reference on z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index), and the MDN series on [Understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index).
+The [MDN page on CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) goes into depth about the different units available for different values.
 
 ## Overflow and Scrolling
 
@@ -37,18 +33,23 @@ Read more on [MDN about handling overflowing content](https://developer.mozilla.
 
 Setting `margin: auto` is a one way to center an element horizontally. It sets the left and right margins to whatever is needed to center the element. It doesn’t work for vertical alignment.
 
-## CSS Units
+## z-index
 
-So far, we’ve used pixels (`px`) as the units in our examples. CSS has lots of different kinds of units that are useful in different situations.
+When CSS boxes overlap, which one shows up on top?
 
-Pixels are not the only units! CSS actually has more than 10 units you can use. For now, the only one we’ll mention is `em`. `1em` is the same as saying “the current font size”. So, to make text three quarters the size of the surrounding text, you could use `font-size: 0.75em`.
+The `z-index` property decides.
 
-You can also specify values in terms of percentages. An element with `width: 50%` will try to take up 50% of the width of its parent element.
+The name "z-index" comes from thinking about the screen's x and y dimensions. If
+x and y are left/right and up/down directions on the screen, then the ‘z’
+dimension is "popping out of" and "going into" the screen.
 
-The [MDN page on CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) goes into depth about the different units available for different values.
+</details>
 
-## Learn CSS
+`z-index` is tricky to use, in part because it’s hard to see and think about. To learn more about it, check out the [MDN reference on z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index), and the MDN series on [Understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index).
 
-If you’ve finished these resources, and still want to learn more about CSS, 
-check out [Learn CSS](https://web.dev/learn/css/) from web.dev. It’s a free 
-resource from Google and others that covers CSS topics in even more detail.
+## Further Reading: Web.Dev's Learn CSS
+
+> If you’ve finished these resources, and still want to learn more about CSS,
+check out **[Learn CSS](https://web.dev/learn/css/)** from web.dev.
+>
+> It’s a free resource from Google and others that covers CSS topics in even more detail.

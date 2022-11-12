@@ -12,22 +12,19 @@ We write our JavaScript in separate files, which in this course we’ll name `sc
 <script src="script.js"></script>
 ```
 
-- We use the `src` attribute to say where to find the JavaScript file.
-    - **Note:** It’s called `src` for `<script>` tags. `link` and `a` tags have `href`, which is similar. If you mix them up, try switching to the other one.
+We use the `src` attribute to say where to find the JavaScript file.
 
-- We usually place the script tag at the end of the `<body>` tag, so that the rest of the page has loaded before the script is run.
+**Note:** It’s called `src` for `<script>` tags. `link` and `a` tags have `href`, which is similar. If you mix them up, try switching to the other one.
+
+We usually place the script tag at the end of the `<body>` tag, so that the rest of the page has loaded before the script is run.
 
 ## Practice: Link the JavaScript using the `<script>` tag
-
-<aside>
 
 👉🏿 Use the link below to attempt the practice exercise
 
 Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
-[https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script](https://replit.com/team/web-foundations-july-2022/Practice-Link-the-Script)
-
-</aside>
+[![taste-test](https://img.shields.io/static/v1?label=Open%20Project&message=taste%20test&color=blue)](https://classroom.github.com/a/sYQeYpo3)
 
 ## Deeper Connections: CSS Selectors in JS
 
@@ -39,7 +36,7 @@ Add the `<script>` tag to connect the JavaScript file to the HTML page.
 
 Look at all the places it uses CSS Selectors:
 
-```jsx
+```js
 document.querySelector('#gross')
 document.querySelector('.reaction')
 document.querySelector('#yum')

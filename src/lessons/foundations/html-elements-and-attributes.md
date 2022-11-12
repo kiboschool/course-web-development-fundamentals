@@ -1,10 +1,8 @@
 # HTML Elements and Attributes
 
-In the web challenge, you learned about the roles HTML, CSS, and JavaScript play, and you learned what HTML and CSS look like.
+In this lesson, you’ll revisit HTML in more detail, and learn about more elements.
 
-In this lesson, you’ll revisit HTML in more detail, and learn more elements.
-
-## What’s HTML again?
+## HTML Basics
 
 <aside>
 
@@ -14,13 +12,11 @@ In this lesson, you’ll revisit HTML in more detail, and learn more elements.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Hjl6gbg9kmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## HTML
-
-HTML makes up the content and structure of the webpage. It’s what a page is made of.
+## HTML Example
 
 Here’s an example. On the left is HTML. On the right is the same code, rendered as a webpage.
 
-<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="vYROqPw" data-user="rrcobb"  data-prefill='{"title":"First Snippet of HTML","description":"Small demo of several different basic HTML tags","tags":[],"scripts":[],"stylesheets":[]}'>
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOKBNgg" data-user="rrcobb"  data-prefill='{"title":"First Snippet of HTML","description":"Small demo of several different basic HTML tags","tags":[],"scripts":[],"stylesheets":[]}'>
   <pre data-lang="html">&lt;p>
     This is a paragraph. It has an
     &lt;a href="https://example.com">
@@ -28,8 +24,10 @@ Here’s an example. On the left is HTML. On the right is the same code, rendere
     &lt;/a>
     inside the paragraph.
 &lt;/p>
-&lt;img src="https://wf-2.vercel.app/web-foundations-july-2022/learning-with-kibo/intro-to-web-development/untitled.png" alt="this is an example image" /></pre></div>
+&lt;img src="https://web-foundations.vercel.app/lessons/foundations/html-elements-and-attributes/valley-waterfall.png" alt="this is an example image" /></pre></div>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+This tool is called _CodePen_, and we'll use it to demonstrate snippets of HTML, CSS, and JS. You can use it as a small playground for experimenting.
 
 ## HTML Elements
 
@@ -41,7 +39,7 @@ The building blocks of HTML are called **elements.** A webpage is made up of ele
 - Elements can **nest** inside each other
 - Elements can have **attributes**
 
-## **Types and Tags**
+### Types and Tags
 
 There are lots of **types** of elements. In the snippet above, the elements are:
 
@@ -64,20 +62,18 @@ Elements usually have two tags: an opening tag, and a closing tag. They show whe
 - The opening tag is `<p>`
 - The closing tag is `</p>`, with a forward slash `/` before the `p`.
 
-<aside>
-
-
+<details>
+<summary>
 📺 Here is a summary of HTML Tags
-
-</aside>
-
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/rOPKC49gTkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+</details>
 
-## **Nesting HTML Elements**
+### Nesting HTML Elements
 
 HTML elements can go inside of each other. Everything that’s in between the opening tag and the closing tag is ‘inside’ an element. It can be text, like the paragraph above, or other HTML elements, or both. The element inside another element is called the **child** element while the one outside is the **parent**. Here's an example showing a `<p>` element inside an `<a>` element.
 
-![nested element](../learning-with-kibo/intro-to-web-development/nested_element.png)
+![nested element](/lessons/foundations/html-elements-and-attributes/nested_element.png)
 
 ## HTML Attributes
 
@@ -108,20 +104,18 @@ Here’s some examples:
 
 <div style="margin-bottom: 50px; border: 1px solid #000;">
 
-![Untitled](../learning-with-kibo/intro-to-web-development/untitled-1.png)
+![HTML Element Anatomy](/lessons/foundations/html-elements-and-attributes/element-anatomy.png)
 
 </div>
 
-<aside>
-
-📺 Here's a **video recap** on HTML Attributes
-
-</aside>
-
+<details>
+<summary>
+📺 Here's a video recap on HTML Attributes
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/29IbTXYRo5U" title="YouTube video player"      frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+</details>
 
 
 # Elements to know
@@ -132,15 +126,14 @@ Here’s the ones that you'll use this week.
 
 ## `<a>`: hyperlink
 
-<aside>
-
+<details>
+<summary>
 📺 Check out this video on Hyperlink
-
-</aside>
-
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/D9I_dJDiIu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+</details>
 
 `<a>` stands for ‘anchor’, but means link. It’s the element that connects the whole web together.
 
@@ -154,25 +147,10 @@ Here’s the ones that you'll use this week.
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<details><summary><strong>Challenge:</strong> 🤔 How would you make an **image** that linked to another page? </summary>
-
-- **Answer**
-
-    You put the image inside the link, like this:
-
-    ```html
-    <a href="https://kibo.school">
-    	<img src="valley-waterfall.jpeg" />
-    </a>
-    ```
-
-    When someone clicks on the image, it will navigate to the URL, just like a text link.
-
-</details>
-
 <details>
 <summary>
 <strong>Further Exploration: Hyperlinks</strong>
+</summary>
 
 [Read more about the `<a>` tag and hyperlinks on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks).
 
@@ -195,20 +173,36 @@ Images make the web visually appealing. The `<img>` tag tells which image to add
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="JjLdgje" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rrcobb/pen/JjLdgje">
-  Untitled</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
+  Example of an img tag</a> by Rob Cobb (<a href="https://codepen.io/rrcobb">@rrcobb</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<aside>
-
+<details>
+<summary>
 📺 Check out this video on Images
-
-</aside>
-
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+</details>
+
+<details><summary><strong>Challenge:</strong> 🤔 How would you make an image that linked to another page? </summary>
+
+**Answer**
+
+You put the image inside the link, like this:
+
+```html
+<a href="https://kibo.school">
+  <img src="valley-waterfall.jpeg" />
+</a>
+```
+
+When someone clicks on the image, it will navigate to the URL, just like a text link.
+
+</details>
+
 
 <details><summary><strong>Further Exploration: Images</strong></summary>
 
@@ -250,15 +244,14 @@ Inside a `<p>`, an `<a>`, or lots of other tags, you’ll see regular text. Text
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
-<aside>
-
-📺 Here's a **video recap** of the Paragraph tag
-
-</aside>
-
+<details>
+<summary>
+📺 Here's a video recap of the Paragraph tag
+</summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/By-d827_0jo" title="HTML Paragraph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+</details>
 
 ### `<h1>` to `<h6>`: Heading
 
@@ -297,30 +290,22 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-## Practice: Use the basic elements
-
-<aside>
-
-👉🏿 Your turn! Use these tags to mark up the page.
-
-🔑 Click the link below to complete the exercise on Replit
-
-[https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements](https://replit.com/team/web-foundations-july-2022/Practice-Use-the-basic-elements)
-
-</aside>
-
-## Practice: Find a new tag on MDN
+## Practice: Find a new tag
 
 🔍 The **Mozilla Developer Network (MDN)** is a top source of tutorials and reference materials for Web Developers.
 
-Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. Using the link below, share:
-
-- the name of the element
-- the link to the MDN page, and
-- what you find interesting about it
-
-
+> Starting at the [MDN overview page on HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), find a description for an HTML element that’s new to you. Using the link below, share:
+>
+> - the name of the element
+> - the link to the MDN page, and
+> - what you find interesting about it
+>
 > [https://padlet.com/curriculumpad/48oj31pmpjw4yjwb](https://padlet.com/curriculumpad/48oj31pmpjw4yjwb)
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/48oj31pmpjw4yjwb" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/48oj31pmpjw4yjwb" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:408px;display:block;padding:0;margin:0"></iframe></div>
 
+## Practice: Use the basic elements
+
+> 👉🏿 Your turn! Use these tags to mark up the page.
+>
+> [![basic-elements](https://img.shields.io/static/v1?label=Open%20Project&message=basic%20elements&color=blue)](https://classroom.github.com/a/qe8bdlLT)

@@ -14,29 +14,29 @@ This video from Web Dev Simplified shows the main ideas of Flexbox.
 
 </aside>
 
-If you set an element to `display: flex;`, it acts on the outside like a regular block element. On the inside, elements no longer follow Normal flow. Instead, that element becomes a **flex container**, and the items inside get laid out according to the flexbox rules.
-
 The basic idea of Flexbox is that the items *flex* (expand) to fill additional space or shrink to fit into smaller spaces.
 
-![The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.](./layout/untitled.png)
+![The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.](./layout/normal-flow-vs-flex.png)
 
 The dashed line shows a container element. In Normal flow, there’s space below the block elements inside the container. In a Flexbox, the elements grow to fill the whole space.
+
+If you set an element to `display: flex;`, it acts on the outside like a regular block element. On the inside, elements no longer follow _Normal flow_. Instead, that element becomes a **flex container**, and the items inside get laid out according to the flexbox rules.
 
 Flexbox gives you lots of tools to change the way the elements move to fill the space.
 
 You can change:
 
-- The direction of the box (columns or rows)
-- The space between items
-- The horizontal and vertical alignment of the elements within the box
-- Whether or not elements will wrap around if they get crowded
-- Which elements grow and shrink, by how much
+- The **direction** of the box (columns or rows)
+- The **space** between items
+- The horizontal and vertical **alignment** of the elements within the box
+- Whether or not elements will **wrap** around if they get crowded
+- Which elements **grow** and **shrink**, and by how much
 
-![Untitled](./layout/untitled-1.png)
+![Flex options](./layout/flex-options.png)
 
-**Further Reading**: Flexbox
-
-[MDN’s page on Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) goes into great detail about the details of how Flexbox works.
+> **Further Reading**: Flexbox
+>
+> [MDN’s page on Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) goes into great detail about the details of how Flexbox works.
 
 ## Practice: Flexbox Froggy
 

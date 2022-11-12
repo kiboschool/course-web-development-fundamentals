@@ -21,11 +21,16 @@ typography.
 Before we do a deep dive into writing CSS to control text, check out this
 interactive tutorial by Learn UI Design.
 
-> [Interactive Typography Tutorial](https://www.learnui.design/tools/typography-tutorial.html)
+> Click through the **[Interactive Typography Tutorial](https://www.learnui.design/tools/typography-tutorial.html)**
+>
+> * Scroll and click through each step
+> * Try different fonts, line lengths and heights, point sizes, and spacing.
+> * (You don't need to sign up for their course)
+> 
+> Afterwards, reflect on these questions:
+> - What text properties did you already know about?
+> - What properties were new to you?
 
-* Scroll and click through each step
-* Try different fonts, line lengths and heights, point sizes, and spacing.
-* You don't need to sign up for their course
 
 In the next few lessons, you'll learn how to control those properties with CSS,
 instead of with sliders.

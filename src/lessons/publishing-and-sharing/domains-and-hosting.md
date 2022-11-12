@@ -1,13 +1,14 @@
 # Domains and hosting
 
-# Domain Names
+## Domain Names
 
-To give your site a custom URL, you need to know more about **Domain Names.** Domain Names are how your browser finds the server to talk to.
+To give your site a custom URL, you need to have the **Domain Name**. Domain Names are how your browser finds the server to talk to for a particular URL.
+
+Domain names are like `google.com` and `kibo.school`: the part of the url after the protocol (`https`) and before the page (`/search` or `/degree`)
 
 ## IP Addresses & DNS
 
 <aside>
-
 
 🎥 Check out this Code.org video to learn more about DNS
 
@@ -15,7 +16,7 @@ To give your site a custom URL, you need to know more about **Domain Names.** Do
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/5o8CwafCxnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-To recap:
+**To recap:**
 
 - The Domain Name System (DNS) is how your computer finds the address (like 162.159.135.42) like for a name (like kibo.school)
 - DNS uses a *distributed hierarchy* of DNS servers. When one DNS server doesn’t know the answer, it asks another “higher” DNS server.
@@ -27,9 +28,9 @@ See the MDN page [What is a Domain Name?](https://developer.mozilla.org/en-US/do
 
 ## What does it mean to own a domain name?
 
-When someone buys a domain name, they get to decide which IP address the name points to. When Ope bought the [kibo.school](http://kibo.school) domain, she set the address to **162.159.135.42**. That’s the address of the Kibo server.
+When someone buys a domain name, they get to decide which IP address the name points to. When Ope bought the [kibo.school](http://kibo.school) domain, she set the address to **162.159.135.42**. That’s the address of the Kibo server (right now, it's a managed Wordpress site, if you were curious).
 
-### Website building and publishing steps:
+## Website building and publishing steps
 
 Making [kibo.school](http://kibo.school) involves these steps:
 
@@ -39,7 +40,7 @@ Making [kibo.school](http://kibo.school) involves these steps:
 
 ![Untitled](./domains-and-hosting/untitled.png)
 
-### How does your browser load kibo.school?
+## How does your browser load kibo.school?
 
 When you type [kibo.school](http://kibo.school) into your browser:
 
@@ -49,98 +50,19 @@ When you type [kibo.school](http://kibo.school) into your browser:
 
 ![Untitled](./domains-and-hosting/untitled-1.png)
 
-### DNS Records
-
-Now that we know what DNS is for, let’s talk a tiny bit about what it actually looks like. The graphic above showed the record like this:
-
-![Untitled](./domains-and-hosting/untitled-2.png)
-
-At its heart, DNS is really simple: it matches a name and a value. In this case, the name `kibo.school` is matched with the value `162.159.135.42`
-
-<!--
-The actual DNS record looks like this:
-
-```jsx
-kibo.school.		3600	IN	A	162.159.135.42
-```
-
-This says that `kibo.school` points to `162.159.135.42`. It’s also got some extra info:
-
-- There’s an extra `.` after `kibo.school`
-- There’s a **TTL** of `3600`
-- It’s an `A` record
-
-The extra dot means that it’s an *absolute* domain name. You can basically ignore this. (If it bugs you, you can read an explanation [here](http://www.dns-sd.org/trailingdotsindomainnames.html).)
-
-**TTL** stands for “time to live” and it says how long a DNS server should keep a copy of this record before it checks again. If it’s shorter, updates to the DNS record will show up faster, but the website might load slower for users.
-
-**`A`** is the *type* of record.
-
-
-### Types of DNS Records
-
-There are lots of different types of DNS records. Different types tell different kinds of information, like:
-
-- The email server is located at this address (`MX` type records)
-- This name points to a different name (`CNAME` type records)
-
-`A` records match a domain name to an IP address. For matching the domain `[kibo.school](http://kibo.school)` to the address `162.159.135.42`, we use an `A` record.
-
-As noted in the video, IP addresses like `162.159.135.42` are version 4 addresses. `AAAA` records are for IP version 6.
---> 
-
-**<details><summary>Further Reading: DNS </summary>**
-
-Cloudflare is a popular service for DNS management, among other services and tools.
-Their help center has great explanations on [What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/) and [DNS records](https://www.cloudflare.com/learning/dns/dns-records/).
-
-</details>
-
-<!--
-### **Try it: Mess with DNS**
-
-<aside>
-
-
-👉🏿 Get hands-on practice creating DNS records to tell browsers where to find different websites.
-
-1. Go to [https://messwithdns.net/](https://messwithdns.net/)
-2. Follow the three tutorial experiments to learn how to use the tool.
-3. Do as many other experiments as you like, to explore creating different kinds of DNS records. Don’t be afraid to use Google to learn more as you explore.
-4. Make sure you do the “**Set up a website**” experiment under the “**Useful experiments**” section
-</aside>
-
--->
-
-### Questions about DNS
-
-<aside>
-
-
-🤔 You’ve probably learned some pieces about DNS, but not everything.
-
-Check your understanding of DNS and learn some more facts about DNS with this interactive game.
-
-Visit [https://questions.wizardzines.com/dns.html](https://questions.wizardzines.com/dns.html) and try to guess for each question. You might know some of the answers, and you’ll probably learn something too!
-
-</aside>
-
-- **Further Reading**: Julia Evans, creator of Mess with DNS and DNS Questions
-
-    Julia makes tons of awesome comics, like this one on [How to be a Wizard Programmer](https://wizardzines.com/zines/wizard/).
-
-    ![wizard-programmer.png](./domains-and-hosting/wizard-programmer.png)
-
-    You can find more of her work online at [https://wizardzines.com/](https://wizardzines.com/).
-
-    Julia’s [blog post about the process of creating the Mess with DNS tool](https://jvns.ca/blog/2021/12/15/mess-with-dns/) is a really fun read!
-
-
-# Getting a Domain
+## Getting a Domain
 
 Okay, how do you actually get a domain like kibo.school, so that you can set up a website?
 
 For most websites, you buy a domain. Some are expensive, and others are relatively cheap. There are also some services that offer free domains, which we’ll talk about too.
+
+<aside>
+
+⚠️ **You do not have to buy a domain for this class.**
+
+We want you to know how, in case you ever want to buy a domain for a site.
+
+</aside>
 
 ## Paid Domains
 
@@ -150,19 +72,11 @@ That gives you the ability to configure the DNS records, usually through a *regi
 
 Domains usually start at **$5-$10 USD**. There are often discounts for the first year of owning a domain. Some domains are more expensive: popular sites, business addresses, and short or memorable domain names sometimes cost thousands or millions of dollars!
 
-### Further reading: Domain pricing
+### Further exploration: Domain pricing
 
 The price often depends on the **top level domain (TLD).** TLDs are like `.com` or `.org` or `.gh`. Depending on the TLD, the price for a similar name might be very different.
 
 There are lots of tools for searching and buying domains. [Google Domains](https://domains.google/) is a relatively high-quality tool. In the past, folks from our team have also used [Hover](https://www.hover.com/domains), [NameCheap](https://www.namecheap.com/), [Vercel](https://vercel.com), and others. We recommend using [Google Domains](https://domains.google/) if you are searching for or buying a domain. You may find a better price elsewhere, though!
-
-<aside>
-
-⚠️ **You do not have to buy a domain for this class.**
-
-We want you to know how, in case you ever want to buy a domain for a site.
-
-</aside>
 
 ## Free Domains
 
@@ -189,7 +103,7 @@ See the live site at [http://recipe.kibo-demo.club/](http://recipe.kibo-demo.clu
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/f2e9f342f67a411a9fda4e9575f08f3a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Video Recap:
+<details><summary>Video Recap</summary>
 
 1. Starting point:
     - Already bought a domain using Google Domains
@@ -198,8 +112,10 @@ Video Recap:
 3. Follow the instructions in the Github error message
     1. In Google Domains, click to DNS in the sidebar navigation
     2. Add a CNAME record
-    3. With host name that matches your Custom Domain on the Replit side (`recipe.kibo-demo.club` in the video)
+    3. With host name that matches your Custom Domain on the Github side (`recipe.kibo-demo.club` in the video)
     4. And data that match the [github.io](http://github.io) domain that you can copy from the error message (`kiboschool.github.io` in the video)
 4. Be patient
-    1. Wait for a while, since it might take a few minutes.
-    2. It’s easy to mess things up, so take your time and be patient with yourself.
+    - Wait for a while, since it might take a few minutes.
+    - It’s easy to mess things up, so take your time and be patient with yourself.
+
+</details>
