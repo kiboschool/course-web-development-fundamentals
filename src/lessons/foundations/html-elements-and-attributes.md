@@ -147,22 +147,6 @@ Here’s the ones that you'll use this week.
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<details><summary><strong>Challenge:</strong> 🤔 How would you make an image that linked to another page? </summary>
-
-**Answer**
-
-You put the image inside the link, like this:
-
-```html
-<a href="https://kibo.school">
-  <img src="valley-waterfall.jpeg" />
-</a>
-```
-
-When someone clicks on the image, it will navigate to the URL, just like a text link.
-
-</details>
-
 <details>
 <summary>
 <strong>Further Exploration: Hyperlinks</strong>
@@ -202,6 +186,23 @@ Images make the web visually appealing. The `<img>` tag tells which image to add
     <iframe width="100%" height="415" src="https://www.youtube.com/embed/Ba1RLs0TgCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 </details>
+
+<details><summary><strong>Challenge:</strong> 🤔 How would you make an image that linked to another page? </summary>
+
+**Answer**
+
+You put the image inside the link, like this:
+
+```html
+<a href="https://kibo.school">
+  <img src="valley-waterfall.jpeg" />
+</a>
+```
+
+When someone clicks on the image, it will navigate to the URL, just like a text link.
+
+</details>
+
 
 <details><summary><strong>Further Exploration: Images</strong></summary>
 
