@@ -307,9 +307,10 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 ## Practice: Use the basic elements
 
 > 👉🏿 Your turn! Use these tags to mark up the page.
-Use this space to practice writing the basic elements. Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
+- Use this space to practice writing the basic elements. 
+- Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
 
-Try to include:
+To complete this, try to include:
 
 - a paragraph
 - a link
