@@ -12,6 +12,10 @@ _6 ECTS Credits_
 
 <!-- TODO: Wasiu to add welcome video -->
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/uo8tw-OLjV0" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</details>
+
+
 ## What you'll learn
 
 This course provides a foundation in building for the web. It will help you understand how the internet works, help you examine the role of the internet in your life, and teach you the basics of web development.
