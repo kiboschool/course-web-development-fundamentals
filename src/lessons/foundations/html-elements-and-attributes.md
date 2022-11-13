@@ -307,5 +307,23 @@ There are two kinds of lists. Unordered Lists `<ul>` have dots before each item.
 ## Practice: Use the basic elements
 
 > 👉🏿 Your turn! Use these tags to mark up the page.
->
-> [![basic-elements](https://img.shields.io/static/v1?label=Open%20Project&message=basic%20elements&color=blue)](https://classroom.github.com/a/qe8bdlLT)
+Use this space to practice writing the basic elements. Don't worry about the content of the page, it can just say "This is a heading" for the headings, and "this is a link" for the links.
+
+Try to include:
+
+- a paragraph
+- a link
+- an image (there's an example image called example.jpeg in the sidebar)
+- two headings, of different levels
+- an unordered list
+- an ordered list
+- some emphasized and strongly emphasized text
+
+Re-read the lesson or look up the elements using Google if you get stuck.
+
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/yusuphwasiu/embed/MWXoagR?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/yusuphwasiu/pen/MWXoagR">
+  Untitled</a> by Wasiu Yusuf (<a href="https://codepen.io/yusuphwasiu">@yusuphwasiu</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
