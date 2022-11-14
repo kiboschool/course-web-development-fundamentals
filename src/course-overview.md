@@ -2,7 +2,7 @@
 
 **CSF001**
 
-_6 ECTS Credits_
+_3 ECTS Credits_
 
 <aside>
 
