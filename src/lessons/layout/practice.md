@@ -48,4 +48,3 @@ This project will stretch your Web Design skills. You’ll work to recreate the 
 **Warning**: This project is quite extensive. Only tackle it if you are sure you have time.
 
 </aside>
-
