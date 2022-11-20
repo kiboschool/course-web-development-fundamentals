@@ -6,7 +6,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 
 | Week | Topic                  |  Slides     | Section 1 Video | Section 2 Video | Exercise  | Link     |
 |------|------------------------|-------------|-----------------|-----------------|-----------|----------|
-| 1    | Foundations            |[View][S1]   |[Watch][V1]      |[Watch][V1]      |[View][E1] |[Doc][D1] |
+| 1    | Foundations            |[View][S1]   |[Watch][V1]      |[Watch][V1]      |[View][E1] |[Doc][L1] |
 | 2    | Web Design             |             |                 |                 |           |          |
 | 3    | Action and Interaction |             |                 |                 |           |          |
 | 4    | Layout                 |             |                 |                 |           |          |
@@ -22,6 +22,8 @@ recording of the class and submit the activity or exercise.
 [S1]: https://docs.google.com/presentation/d/1qbgAhQwj_Uiv4ZHzNYVgq0xplYpN3BR4hAliNlF5mTo/edit?usp=sharing
 [V1]: https://youtu.be/FdenvaWdkIA
 [E1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915
-[D1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform
+[L1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform
 
 <!-- [S2]: https://docs.google.com/presentation/d/11t-4KJcKGW2fzwCaKWLkFiycBfjhuHXUaxIehUCzN70/edit?usp=sharing -->
+<!-- [L2]: https://docs.google.com/forms/d/e/1FAIpQLSeiRMuey1EvlErCvLGm54BVA50hXQ-6ZjJoONuU8Nf2UtTCmQ/viewform -->
+
