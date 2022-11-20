@@ -21,7 +21,6 @@
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
   - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
 
-<!--
 ### Week 2
 
 - [Web Design](lessons/web-design.md)
@@ -35,6 +34,7 @@
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
 
+<!--
 ### Week 3
 
 - [Action and Interaction](lessons/action-and-interaction.md)

@@ -6,7 +6,7 @@
 
 </aside>
 
-*If you can’t do the challenge without looking the solution, it means you don’t understand the material well enough yet. Try the next practice challenge without looking at the solution. If you need more practice challenges, reach out on Discord.*
+<!-- *If you can’t do the challenge without looking the solution, it means you don’t understand the material well enough yet. Try the next practice challenge without looking at the solution. If you need more practice challenges, reach out on Discord.* -->
 
 ## Biography page
 
