@@ -20,7 +20,14 @@ After this week, you will be able to:
 - Use margin, padding, and border to manage the space between elements
 <!-- - Have an idea of cool projects you can build using HTML and CSS -->
 
-<!-- 
-## Welcome Video
+### <p></p>
 
-TODO: Welcome video -->
+<aside>
+
+📺 Check out this video on week 2 lessons from your Instructor.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DWiSbM62QbA" title="CSS Colors" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
