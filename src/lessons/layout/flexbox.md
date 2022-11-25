@@ -34,7 +34,9 @@ You can change:
 
 ![Flex options](./layout/flex-options.png)
 
-> **Further Reading**: Flexbox
+## Further Reading: Flexbox
+
+> [Josh Comeau's Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) has a great walkthrough of the different properties and how to build a strong mental model for flexbox.
 >
 > [MDN’s page on Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) goes into great detail about the details of how Flexbox works.
 
