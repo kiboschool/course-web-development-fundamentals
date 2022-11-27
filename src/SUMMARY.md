@@ -34,7 +34,7 @@
   - [Practice](lessons/web-design/practice.md)
   - [Project](lessons/web-design/project.md)
 
-<!--
+
 ### Week 3
 
 - [Action and Interaction](lessons/action-and-interaction.md)
@@ -45,6 +45,7 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
 
+<!--
 ### Week 4
 
 - [Layout and Multimedia](lessons/layout.md)
