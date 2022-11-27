@@ -15,5 +15,13 @@ After this week, you will be able to:
 
 <!-- 
 ## Welcome Video
-
+https://youtu.be/KnLXeYemMTw
 TODO: welcome video -->
+
+## An overview of this week content
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/KnLXeYemMTw" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</details>
+
+# <span></span>

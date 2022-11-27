@@ -29,3 +29,6 @@ recording of the class and submit the activity or exercise.
 [E2]: https://youtu.be/RxELqwNp_Kg?t=1828
 [L2]: https://docs.google.com/forms/d/e/1FAIpQLSeiRMuey1EvlErCvLGm54BVA50hXQ-6ZjJoONuU8Nf2UtTCmQ/viewform
 
+<!-- [S3]: https://docs.google.com/presentation/d/10bzjcH_ezmeL_bxk71bXQe1F2FE3sFmCD5bKvMlEFqI/edit?usp=sharing -->
+<!-- [L3]: https://docs.google.com/forms/d/e/1FAIpQLSckNUyPq-7j3awnFJHZT6NLIrNNXxDgW6QsKY-a0eMHa7Il0w/viewform -->
+
