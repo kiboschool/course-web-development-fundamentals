@@ -8,7 +8,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 |------|------------------------|-------------|-----------------|-----------------|-----------|----------|
 | 1    | Foundations            |[View][S1]   |[Watch][V1]      |[Watch][V1]      |[View][E1] |[Doc][L1] |
 | 2    | Web Design             |[View][S2]   |[Watch][V2a]     |[Watch][V2b]     |[View][E2] |[Doc][L2] |
-| 3    | Action and Interaction |             |                 |                 |           |          |
+| 3    | Action and Interaction |[View][S3]   |[Watch][V3a]     |[Watch][V3b]     |[View][E3] |[Doc][L3] |
 | 4    | Layout                 |             |                 |                 |           |          |
 | 5    | Publishing and Sharing |             |                 |                 |           |          |
 
@@ -29,6 +29,9 @@ recording of the class and submit the activity or exercise.
 [E2]: https://youtu.be/RxELqwNp_Kg?t=1828
 [L2]: https://docs.google.com/forms/d/e/1FAIpQLSeiRMuey1EvlErCvLGm54BVA50hXQ-6ZjJoONuU8Nf2UtTCmQ/viewform
 
-<!-- [S3]: https://docs.google.com/presentation/d/10bzjcH_ezmeL_bxk71bXQe1F2FE3sFmCD5bKvMlEFqI/edit?usp=sharing -->
-<!-- [L3]: https://docs.google.com/forms/d/e/1FAIpQLSckNUyPq-7j3awnFJHZT6NLIrNNXxDgW6QsKY-a0eMHa7Il0w/viewform -->
+[S3]: https://docs.google.com/presentation/d/10bzjcH_ezmeL_bxk71bXQe1F2FE3sFmCD5bKvMlEFqI/edit?usp=sharing
+[V3a]: https://youtu.be/TAXNkbas62g
+[V3b]: https://youtu.be/kZLrJ7u8Dzo
+[E3]: https://youtu.be/TAXNkbas62g?t=1070
+[L3]: https://docs.google.com/forms/d/e/1FAIpQLSckNUyPq-7j3awnFJHZT6NLIrNNXxDgW6QsKY-a0eMHa7Il0w/viewform
 
