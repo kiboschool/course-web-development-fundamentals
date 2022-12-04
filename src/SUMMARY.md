@@ -45,7 +45,7 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
 
-<!--
+
 ### Week 4
 
 - [Layout and Multimedia](lessons/layout.md)
@@ -58,6 +58,7 @@
   - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
   - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
 
+<!--
 ### Week 5
 
   - [Publishing and Sharing](lessons/publishing-and-sharing.md)
