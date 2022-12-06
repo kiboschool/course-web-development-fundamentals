@@ -2,7 +2,7 @@
 
 ---
 
-**Due Date: Dec 16**
+**Due Date: 10pm GMT Dec 18**
 
 <aside>
 
