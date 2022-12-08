@@ -47,7 +47,7 @@ Before you dive deeper into the box model, here’s a quick tutorial on how to v
 <summary>
 📽️ <strong>Video</strong>: Viewing the Box Model in the DevTools
 </summary>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/76f1b79a6bad45f18f6944278776bd08" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://youtube.com/embed/rw9w7rsyE1U" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 </details>
 
 ## Content
