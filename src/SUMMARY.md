@@ -24,14 +24,15 @@
 -->
 
 ### Week 2
-- [ Week 2](lessons/week2.md)
-  - [HTML Tables](lessons/week2/html-tables.md)
-  - [More HTML elements](lessons/week2/bonus-more-html-elements.md)
-  - [Static and Dynamic](lessons/week2/static-and-dynamic-websites.md) 
-  - [Interactive Elements](lessons/week2/bonus-interactive-elements.md)
-  - [Multimedia Elements](lessons/week2/multimedia-html-elements.md)
-  - [Semantic HTML](lessons/week2/semantic-html.md)
-  - [Practice](lessons/week2/practice.md)
+- [Advanced HTML](lessons/advanced-html.md)
+  - [HTML Tables](lessons/advanced-html/html-tables.md)
+  - [More HTML elements](lessons/advanced-html/bonus-more-html-elements.md)
+  - [Static and Dynamic](lessons/advanced-html/static-and-dynamic-websites.md) 
+  - [Interactive Elements](lessons/advanced-html/bonus-interactive-elements.md)
+  - [Multimedia Elements](lessons/advanced-html/multimedia-html-elements.md)
+  - [Semantic HTML](lessons/advanced-html/semantic-html.md)
+  - [More CSS Selectors](lessons/advanced-html/more-css-selectors.md)
+  - [Practice](lessons/advanced-html/practice.md)
 
 
 ### Week 3
