@@ -9,9 +9,10 @@ In previous lessons, you've seen how to create website contents using different 
 After this week, you will be able to:
 
 - Use Flexbox, Grid, and positioning to control the layout of elements on the page.
-- Use HTML Multimedia elements to embed different contents and interactivity in your website.
 
 <!--
+- Use HTML Multimedia elements to embed different contents and interactivity in your website.
+
 ## Welcome Video
 
 TODO: Welcome video -->

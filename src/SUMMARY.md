@@ -17,11 +17,24 @@
   - [A Taste of Javascript](lessons/foundations/a-taste-of-javascript.md)
   - [Browser Devtools](lessons/foundations/devtools.md)
   - [Practice](lessons/foundations/practice.md)
-  - [Project](lessons/foundations/project.md)
+ <!-- 
+  - [Project](lessons/foundations/project.md) 
   - [Bonus: More HTML elements](lessons/foundations/bonus-more-html-elements.md)
-  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md)
+  - [Bonus: Static and Dynamic](lessons/bonus/static-and-dynamic-websites.md) 
+-->
 
 ### Week 2
+- [ Week 2](lessons/week2.md)
+  - [HTML Tables](lessons/week2/html-tables.md)
+  - [More HTML elements](lessons/week2/bonus-more-html-elements.md)
+  - [Static and Dynamic](lessons/week2/static-and-dynamic-websites.md) 
+  - [Interactive Elements](lessons/week2/bonus-interactive-elements.md)
+  - [Multimedia Elements](lessons/week2/multimedia-html-elements.md)
+  - [Semantic HTML](lessons/week2/semantic-html.md)
+  - [Practice](lessons/week2/practice.md)
+
+
+### Week 3
 
 - [Web Design](lessons/web-design.md)
   - [What is Web Design?](lessons/web-design/what-is-web-design.md)
@@ -32,10 +45,37 @@
   - [Colors](lessons/web-design/colors.md)
   - [The Box Model](lessons/web-design/the-box-model.md)
   - [Practice](lessons/web-design/practice.md)
-  - [Project](lessons/web-design/project.md)
+  <!-- - [Project](lessons/web-design/project.md) ->
 
 
-### Week 3
+### Week 4
+
+- [CSS Layout](lessons/layout.md)
+  - [Layout](lessons/layout/layout.md)
+  - [Flexbox](lessons/layout/flexbox.md)
+  - [CSS Grid](lessons/layout/grid.md)
+  - [Positioning](lessons/layout/positioning.md)  
+  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
+  - [Practice](lessons/layout/practice.md)
+ 
+ 
+
+
+### Week 5
+
+  - [Publishing and Sharing](lessons/publishing-and-sharing.md)
+    - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
+    - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
+    - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
+    - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
+    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
+    - [Practice](lessons/publishing-and-sharing/practice.md)
+    
+
+
+
+<!--
+### Week 4
 
 - [Action and Interaction](lessons/action-and-interaction.md)
   - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
@@ -45,26 +85,3 @@
   - [Practice](lessons/action-and-interaction/practice.md)
   - [Project](lessons/action-and-interaction/project.md)
 
-
-### Week 4
-
-- [Layout and Multimedia](lessons/layout.md)
-  - [Layout](lessons/layout/layout.md)
-  - [Flexbox](lessons/layout/flexbox.md)
-  - [CSS Grid](lessons/layout/grid.md)
-  - [Positioning](lessons/layout/positioning.md)
-  - [Multimedia Elements](lessons/bonus/multimedia-layout/multimedia-html-elements.md)
-  - [Practice](lessons/layout/practice.md)
-  - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
-  - [Bonus: Interactive Elements](lessons/bonus/multimedia-layout/bonus-interactive-elements.md)
-
-<!--
-### Week 5
-
-  - [Publishing and Sharing](lessons/publishing-and-sharing.md)
-    - [How the Internet Works](lessons/publishing-and-sharing/how-the-internet-works-again.md)
-    - [Publishing your site](lessons/publishing-and-sharing/publishing-your-site.md)
-    - [Domains and Hosting](lessons/publishing-and-sharing/domains-and-hosting.md)
-    - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
-    - [Practice](lessons/publishing-and-sharing/practice.md)
-    - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)

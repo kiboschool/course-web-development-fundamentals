@@ -20,7 +20,7 @@ Roughly speaking,
 
 These three languages come together to make up a website.
 
-## HTML
+## HTML - HyperText Markup Language
 
 HTML makes up the content and structure of the webpage. It’s what a page is made of.
 
@@ -39,7 +39,7 @@ Here’s an example.
 
 HTML is text! The syntax uses the angle brackets `<>` to identify elements that make up a page. You'll learn lots of different elements.
 
-## CSS
+## CSS - Cascading Style Sheets
 
 CSS controls the appearance of HTML elements.
 
