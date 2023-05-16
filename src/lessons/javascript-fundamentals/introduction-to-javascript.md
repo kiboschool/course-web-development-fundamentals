@@ -1,10 +1,10 @@
-# Introduction to javascript
+# Introduction to JavaScript
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./actions/jav.png); background-size: cover;"></iframe></div>
 
 As you’ve heard lots of times by now, HTML is for the content and structure of the page, CSS is for styling how the elements should appear, and JavaScript is for adding interactivity. Now that you’ve learned lots of HTML and CSS, it’s time for some JavaScript.
 
-<aside>
+<!-- <aside>
 
 
 ⚠️ **JavaScript is a deep topic.**
@@ -13,7 +13,7 @@ You’ll learn a little bit of JavaScript in the next few lessons, enough to add
 
 JavaScript is also **confusing**. Don’t be surprised if you get stuck on the syntax or logic. Ask for help!
 
-</aside>
+</aside> -->
 
 ## About JavaScript
 
@@ -23,7 +23,7 @@ HTML and CSS happen “all at once”. The browser shows the whole HTML page, wi
 
 JavaScript happens step by step. Each line runs, one after the other. Instead of thinking in terms of the structure of the page, instead you think about steps for the computer to follow, like a recipe.
 
-### JavaScript in 14 minutes
+### Activity: JavaScript in 14 minutes
 
 <aside>
 
@@ -83,7 +83,7 @@ Try entering the following lines of code into the Console one by one. Press the 
 
 We won’t do a whole lesson on numbers in JavaScript now, but you can start to use the Console as a calculator that comes with you to every webpage!
 
-## Practice
+## Activity: Use the JavaScript Console
 
 Open up the JavaScript console, and practice entering some expressions, such as:
 - calculations with numbers, like above
@@ -91,3 +91,18 @@ Open up the JavaScript console, and practice entering some expressions, such as:
 - using `console.log` to show a message in the console
 - typing something that is not valid JavaScript, to see what an error message
     looks like
+
+## Running JavaScript Code
+
+Previously, we saw how to link a JavaScript file to our HTML web page. When building web applications, that is the default way to execute your JavaScript code.
+
+We also saw how to use the DevTools Console to run small snippets of code. That is usually a good way to try out a small portion of JavaScript code, especially when learning or testing some code. 
+
+Alternatively, we can also use web-based interactive tools similar to CodePen which we used during our HTML and CSS lessons. One of such tools is the [PythonTutor](https://pythontutor.com/). Although it's called Python Tutor, we can also use it to run JavaScript code (amongst other languages). In the coming lessons, we'll be using this interactive tool to execute our JavaScript code. The cool thing about this tool is that it also helps you to visualize what happens behind the scenes during code execution.
+
+The video below demonstrates how to use this tool.
+
+<details><summary><strong>Watch Video</strong></summary>
+
+</details>
+

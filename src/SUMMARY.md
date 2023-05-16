@@ -75,14 +75,21 @@
 
 
 
-<!--
-### Week 4
 
-- [Action and Interaction](lessons/action-and-interaction.md)
-  - [Introduction to JavaScript](lessons/action-and-interaction/introduction-to-javascript.md)
-  - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
-  - [JavaScript and the page](lessons/action-and-interaction/javascript-and-the-page.md)
-  - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
-  - [Practice](lessons/action-and-interaction/practice.md)
-  - [Project](lessons/action-and-interaction/project.md)
+### Week 6
 
+- [JavaScript Fundamentals](lessons/javascript-fundamentals.md)
+  - [Introduction to JavaScript](lessons/javascript-fundamentals/introduction-to-javascript.md)
+  - [Variables and Data Types](lessons/javascript-fundamentals/variables-and-datatypes.md)
+  - [Operators](lessons/javascript-fundamentals/operators.md)
+  - [Conditions and Loops](lessons/javascript-fundamentals/conditions-and-loops.md)
+  - [Functions](lessons/javascript-fundamentals/functions.md)
+  - [Arrays](lessons/javascript-fundamentals/arrays.md)
+  - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
+  - [Practice](lessons/javascript-fundamentals/practice.md)
+
+
+<!--   - [Project](lessons/javascript-fundamentals/project.md)
+ - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
+- [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
+>
