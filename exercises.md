@@ -1,7 +1,7 @@
 # Exercises
 
 You can clone all the exercises for this course into an ignored hidden folder called
-`.exercises`. All the exercises have their own git repos, so take care not to
+`exercises`. All the exercises have their own git repos, so take care not to
 accidentally add them to this repository; submodules and nested git projects are
 messy.
 
@@ -11,7 +11,7 @@ Do a little shell-dance to clone each of the exercises (check the map of
 exercises, git urls, and where they'll end up with `cat exercise-map.txt`)
 
 ```sh
-mkdir -p .exercises
+mkdir -p exercises
 while read -r line; do
   project=`echo $line | cut -d ':' -f 1`
   mkdir -p $project
@@ -26,7 +26,7 @@ done < ../list-of-exercises.txt
 
 To refresh all the exercises
 
-From `.exercises`:
+From `exercises`:
 
 ```sh
 find . -type d -maxdepth 2 -mindepth 2  |
@@ -42,9 +42,9 @@ done
 ## Update the list of exercises
 
 i.e. if you added or removed an exercise (folder within one of the weeks in
-`.exercises`, with a git remote)
+`exercises`, with a git remote)
 
-from .exercises:
+from exercises:
 
 ```sh
 setopt PUSHDSILENT
@@ -64,7 +64,7 @@ add them as new remotes, and push each project and exercise to the new repo.
 * Edit so that the org name and remote name match the term
 * Requires the [Github CLI](https://cli.github.com/)
 
-from `.exercises`:
+from `exercises`:
 
 ```sh
 find . -type d -maxdepth 2 -mindepth 2  |
@@ -83,7 +83,7 @@ done
 
 change 'main' and 'oct-22' as appropriate
 
-from `.exercises`:
+from `exercises`:
 
 ```sh
 find . -type d -maxdepth 2 -mindepth 2  |
@@ -125,7 +125,7 @@ co main
 
 ## Exercises 
 
-After you run 'clone all' script, you should have a directory `.exercises` with
+After you run 'clone all' script, you should have a directory `exercises` with
 the exercises in the `list-of-exercises.txt` file
 
-`tree -L 2 .exercises` shows the exercises.
+`tree -L 2 exercises` shows the exercises.
