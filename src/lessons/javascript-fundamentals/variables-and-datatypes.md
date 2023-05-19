@@ -157,6 +157,7 @@ console.log("\"I am learning\", says Ade");
 
 You can also include special characters in your strings such as the tab `\t` and newline `\n`. If you need a backslash, simply use two backslash symbols `\\`.
 
+### Some String Functions
 
 ### Booleans
 

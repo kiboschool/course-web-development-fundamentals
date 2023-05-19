@@ -82,14 +82,28 @@
   - [Introduction to JavaScript](lessons/javascript-fundamentals/introduction-to-javascript.md)
   - [Variables and Data Types](lessons/javascript-fundamentals/variables-and-datatypes.md)
   - [Operators](lessons/javascript-fundamentals/operators.md)
-  - [Conditions and Loops](lessons/javascript-fundamentals/conditions-and-loops.md)
-  - [Functions](lessons/javascript-fundamentals/functions.md)
   - [Arrays](lessons/javascript-fundamentals/arrays.md)
+  - [Conditions](lessons/javascript-fundamentals/conditions.md)
+  - [Loops](lessons/javascript-fundamentals/loops.md)
+  - [Functions](lessons/javascript-fundamentals/functions.md)  
   - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
   - [Practice](lessons/javascript-fundamentals/practice.md)
 
+### Week 7
+- [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
+  <!-- [Objects](lessons/more-functions-more-arrays/objects.md)
+  - [Arrays and Loops](lessons/more-functions-more-arrays/arrays-and-loops.md)-->
+  - [More on Arrays](lessons/more-functions-more-arrays/more-on-arrays.md)
+  - [Math Functions](lessons/more-functions-more-arrays/math-functions.md)
+  - [String Functions](lessons/more-functions-more-arrays/string-functions.md)
+  - [More on Functions](lessons/more-functions-more-arrays/more-on-functions.md)
+  - [Debugging](lessons/more-functions-more-arrays/debugging.md)
+  - [Practice](lessons/more-functions-more-arrays/practice.md)
 
+### Week 8
+  - [Practice](lessons/dom-and-events/practice.md)
 <!--   - [Project](lessons/javascript-fundamentals/project.md)
  - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
 - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
 >
+--<details><summary><strong></strong></summary></details>--
