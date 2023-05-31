@@ -89,6 +89,7 @@
   - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
   - [Practice](lessons/javascript-fundamentals/practice.md)
 
+
 ### Week 7
 - [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
   <!-- [Objects](lessons/more-functions-more-arrays/objects.md)
@@ -100,10 +101,19 @@
   - [Debugging](lessons/more-functions-more-arrays/debugging.md)
   - [Practice](lessons/more-functions-more-arrays/practice.md)
 
+
 ### Week 8
+- [DOM and Events](lessons/dom-and-events.md)
+  - [The Document Object Model](lessons/dom-and-events/dom.md)
+  - [Navigating the DOM](lessons/dom-and-events/navigating-dom.md)
+  - [Changing the DOM](lessons/dom-and-events/changing-dom.md)
+  - [Handling Events](lessons/dom-and-events/events.md)
+  - [Event Propagation](lessons/dom-and-events/event-propagation.md)
   - [Practice](lessons/dom-and-events/practice.md)
+
+
 <!--   - [Project](lessons/javascript-fundamentals/project.md)
  - [JavaScript syntax](lessons/action-and-interaction/javascript-syntax.md)
 - [Events in JavaScript](lessons/action-and-interaction/responding-to-events-in-javascript.md)
 >
---<details><summary><strong></strong></summary></details>--
+--<details><summary><strong></strong></summary></details>-->
