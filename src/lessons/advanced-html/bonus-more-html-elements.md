@@ -1,13 +1,5 @@
 # More HTML Elements
 
-<aside>
-
-😃 This is a bonus section on other HTML tags.
-
-You don’t need to know these, but they’re pretty cool if you have extra time!
-
-</aside>
-
 ## Other elements and tags
 
 As you learn more web development, you’ll see tons of other tags.
@@ -20,10 +12,10 @@ There are lots of elements for particular kinds of styled text.
 
 Here’s some of the tags, but without examples. Don’t try to memorize them. Instead, skim them, and then remember that you can always go back and look up the right element to use for a particular situation.
 
-<details>
+<!-- <details>
 <summary>
 <strong>List: stylized text elements</strong>
-</summary>
+</summary> -->
 
 - `<code>`: used to style blocks of code.
 - `<pre>`: used for text that has been pre-formatted, like a poem, where the spaces are already there. Otherwise, spaces, tabs, and newlines all get collapsed by the browser.
@@ -35,56 +27,13 @@ Here’s some of the tags, but without examples. Don’t try to memorize them. I
 - `<blockquote>`: A block quote, usually multiple lines
 - `<mark>`: Highlighted text
 - `<del>`, `<ins>`: Text that’s been deleted or inserted
-- `<sub>`, `<sup>`: Subscript ($_{subscript}$) and Superscript ($^{superscript}$)
+- `<sub>`, `<sup>`: Subscript (<sub>subscript</sub>) and Superscript (<sup>superscript</sup>)
 
-</details>
-
-### Semantic elements
-
-**Semantics** refers to the *meaning* of a piece of code. It’s about "*what purpose or role does that HTML element have*", rather than "*what does it look like?"*.
-
-> When approaching which markup to use, ask yourself, "What element(s) best describe/represent the data that I'm going to populate?”
->
-> *MDN*
->
-
-HTML elements mean something. A `<p>` isn’t just styled like a paragraph, it tells other programs that the text inside *really is* a paragraph.
-
-There are lots of kinds of “things” that go on webpages. For many of them, there’s a matching HTML element. Here’s some examples (there’s more than 100!)
-
-<details>
-<summary>
-<strong>List of Semantic Elements</strong>
-</summary>
-
-- `<article>`
-- `<section>`
-- `<nav>`
-- `<footer>`
-- `<aside>`
-- `<details>`
-- `<summary>`
-
-</details>
-
-<details>
-<summary>
-<strong>Further Exploration: Semantic Elements</strong>
-</summary>
-
-[https://developer.mozilla.org/en-US/docs/Glossary/semantics](https://developer.mozilla.org/en-US/docs/Glossary/semantics)
-
-Questions to explore:
-
-- Why use Semantic HTML?
-- What are the benefits of Semantic Elements?
-- When would you use these?
-
-</details>
+<!-- </details> -->
 
 ### `<div>`, `<span>`: Generic Elements
 
-Sometimes, you don’t know which semantic element to use. `<div>` stands for “division” and it’s a generic block of HTML. `<span>` is a generic “span” of text characters, inline with some other text. If you don’t know another element that’s more appropriate, you can use one of these instead.
+In a previous lesson this week, we talked about semantic elements. Sometimes, you don’t know which semantic element to use. `<div>` stands for “division” and it’s a generic block of HTML. `<span>` is a generic “span” of text characters, inline with some other text. If you don’t know another element that’s more appropriate, you can use one of these instead.
 
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ZExGgPV" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rrcobb/pen/ZExGgPV">
@@ -115,7 +64,7 @@ When you create an HTML project, your editor might suggest a bunch of default st
 
 ### Multimedia and Embedding
 
-There are lots of tags for including media on a webpage.
+We talked about multimedia elements previously. As a recap, it is good to to know that there are lots of tags for including media on a webpage.
 
 <details>
 <summary>
@@ -138,7 +87,7 @@ There are lots of tags for including media on a webpage.
 
 ### Forms
 
-There is a whole set of HTML tags that are all about forms. We’ll focus on them in Week 3, but here’s the list as a preview:
+There is a whole set of HTML tags that are all about forms, here’s the list as a preview:
 
 <details>
 <summary>
@@ -155,7 +104,7 @@ There is a whole set of HTML tags that are all about forms. We’ll focus on the
 
 `<option>` is for the items in a select dropdown, like `<li>` is for items in a list
 
-MDN has [several pages on Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms). We’ll learn more in Week 3.
+MDN has [several pages on Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms).
 
 </details>
 

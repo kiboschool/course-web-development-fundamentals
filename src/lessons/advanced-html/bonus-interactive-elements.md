@@ -1,4 +1,4 @@
-# Bonus: Interactive HTML Elements
+# Interactive HTML Elements
 
 You have already seen elements and properties that help create interactivity.
 
@@ -39,7 +39,7 @@ There is always more underneath!
 
 You’ve also learned a couple of CSS tricks that create some interactive feeling:
 
-- Using the `:hover` selector to style elements when they are hovered (hover on MDN)
+- Using the `:hover` selector to style elements when they are hovered ([hover on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover))
 - Using the `cursor` property to style the cursor ([cursor on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor))
 
 <p class="codepen" data-height="300" data-default-tab="css,result" data-slug-hash="xxWrxKd" data-user="rrcobb" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
