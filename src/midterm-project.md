@@ -56,4 +56,4 @@ It may be helpful to create a **design doc**. Using Google docs or a text file i
 ## Accept the Assignment
 
 
-[Open the assignment on Github Classroom]()
+[Open the assignment on Github Classroom](https://classroom.github.com/a/Qu9vz8Gx)
