@@ -2,7 +2,7 @@
 
 ---
 
-**Due Date: 10pm GMT Dec 18**
+**Due Date: XXX**
 
 <aside>
 
@@ -36,14 +36,14 @@ course, as outlined in the rubric below.
 
 | Points | Criteria | Description |
 |---|---|---|
-| 50 pts | Site is complete  | - valid HTML, CSS, JS<br>- no errors<br>- nothing on the site appears incomplete |
-| 20 pts | Site uses appropriate HTML elements | - Should use at least 10 different elements<br>- Elements should be used for their intended purposes |
+| 20 pts | Site is complete  | - valid HTML, CSS, JS<br>- no errors<br>- nothing on the site appears incomplete |
+| 10 pts | Site uses appropriate HTML elements | - Should use at least 10 different elements<br>- Elements should be used for their intended purposes |
 | 10 pts | Site is styled effectively | - Color palette creates contrast<br>- Appropriate spacing between elements<br>- Text is styled for readability |
-| 10 pts | Site uses JavaScript for interactions | - An event listener triggers an action on the page |
+| 30 pts | Site uses JavaScript for interactions | - Event listeners trigger actions on the page<br>- Trigger at least 10 different actions. Examples:<br>- Change the displayed text of an element <br>- Change an element's colour <br>- Change an element's background colour <br>- Create a new element <br>- Delete an existing element <br>- Hide an element <br>- Display an element|
 | 10 pts | Code is styled well | - indented properly<br>- organized effectively<br>- appropriately commented |
-| 10 pts | (Bonus) Deployment | Site is deployed on Github Pages |
+| 20 pts |  Deployment | Site is deployed on Github Pages |
 | 10 pts | (Bonus) Additional features | For example, social cards or HTML media elements |
-| **100** | **Total** | 120 possible points with the bonus, scored out of 100 |
+| **100** | **Total** | 110 possible points with the bonus, scored out of 100 |
 
 ## Topic and Design Guidelines
 
@@ -54,8 +54,7 @@ overwhelming or impossible to complete.
 Here’s some guidelines that can help you pick an exciting project you’ll be
 able to complete.
 
-- Your final project should be about as complicated as the most complicated
-  exercises and projects you’ve already done, or maybe a little bit more advanced.
+- Your final project should be more advanced than the exercises you've done. It should be a complete website that achieves a goal.
 - Don’t plan to learn a whole new technology for the final project. Plan to use
   mostly what you’ve already learned (with a little bit more Googling for the
   things you run into along the way).

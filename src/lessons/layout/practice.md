@@ -1,4 +1,38 @@
-# Practice
+# Week 4 Exercises
+
+**Due Date: XXX**
+
+In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
+
+
+<aside>
+
+
+💡 This is an individual project. You are expected to work independently.
+
+If you get stuck, confused, or have trouble with the project, ask for help on Discord or attend Office Hours. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
+
+</aside>
+
+## Mandatory Exercises
+This week, the mandatory exercises are:
+
+1. **Laid Back Recipes Layout**: Lots of websites use "cards" to make browsing more appealing. You are given a recipe site that has styled the overview information about some of its recipes to look like cards. But, the recipes aren't organized well on the page. Your job will be to use layout to make the recipe cards look great.
+
+1. **Profile Page Layout**: In this project, you'll be creating a layout for your profile page. You'll add some styling, you should also make the layout a little more interesting while still making sure the content is legible.
+
+
+
+## Accept the Assignment
+<!-- >
+> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
+
+[Open the assignment on Github Classroom](https://classroom.github.com/a/kKcf5Lf7)
+
+
+
+
+<!-- # Practice
 
 <aside>
 
@@ -47,4 +81,4 @@ This project will stretch your Web Design skills. You’ll work to recreate the 
 
 **Warning**: This project is quite extensive. Only tackle it if you are sure you have time.
 
-</aside>
+</aside> -->

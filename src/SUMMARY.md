@@ -3,6 +3,7 @@
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)
 [Weekly Projects](weekly-projects.md)
+[Midterm Project](midterm-project.md)
 [Final Project](final-project.md)
 
 ## Lessons
@@ -103,3 +104,10 @@
     - [Handling Events](lessons/dom-and-events/events.md)
     - [Event Propagation](lessons/dom-and-events/event-propagation.md)
     - [Practice](lessons/dom-and-events/practice.md)
+
+### Week 9
+- [Advanced JavaScript](lessons/advanced-javascript.md)
+    - [Modules](lessons/advanced-javascript/modules.md)
+    - [Libraries and Frameworks](lessons/advanced-javascript/libraries-frameworks.md)
+    - [Node/NPM](lessons/advanced-javascript/node-and-npm.md)
+    - [Testing](lessons/advanced-javascript/testing.md)
