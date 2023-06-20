@@ -1,4 +1,4 @@
-# Web Foundations
+# Web Development Fundamentals
 
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)

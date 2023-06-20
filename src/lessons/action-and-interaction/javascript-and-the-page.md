@@ -44,7 +44,7 @@ document.querySelector('h1.menu-title').innerText
 
 <details><summary>Result</summary>
 
-When I run that snippet, I see the text that’s in the top bar, "Web Foundations".
+When I run that snippet, I see the text that’s in the top bar, "Web Development Fundamentals".
 
 </details>
 

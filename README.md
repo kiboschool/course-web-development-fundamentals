@@ -1,6 +1,8 @@
-# Web Foundations
+# Web Development Fundamentals
 
-The files for Kibo's Web Foundations course. https://web-foundations.vercel.app/
+The files for Kibo's Web Development Fundamentals course. 
+
+_Note: This course was previously called Web Foundations, and was only 5 weeks. It uses the same repository, but has a different deployed url: https://web-foundations.vercel.app/_
 
 ## What's here?
 
