@@ -1,32 +1,35 @@
-# Practice
+# Week 1 Exercises
 
-> 💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.
+**Due Date: XXX**
 
-**If you get stuck**
+In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. This will be the pattern throughout the course. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
-1. Read the instructions again.
-2. Remember **G**o **C**limb **K**ibo - first Google, then ask the Community on Discord, then reach out to the Kibo team.
 
 <aside>
 
-**Tip**: 🕵🏾 These practice exercises are a good chance to use the **DevTools**.
+
+💡 This is an individual project. You are expected to work independently.
+
+If you get stuck, confused, or have trouble with the project, ask for help on Discord or attend Office Hours. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
 </aside>
 
-## Chicken Peanut Stew Recipe Page
+## Mandatory Exercises
+This week, the mandatory exercises are:
 
-> 🍲 Starting with a plain text version of a recipe, write the HTML markup to turn it into a webpage.
->
-> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/O9b8VYk_)
+1. **Chicken Peanut Stew**: In this exercise, you'll take a recipe that's written in text and turn it into an HTML page. You'll practice choosing the 
+appropriate elements for different pieces of information and writing the HTML from scratch.
 
-## Shirt City Landing Page: Debug
+2. **Shirt City**: Here, your task is to identify and fix errors in a given html file to obtain the desired result, as specified.
 
-> 👕 Help the new clothing brand Shirt City debug their landing page.
->
-> [![shirt-city](https://img.shields.io/static/v1?label=Open%20Project&message=shirt%20city&color=blue)](https://classroom.github.com/a/CiIkIvVu)
 
-## Make a Greeting Card
 
-> 🎉 Starting with the working version of a Birthday Card web page, edit the HTML and CSS to make it your own.
->
-> [![greeting-card](https://img.shields.io/static/v1?label=Open%20Project&message=greeting%20card&color=blue)](https://classroom.github.com/a/mAHJBeEw)
+
+<!-- <details><summary>This video works you through the submission of your project</summary></details> -->
+
+
+## Accept the Assignment
+<!-- >
+> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
+
+[Open the exercise on Github Classroom](https://classroom.github.com/a/8GyiVIrS)

@@ -10,8 +10,7 @@ Starting in the 1960s, university and government researchers created a system to
 between computers. That system, called ARPANET, established protocols for file sharing, routing, and messaging that
 grew into the public internet.
 
-Since then, the internet has grown to become a global network of cables, cell towers, satellites, phones, and computers
-, all connected by _networking protocols_ descended from those of ARPANET.
+Since then, the internet has grown to become a global network of cables, cell towers, satellites, phones, and computers, all connected by _networking protocols_ descended from those of ARPANET.
 
 You may have seen protocols like `http` (it's in the address bar, or at the beginning of a URL). **Protocols** like HTTP (the hypertext transfer protocol)
 are _sets of rules_ that software programs follow so that they understand each other.

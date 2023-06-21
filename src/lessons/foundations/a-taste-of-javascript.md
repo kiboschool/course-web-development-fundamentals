@@ -46,4 +46,4 @@ document.querySelector('#yum')
 
 The same CSS selectors that you use for styles will also let you pick HTML elements in your JS code.
 
-In week 3, we’ll talk more about how the rest of the code works.
+In week 6, we’ll talk more about how the rest of the code works.

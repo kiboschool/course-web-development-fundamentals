@@ -1,4 +1,11 @@
-# Practice
+# Week 5
+
+## Mandatory Exercises
+
+This week, the mandatory task is your mid-term project. 
+
+
+## Optional Exercises
 
 <aside>
 
@@ -6,7 +13,7 @@
 
 </aside>
 
-## HTML Slideshow Readme
+### HTML Slideshow Readme
 
 <aside>
 
@@ -17,7 +24,7 @@
 </aside>
 
 
-## Add Cool Link Previews
+### Add Cool Link Previews
 
 <aside>
 
@@ -28,7 +35,7 @@
 
 </aside>
 
-## Publish and share a site
+### Publish and share a site
 
 Instead of focusing on building from scratch, this project asks you to polish a previous project, publish it, and share it.
 

@@ -47,7 +47,7 @@ The `display` property controls how each element gets treated in the flow.
 - Is it treated as _block_ or _inline_? (the **outside** display)
 - How do elements flow **inside** the element? (the **inside** display)
 
-First we'll talk more about block and inline elements, then we'll talk more
+First, we'll talk more about block and inline elements, then we'll talk more
 about another kind of flow called _flexbox_.
 
 ### Block and Inline

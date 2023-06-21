@@ -1,50 +1,30 @@
-# Practice
+# Week 3 Exercises
+
+**Due Date: XXX**
+
+In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
+
 
 <aside>
 
-💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.
+
+💡 This is an individual project. You are expected to work independently.
+
+If you get stuck, confused, or have trouble with the project, ask for help on Discord or attend Office Hours. Try not to spoil the project for others - use Discord spoiler tags if you are going to include a screenshot or code sample.
 
 </aside>
 
-<!-- *If you can’t do the challenge without looking the solution, it means you don’t understand the material well enough yet. Try the next practice challenge without looking at the solution. If you need more practice challenges, reach out on Discord.* -->
+## Mandatory Exercises
+This week, the mandatory exercises are:
 
-## Biography page
-
-<aside>
-
-🤖  Help fix the style of Jane Doe's biography page. Use your text styling, color, and box model skills.
-
-[![biography-page](https://img.shields.io/static/v1?label=Open%20Project&message=biography%20page&color=blue)](https://classroom.github.com/a/sUvJMpeG)
-
-</aside>
+1. **Biography Page**: In this exercise, Your goal is to style the biography page, to achieve the given desired look.
 
 
-## Wanted Poster
+1. **Voices of Open Source**: You're going to help style an article to look like it a blog that can be found [here](https://blog.opensource.org/helping-open-source-projects-thrive-by-putting-essential-licensing-data-at-teams-fingertips/)
 
-<aside>
 
-🤖 There’s a wanted robot! Use your Web Design skills to help make the poster look awesome.
+## Accept the Assignment
+<!-- >
+> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
 
-[![wanted-poster](https://img.shields.io/static/v1?label=Open%20Project&message=wanted%20poster&color=blue)](https://classroom.github.com/a/23AX_tLp)
-
-</aside>
-
-## Recipe Site, revisited
-
-<aside>
-
-🍲 In this exercise, you’ll bring together different parts of the web design skills you’ve learned together to style the recipe page you built in the practice in week 1. Make it beautiful!
-
-[![peanut-stew-two](https://img.shields.io/static/v1?label=Open%20Project&message=peanut%20stew%20two&color=blue)](https://classroom.github.com/a/OA7o4vY5)
-
-</aside>
-
-## Voices of Open Source
-
-<aside>
-
-🎤 In this larger exercise, you'll recreate the styles from an open source blog post.
-
-[![voices-of-open-source](https://img.shields.io/static/v1?label=Open%20Project&message=voices%20of%20open%20source&color=blue)](https://classroom.github.com/a/mFEsehbv)
-
-</aside>
+[Open the assignment on Github Classroom](https://classroom.github.com/a/3OUdXjSQ)
