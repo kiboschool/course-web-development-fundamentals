@@ -2,7 +2,7 @@
 
 Now that you can make websites, you need to be able to publish them and share them! That's what these lessons are about.
 
-<!-- > This content is _optional_. We think it's cool to be able to publish your site online, but you can come back to it later. -->
+This week, you'll also work on your Midterm Project. There won't be a quiz or mandatory exercises to complete.
 
 ## Learning Objectives
 

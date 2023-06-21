@@ -1,5 +1,7 @@
-## Functions
+# Functions
+
 Functions let us reuse code.
+
 As you may have inferred from the examples, the function call syntax in JS is similar to Python. `console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
 
 To define a function in JavaScript, you can use the `function` keyword the way you would use `def` in Python. As with conditional statements and loops, there are more parentheses and brackets. After the `function` keyword, we specify the name of the function, followed by parameters in brackets. Then we have a pair of curly brackets. Inside the pair of curly brackets goes the body of our function.
@@ -13,12 +15,15 @@ greetPerson("Tolu") // logs "Hello, Tolu"
 greetPerson("Rosemary") // logs "Hello, Rosemary"
 greetPerson("Oluwaseyi") // logs "Hello, Oluwaseyi"
 ```
+
 <aside>
 
 This function accepts a name as a parameter and prints, `Hello` plus the name in the console.
+
 </aside>
 
 ## Calling a Function
+
 Remember, that when you define a function, it does not run/execute. To get a function to execute the lines of codes in it, we have to `call` or `invoke` the function.  We call a function the same way we do in Python, we specify the function name, and pass in our arguments inside the parenthesis.
 
 ### Naming your functions
@@ -30,6 +35,7 @@ The rules guiding how we name variables, also guides how we name functions. For 
 Some functions require parameters and others do not. This depends on how the function was defined. If you define a function with empty parenthesis, then it does not require a parameter to be passed in. If parameters are defined, then when calling the funtion, you need to pass in those parameters. Our very useful `console.log()` function requires that we pass in a parameter which is displayed on the console. Similarly, the `greetPerson()` function we defined in a previous example, requires that we pass in a parameter.
 
 #### Default Parameters
+
 Some functions define optional parameters. By the name, this implies that it is optional to pass in this parameter at the point of calling a function. If the paramter is passed in, the function uses that value. On the other hand, if the parameter is not provided, a default value can be used by the function. So how do we define optional parameters.
 
 If you're writing a function and want to support optional parameters, you can specify default values by adding `=` after the name of the parameter, followed by the default value. Let us modify our `greetPerson` example to see how that works.
@@ -43,7 +49,7 @@ Now if a parameter is supplied to our function, `Hello name`  is logged to the c
 
 </aside>
 
-****Watch Video on Default parameters**
+**Watch Video on Default parameters**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PkZNo7MFNFg?start=10388&end=10442" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>

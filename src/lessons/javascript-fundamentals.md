@@ -11,11 +11,11 @@ JavaScript is a different kind of language than HTML and CSS. It's more like Pyt
 After this week, you will be able to:
 
 - Use the console to experiment with JavaScript on a page
-- XXX
--
--
--
-<!-- Write JavaScript to make changes on the page in response to user actions-->
+- Recognize JavaScript variables and data types
+- Use JavaScript operators
+- Store data in JavaScript Arrays
+- Perform logic with JavaScript conditional statements
+- Write reusable JavaScript functions
 
 <!-- 
 ## Welcome Video
@@ -24,8 +24,5 @@ TODO: welcome video -->
 
 ## An overview of this week content
 
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/KnLXeYemMTw" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </details>
-
-# <span></span>

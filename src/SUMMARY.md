@@ -21,10 +21,11 @@
 
 
 ### Week 2
+
 - [Advanced HTML](lessons/advanced-html.md)
-    - [HTML Tables](lessons/advanced-html/html-tables.md)    
-    - [Multimedia Elements](lessons/advanced-html/multimedia-html-elements.md) 
-    - [Interactive Elements](lessons/advanced-html/bonus-interactive-elements.md)    
+    - [HTML Tables](lessons/advanced-html/html-tables.md)
+    - [Multimedia Elements](lessons/advanced-html/multimedia-html-elements.md)
+    - [Interactive Elements](lessons/advanced-html/bonus-interactive-elements.md)
     - [Semantic HTML](lessons/advanced-html/semantic-html.md)
     - [More HTML elements](lessons/advanced-html/bonus-more-html-elements.md)
     - [More CSS Selectors](lessons/advanced-html/more-css-selectors.md)
@@ -33,6 +34,7 @@
 
 
 ### Week 3
+
 - [Web Design](lessons/web-design.md)
     - [What is Web Design?](lessons/web-design/what-is-web-design.md)
     - [Styling Text](lessons/web-design/styling-text.md)
@@ -42,7 +44,7 @@
     - [Colors](lessons/web-design/colors.md)
     - [The Box Model](lessons/web-design/the-box-model.md)
     - [Practice](lessons/web-design/practice.md)
-    <!-- - [Project](lessons/web-design/project.md) ->
+    <!-- - [Project](lessons/web-design/project.md) -->
 
 
 ### Week 4
@@ -51,7 +53,7 @@
     - [Layout](lessons/layout/layout.md)
     - [Flexbox](lessons/layout/flexbox.md)
     - [CSS Grid](lessons/layout/grid.md)
-    - [Positioning](lessons/layout/positioning.md)  
+    - [Positioning](lessons/layout/positioning.md)
     - [Bonus: More styling](lessons/bonus/multimedia-layout/bonus-more-styling.md)
     - [Practice](lessons/layout/practice.md)
 
@@ -65,10 +67,6 @@
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
-    
-
-
-
 
 ### Week 6
 
@@ -79,7 +77,7 @@
     - [Arrays](lessons/javascript-fundamentals/arrays.md)
     - [Conditions](lessons/javascript-fundamentals/conditions.md)
     - [Loops](lessons/javascript-fundamentals/loops.md)
-    - [Functions](lessons/javascript-fundamentals/functions.md)  
+    - [Functions](lessons/javascript-fundamentals/functions.md)
     - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
     - [Practice](lessons/javascript-fundamentals/practice.md)
 
@@ -107,7 +105,7 @@
 
 ### Week 9
 - [Advanced JavaScript](lessons/advanced-javascript.md)
+    - [Node and NPM](lessons/advanced-javascript/node-and-npm.md)
     - [Modules](lessons/advanced-javascript/modules.md)
     - [Libraries and Frameworks](lessons/advanced-javascript/libraries-frameworks.md)
-    - [Node/NPM](lessons/advanced-javascript/node-and-npm.md)
     - [Testing](lessons/advanced-javascript/testing.md)
