@@ -100,7 +100,7 @@
     - [Navigating the DOM](lessons/dom-and-events/navigating-dom.md)
     - [Changing the DOM](lessons/dom-and-events/changing-dom.md)
     - [Handling Events](lessons/dom-and-events/events.md)
-    - [Event Propagation](lessons/dom-and-events/event-propagation.md)
+    <!-- - [Event Propagation](lessons/dom-and-events/event-propagation.md) -->
     - [Practice](lessons/dom-and-events/practice.md)
 
 ### Week 9

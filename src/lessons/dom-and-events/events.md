@@ -21,14 +21,18 @@ The addEventListener method allows you to add any number of handlers so that it 
 # Remove Event Listener
 The removeEventListener method, called with arguments similar to addEventListener, removes a handler.
 
+```html
 <button>Act-once button</button>
 <script>
-let button = document.querySelector("button");
-function once() {
-console.log("Done.");
-button.removeEventListener("click", once);
-}
-button.addEventListener("click", once);
+  let button = document.querySelector("button");
+  function once() {
+    console.log("Done.");
+    button.removeEventListener("click", once);
+  }
+  button.addEventListener("click", once);
+</script>
+```
+
 The function given to removeEventListener has to be the same function
 value that was given to addEventListener. So, to unregister a handler, you’ll
 want to give the function a name (once, in the example) to be able to pass the
