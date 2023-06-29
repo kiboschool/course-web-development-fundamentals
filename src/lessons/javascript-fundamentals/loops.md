@@ -226,3 +226,6 @@ while(i < 10){
 }
 ```
 
+### Activity
+👉🏿 **Try it**: Write a loop to iterate through all the numbers from 1 to 100. In the loop, print all the numbers that are divisible by 5 only.
+👉🏿 **Try it**: Write a loop to iterate through all numbers from 1 to 100. Once the loop gets to a number that is divisible by 15, terminate the loop.
