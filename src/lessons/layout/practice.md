@@ -4,7 +4,6 @@
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
-
 <aside>
 
 
@@ -15,70 +14,21 @@ If you get stuck, confused, or have trouble with the project, ask for help on Di
 </aside>
 
 ## Mandatory Exercises
+
 This week, the mandatory exercises are:
 
-1. **Laid Back Recipes Layout**: Lots of websites use "cards" to make browsing more appealing. You are given a recipe site that has styled the overview information about some of its recipes to look like cards. But, the recipes aren't organized well on the page. Your job will be to use layout to make the recipe cards look great.
+1. **Block and Inline**: In this exercise, you'll practice setting the display property to block or inline. 
 
-1. **Profile Page Layout**: In this project, you'll be creating a layout for your profile page. You'll add some styling, you should also make the layout a little more interesting while still making sure the content is legible.
+2. **Flexbox skills** Check your flexbox skills by solving these small challenges.
 
+3. **Grid skills** Check your grid skills by solving these small challenges.
 
+4. **Layout**: Check your overall understanding of CSS Layout with this challenge.
+
+5. **Position**: Check your understanding of the position attribute with this challenge.
+
+6. **Laid Back Recipes Layout**: Lots of websites use "cards" to make browsing more appealing. In this challenge, you are given a recipe site that has styled the overview information about some of its recipes to look like cards. But, the recipes aren't organized well on the page. Your job will be to use layout to make the recipe cards look great.
 
 ## Accept the Assignment
-<!-- >
-> [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
 
 [Open the assignment on Github Classroom](https://classroom.github.com/a/kKcf5Lf7)
-
-
-
-
-<!-- # Practice
-
-<aside>
-
-💡 This is your chance to put what you’ve learned into action. Try solving these practice challenges to check that you understand the concepts.
-
-</aside>
-
-## Lay out the Recipe Cards
-
-<aside>
-
-🍽️ Help fix the layout of the recipe cards on the screen. Practice using flexbox.
-
-[![laid-back-recipes-layout](https://img.shields.io/static/v1?label=Open%20Project&message=laid%20back%20recipes%20layout&color=blue)](https://classroom.github.com/a/C8T3JNTL)
-
-</aside>
-
-## Improve the Kibo mini website
-
-<aside>
-
-🍽️ Help improve a mini version of the Kibo website. Practice using multimedia
-elements, flexbox and position.
-
-[![mini-kibo-website](https://img.shields.io/static/v1?label=Open%20Project&message=mini%20kibo%20website&color=blue)](https://classroom.github.com/a/7XFYiSJ1)
-
-</aside>
-
-## Profile Page Layout
-
-<aside>
-
-Follow the instructions to create the layout for your profile page.
-
-[![profile-page-layout](https://img.shields.io/static/v1?label=Open%20Project&message=profile%20page%20layout&color=blue)](https://classroom.github.com/a/DaKY3Z8y)
-
-</aside>
-
-## Landing Page Recreation
-
-<aside>
-
-This project will stretch your Web Design skills. You’ll work to recreate the awesome landing page from [restofworld.org](https://web.archive.org/web/20220428094707/http://restofworld.org/).
-
-[![recreate-rest-of-world](https://img.shields.io/static/v1?label=Open%20Project&message=recreate%20rest%20of%20world&color=blue)](https://classroom.github.com/a/-YPq4B8F)
-
-**Warning**: This project is quite extensive. Only tackle it if you are sure you have time.
-
-</aside> -->

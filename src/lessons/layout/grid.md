@@ -21,6 +21,7 @@ That video contained a lot of information! So let's highlight the important bits
 - The grid only applies to the grid items, not the elements inside a grid item.
 
 The grid container and grid item are structured like this:
+
 ```html
 <main> <!-- This is a grid container -->
     <h1>The title</h1> <!-- This is a grid item -->
@@ -98,6 +99,7 @@ Now it's time for the `ul` and the `section`. Remember: the elements within the 
         grid-row-end: 10;
     }
 ```
+
 For each element, I have to define which line I want the start and end my column and which lines I want to start and
 end my row, so using the line numbers, and the `start` and `end` suffixes for both the columns and rows, I can
 define the grid-area for these elements. Now the page looks like this:
@@ -146,3 +148,14 @@ Assuming there is only one grid, outline the grid on the page.
 You can use a drawing tool like [tldraw.com](https://www.tldraw.com/) to annotate the image.
 
 </aside>
+
+## Practice: CSS Grid Garden
+
+<aside>
+
+🌱 Go to **[Grid Garden](https://cssgridgarden.com/)** and try to get through all the levels, to learn how to use the different grid properties.
+
+It lets you learn the different grid properties by tending a garden. Nice! 🌱
+
+</aside>
+

@@ -19,6 +19,7 @@ We won’t cover every detail about layout in this lesson. We’ll focus on thre
 - Understanding Normal Flow
 - The `display` property
 - Flexbox
+- Grid
 
 There are tons more things to learn about layout, but with these four concepts, you should be able to achieve most layouts you want.
 
