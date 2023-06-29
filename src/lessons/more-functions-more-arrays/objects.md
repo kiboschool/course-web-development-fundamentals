@@ -14,3 +14,6 @@ console.log(party["date"]) // November 20
 JavaScript uses objects even more heavily than Python uses Dictionaries, but we won't go any deeper in this class.
 
 ## JSON - JavaScript Object Notation
+
+## Running JS with node
+### Accepting user input from the command line

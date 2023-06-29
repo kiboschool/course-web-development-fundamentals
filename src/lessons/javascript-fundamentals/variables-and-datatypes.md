@@ -13,7 +13,7 @@ JavaScript evaluates statements line by line.  For many of the basics, the synta
 
 <aside>
 
-In JavaScript, you are required to use a semicolon `;` after every statement.
+In JavaScript, you are required to use a semicolon `;` after every statement. Well, this is not always complusory, but it is good practice in JavaScript.
 </aside>
 
 ## Comments
@@ -47,15 +47,16 @@ It is actually possible to declare variables without any keyword, just as in Pyt
 </details>
 
 ### Declaring and Initializing Variables
-There are three keywords that can be used to declare variables, `let`, `var` and `const`. The `var` keyword was used in JavaScript between 1995 and 2015. Therefore, if you need your code to run on older browsers, you can use `var`, otherwise it is adivsed not to use it anymore. 
+There are three keywords that can be used to declare variables, `let`, `var` and `const`. The `var` keyword was used in JavaScript between 1995 and 2015. Therefore, if you need your code to run on older browsers, you can use `var`, otherwise it is advised not to use it anymore. 
 
 The `let` and `const` keywords on the other hand were added to JavaScript in 2015. The `const` is used to define variables that cannot change in a code; such variables are referred to as constants. For variables whose values can change, use the `let` keyword.
 
-<aside>
+<details>
 
+<summary><strong>Undeclared Variables</strong></summary>
 Read more on the differences between `var` and `let` [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables#a_note_about_var).
 
-</aside>
+</details>
 
 
 The following code snippet demonstrates how to declare and initialize variables.
@@ -106,7 +107,7 @@ The following guidelines apply in JavaScript:
 * Start your identifier with a letter. Numbers are not allowed.
 * Identifiers are case sensitive.
 * Do not use keywords as identifiers, since they are reserved words with special meaning. For example you cannot use the keyword `let` as an identifier. 
-* Use names that are intuitive - that describe the variable- to make your code clearer.
+* Use names that are intuitive - that describe the variable - to make your code clearer.
 
 ## Naming Conventions
 As you saw with the variable names in the examples (such as`costPerHour`), JavaScript typically uses "camelCase" naming for variables and functions, instead of the "snake_case" that Python typically uses.
@@ -131,7 +132,7 @@ Numbers are represented by typing them literally, like `15` or `-3.14`. Numbers 
 
 ### Strings
 
-Strings are used to represent text. They are wrapped in single or double quotes like in Python. They can also be enclosed in backticks. Ensure you are consistent with your eneclosing characters, the quotes at the start and end of the string must match.
+Strings are used to represent text. They are wrapped in single or double quotes like in Python. They can also be enclosed in backticks. Ensure you are consistent with your enclosing characters, the quotes at the start and end of the string must match.
 
 You can also escape special characters in strings by  using a backslash `\`, this is usually helpful when you need to use special characters in your strings. For example, let’s assume your string has a quote symbol in it.
 A sample string is: `"I am learning", says Ade"`
@@ -157,7 +158,6 @@ console.log("\"I am learning\", says Ade");
 
 You can also include special characters in your strings such as the tab `\t` and newline `\n`. If you need a backslash, simply use two backslash symbols `\\`.
 
-### Some String Functions
 
 ### Booleans
 

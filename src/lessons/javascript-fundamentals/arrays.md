@@ -66,12 +66,12 @@ When you have an array inside another array, it is called a multidimensional arr
 
 As seen in the code snippet, the item on index 2 is an array, so we can access it by saying `multiArray[2]`. Now to access the elements inside this inner array, we simply specify another index, which will point to items in the inner array, and so `multiArray[2][2]` returns `8`.
 
-Note that we can have arrays inside arrays, nested upto several levels.
+Note that we can have arrays inside arrays, nested up to several levels.
 
 </aside>
 
 ## Array Methods
-Different array methods exist to manipulate and work with arrays. For example, to find the inex of items in an array, use the `indexOf()` function. You simply specify the value of the item, if that item exists, the index is returned, otherwise, `-1` is returned.
+Different array methods exist to manipulate and work with arrays. For example, to find the index of items in an array, use the `indexOf()` function. You simply specify the value of the item, if that item exists, the index is returned, otherwise, `-1` is returned.
 
 **Try it!**
 ```js
@@ -95,4 +95,8 @@ Other array methods include:
 * `splice()`: to remove an item from a particular position, using its index.
 * `split()`: convert a string to an array.
 
+<aside>
+
 **Find examples on how to use these methods [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays#adding_items).**
+
+</aside>
