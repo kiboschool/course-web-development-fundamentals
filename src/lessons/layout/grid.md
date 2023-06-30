@@ -159,3 +159,12 @@ It lets you learn the different grid properties by tending a garden. Nice! 🌱
 
 </aside>
 
+## Check your Understanding: CSS Grid
+
+<aside>
+
+Check your grid skills by solving these [small challenges on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills). 
+
+</aside>
+
+

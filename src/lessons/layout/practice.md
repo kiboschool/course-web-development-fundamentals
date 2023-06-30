@@ -21,13 +21,7 @@ This week, the mandatory exercises are:
 
 2. **Flexbox skills** Check your flexbox skills by solving these small challenges.
 
-3. **Grid skills** Check your grid skills by solving these small challenges.
-
-4. **Layout**: Check your overall understanding of CSS Layout with this challenge.
-
-5. **Position**: Check your understanding of the position attribute with this challenge.
-
-6. **Laid Back Recipes Layout**: Lots of websites use "cards" to make browsing more appealing. In this challenge, you are given a recipe site that has styled the overview information about some of its recipes to look like cards. But, the recipes aren't organized well on the page. Your job will be to use layout to make the recipe cards look great.
+3. **Laid Back Recipes Layout**: Lots of websites use "cards" to make browsing more appealing. In this challenge, you are given a recipe site that has styled the overview information about some of its recipes to look like cards. But, the recipes aren't organized well on the page. Your job will be to use layout to make the recipe cards look great.
 
 ## Accept the Assignment
 
