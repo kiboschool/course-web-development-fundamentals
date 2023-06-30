@@ -84,8 +84,6 @@
 
 ### Week 7
 - [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
-    <!-- [Objects](lessons/more-functions-more-arrays/objects.md)
-    - [Arrays and Loops](lessons/more-functions-more-arrays/arrays-and-loops.md)-->
     - [More on Arrays](lessons/more-functions-more-arrays/more-on-arrays.md)
     - [Math Functions](lessons/more-functions-more-arrays/math-functions.md)
     - [String Functions](lessons/more-functions-more-arrays/string-functions.md)
@@ -110,4 +108,3 @@
     - [Testing](lessons/advanced-javascript/testing.md)
 
 
-    <!-- - [Event Propagation](lessons/dom-and-events/event-propagation.md) -->

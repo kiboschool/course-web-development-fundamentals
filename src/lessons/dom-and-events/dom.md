@@ -1,5 +1,5 @@
 # The Document Object Model (DOM)
-When a web browser opens an HTML page, the browser builds up a model of the document structure of the HTML file, this model is used to draw up the HTML page on the screen. This model is called the Document Object Model, commonly referred to as DOM. This DOM is available to every JavaScript program, and with it, you can make live changes to your web page. It is an object that can beused to manipulate the structure, style and content of every web page. It is represented in JavaScript by the `document` object. The HTML DOM document object is the owner of all other objects in your web page.
+When a web browser opens an HTML page, the browser builds up a model of the document structure of the HTML file, this model is used to draw up the HTML page on the screen. This model is called the Document Object Model, commonly referred to as DOM. This DOM is available to every JavaScript program, and with it, you can make live changes to your web page. It is an object that can be used to manipulate the structure, style and content of every web page. It is represented in JavaScript by the `document` object. The HTML DOM document object is the owner of all other objects in your web page.
 
 
 ## The Document Structure
@@ -24,7 +24,7 @@ Given the HTML page, the browser represents the page with a data structure simil
 
 ![nested element](/lessons/dom-and-events/dom/html_nested_boxes.png)
 
-You can picture the DOM as a tree of nodes.
+You can also picture the DOM as a tree of nodes.
 
 
 ## The `document` object
@@ -35,14 +35,35 @@ The DOM is organized like a tree, in which elements are arranged hierarchically 
 
 In Computer Science, a tree is similar to a real-life tree except that in this case, it is an upside down tree with the root above and branches beneath. The branches in a tree are referred to as nodes. Each node can have children nodes, parent nodes and sibling nodes. A leave node is a node which cannot have children nodes.
 
-The DOM object can be traversed as a tree and in this case, the document.documentElement property is the root. Nodes for `elements`, which represent HTML tags can have child nodes. An example of such a node is `document.body`.
+The DOM object can be traversed as a tree and in this case, the `document.documentElement` property is the root. Nodes for `elements`, which represent HTML tags can have child nodes. An example of such a node is `document.body`.
 In the DOM tree, text and comment nodes are leaves nodes beacuse they cannot have children nodes (for instance, you cannot have a tag inside a comment node).
 
 Now, let's visualize our previous HTML example with a Tree structure. 
 
-### Put DOm tree here
-### Types of Nodes
+```css
+Document
+└── html
+    ├── head
+    │   └── title
+    │       └── "My DOM Tree"
+    └── body
+        ├── h1
+        │   └── "H1 in body"
+        ├── p
+        │   ├── "P in body"
+        │   └── h1
+        │       └── "H1 in P tag"
+        └── p
+            └── "Another p tag"
+```
+
+As seen in the tree, the *body* node is a parent to the *h1* node and two *p* nodes. These three nodes are siblings. The first *p* node has a *text* node and an *h1* node as children. The last *p* node has a text node as a child and this is a leaf node, because it has no children nodes.
+
+<summary><strong>Watch Video on HTML DOM</strong></summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KShnPYN-voI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!-- ### Types of Nodes
 (node.nodeType
 -Element Node
-Text_node
+Text_node -->
 
