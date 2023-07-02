@@ -4,7 +4,7 @@ JavaScript and Python have similar capabilities. So, why use JavaScript at all? 
 
 When you include JavaScript on a webpage, your code has access to the elements on the page, and it can add, change, or remove them. JS can make things happen on the page!
 
-This lesson introduces some of the ways JS can interact with your HTML elements.
+This lesson introduces some of the ways JS can interact with your HTML elements. In a future lesson, we'll go depper into these concepts.
 
 > 🔎 This lesson requires running scripts in the Devtools. Open the Devtools now!
 
@@ -112,7 +112,7 @@ You can also remove classes too:
 document.querySelector('h1.menu-title').classList.remove('retro')
 ```
 
-## Copy-Paste-Edit Development
+<!-- ## Copy-Paste-Edit Development
 
 It’s very normal at this point to be confused about the vocabulary, the terms, the syntax, and how all of it actually works. Our focus right now is on two things:
 
@@ -123,7 +123,7 @@ You won’t learn everything about JavaScript syntax in this course. Instead, yo
 
 > **Don’t stop at Copy-Paste-Edit!**
 >
-> After you build some cool sites by copying and pasting code, you should take the time to learn more about how the language works! There’s lots of great JavaScript learning materials that you can use to build deeper knowledge.
+> After you build some cool sites by copying and pasting code, you should take the time to learn more about how the language works! There’s lots of great JavaScript learning materials that you can use to build deeper knowledge. -->
 
 ## Practice: The Cat That Disappeared
 

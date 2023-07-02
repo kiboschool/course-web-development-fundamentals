@@ -22,12 +22,21 @@ These operators are used to carry out mathematical operations.
 * **Remainder (modulo):** The `%` operator returns the remainder after a division: `18 % 3`.
 * **Exponent:** The `**` operator, also known as the power operator, raises a base number to the exponent: `3 ** 2 = 9`
 
-**Try out these operators on your console.**
+### Activity
+ 
+<aside>
+
+
+👉🏿 **Try it**: 
+
+Try out these operators on your console.
+
+</aside>
 
 ### Operator Precedence
 With respect to the arithmetic operators, the exponent operator has the highest level of precedence. Division `/` and multiplication `*` come next, and they have a higher precedence to addition and subtraction (which are both on the same level of precedence). When operators on the same level of precedence are used, the order of execution is from left to right.
 
-**Read more on Operator Precedence [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#operator_precedence)**
+
 
 <aside> 
 Always use parenthesis to make things clearer: `(3+6)*8`. Try this mathematical expression with and without the parentheses to see the difference.
@@ -36,20 +45,16 @@ When you do not use parentheses, the precedence of operators is used to determin
 </aside>
 
 
-<!-- 45%4
-## Try it
+<details><summary><strong>Further Reading</strong></summary>
 
-Special numbers in JavaScript
-Infinity
--Infinity and NaN
+Read more on Operator Precedence [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#operator_precedence)
+
+</details>
 
 
-The + operator can be used to concatenate, i.e., join strings.
-“le”+”ar”+”ni”+”ng”
-Copy the code and try in your console
--->
+
 ## Increment and Decrement Operators
-JavaScript also has the increment and decrement operators to repeatedly add or subtract one from a numeric value.
+JavaScript also has the increment and decrement operators to easily add or subtract one from a numeric value.
 
 **Try it** in the console:
 ```js
@@ -65,7 +70,7 @@ console.log(y)
 
 Assignment operators are used to assign a value to a variable. We have seen how to use `=` severally, it assigns the value on the right to the variable on the left. Apart from the basic `=`, other complex assignment operators exist. 
 
-For example, the __addition assignment__ operator, `+=`, it adds the values on the right to the variable on the left, and returns the new value. In like manner, we have the __subtraction assignment__ operator, `-=`, the __multiplication assignment__ operator, `*=`, and the __division assignment__ operator, `/=`.
+For example, the __addition assignment__ operator, `+=`, it adds the values on the right to the variable on the left, and assigns the new value to the variable. In like manner, we have the __subtraction assignment__ operator, `-=`, the __multiplication assignment__ operator, `*=`, and the __division assignment__ operator, `/=`.
 
 **Try it!**
 ```js
@@ -81,7 +86,7 @@ Similar to the Python programming language, there are several comparison operato
 <iframe width="800" height="500" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=//%20Uppercase%20vs%20lowercase%0Aconsole.log%28%22Kibo%22%20%3D%3D%20%22kibo%22%29%3B%0Aconsole.log%28%22Kibo%22%20%3D%3D%20%22Kibo%22%29%3B%0Aconsole.log%28%22%5Cn%22%29%3B%0A%0A//%20The%20%3D%3D%20operator%20does%20not%20check%20for%20difference%20in%20the%20data%20types%0Aconsole.log%28%225%22%20%3D%3D%205%29%3B%0A//%20The%20%3D%3D%3D%20checks%20for%20difference%20in%20the%20data%20types%0Aconsole.log%28%225%22%20%3D%3D%3D%205%29%3B%0A%0Aconsole.log%28%22%5Cn%22%29%3B%0Aconsole.log%287%20%3E%209%29%3B%0Aconsole.log%288%20%3C%3D%2010%29%3B&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=8&heapPrimitives=nevernest&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
 
 ## Logical Operators
-Logical operators are used to compare Boolean values. JavaScript supports three comparison operators, namely: `and`, `or`, and `and`. They are binary operators, with the exception of the `not` operator which is a unary operator.
+Logical operators are used to compare Boolean values. JavaScript supports three comparison operators, namely: `and`, `or`, and `not`. They are binary operators, with the exception of the `not` operator which is a unary operator.
 
 <p></p>
 
@@ -126,9 +131,27 @@ left of the question mark “picks” which of the other two values will come ou
 When it is true, it chooses the middle value, and when it is false, it chooses the
 value on the right.
 
-<aside>
+<details><summary><strong>Further Reading</strong></summary>
 
 There are several other JavaScript operators that exist. [Here's a list of them](https://www.w3schools.com/js/js_precedence.asp). The link also contains details on the precedence of all the operators.
 
-Practice the arithmetic operators by drawing different boxes [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#active_learning_sizing_a_canvas_box).
-</aside>
+
+</details>
+
+### Activity
+
+👉🏿 **Try it:**
+Practice the arithmetic operators by drawing different boxes [here.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#active_learning_sizing_a_canvas_box)
+
+<!-- 45%4
+## Try it
+
+Special numbers in JavaScript
+Infinity
+-Infinity and NaN
+
+
+The + operator can be used to concatenate, i.e., join strings.
+“le”+”ar”+”ni”+”ng”
+Copy the code and try in your console
+-->

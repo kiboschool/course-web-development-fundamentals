@@ -2,9 +2,11 @@
 
 Functions let us reuse code.
 
-As you may have inferred from the examples, the function call syntax in JS is similar to Python. `console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
+As you may have inferred from the examples in previous lessons, the function call syntax in JS is similar to Python. `console.log("hello")` passes the argument `"hello"` to the function `console.log`. The dot between `console` and `log` may be unfamiliar, but the function call works similarly to what you've used before.
 
-To define a function in JavaScript, you can use the `function` keyword the way you would use `def` in Python. As with conditional statements and loops, there are more parentheses and brackets. After the `function` keyword, we specify the name of the function, followed by parameters in brackets. Then we have a pair of curly brackets. Inside the pair of curly brackets goes the body of our function.
+## Declaring a Function
+
+To declare or define a function in JavaScript, you can use the `function` keyword the way you would use `def` in Python. As with the conditional statements and loops, there are also parentheses and brackets. After the `function` keyword, we specify the name of the function, followed by parameters in brackets. Then we have a pair of curly brackets. Inside the pair of curly brackets goes the body of our function.
 
 ```js
 function greetPerson(name) {
@@ -19,6 +21,15 @@ greetPerson("Oluwaseyi") // logs "Hello, Oluwaseyi"
 <aside>
 
 This function accepts a name as a parameter and prints, `Hello` plus the name in the console.
+
+</aside>
+
+### Activity:
+
+<aside>
+
+
+👉🏿 **Try it**: Type in and run the code snippet above in your console.
 
 </aside>
 
@@ -57,7 +68,7 @@ Now if a parameter is supplied to our function, `Hello name`  is logged to the c
 
 ## Anonymous Functions
 
-Did you know you can create a function without a name, yes that is possible in JavaScript and such functions are called anonymous functions. Anonymous functions are used when a function receives another function as a parameter; the function parameter is usually passed as an anonymous function. It can also be used when you want to store a function in a variable. Let use see an example.
+Did you know you can create a function without a name, yes that is possible in JavaScript and such functions are called anonymous functions. Anonymous functions are used when a function receives another function as a parameter; the function parameter is usually passed as an anonymous function. It can also be used when you want to store a function in a variable, this is called a function expression. Let us see an example.
 
 **Try it!**
 ```js
@@ -78,16 +89,24 @@ To call the function, simple use the variable name, the way you would use a func
 
 </aside>
 
+<details><summary><strong>Further Reading</strong></summary>
+
+
 There are different other ways that functions can de declared and used. [Read more on JavaScript function definitions here](https://www.w3schools.com/js/js_function_definition.asp)
 
-
-## Video on Arrow functions
-Anonymous Functions even get more interesting with what is called the Arrow Functions. Arrow functions provides a short syntax for writing anonymous functions. With arrow functions, you don't need the `function` keyword, the `return` keyword, and the curly brackets.
+</details>
 
 
-**Learn more about arrow functions from this video.**
+## Arrow functions
+Anonymous Functions even get more interesting with what is called the Arrow Functions. Arrow functions provides a short syntax for writing anonymous functions. With arrow functions, you don't need the `function` keyword. You can also omit the `return` keyword, and the curly brackets if the function is a single statement.
+
+<details><summary><strong>Watch this Video</strong></summary>
+
+Learn more about arrow functions from this video.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PkZNo7MFNFg?start=10038&10384" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</aside>
+
+</details>
 
 
 
