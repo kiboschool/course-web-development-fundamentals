@@ -18,10 +18,11 @@ Jest is a JavaScript Testing framework. Jest provides an extensive feature set a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgnxcUQ5vho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Activity - JavaScript Testing with Jest
+
 Let us go through a simple example using Jest.
 1. Open your terminal/command prompt.
-2. Type in `npm init -y`. This gives us a new project folder with a `package.json` file to get started.
-3. Next type in `npm i --save-dev jest` to install Jest. 
+2. Type in `pnpm init -y`. This gives us a new project folder with a `package.json` file to get started.
+3. Next type in `pnpm i --save-dev jest` to install Jest. 
 4. In the package.json file created, locate the code snippet below:
 ```js
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -54,12 +55,12 @@ test('testing the sum function', () => {
     expect(sum(1,2)).toBe(3)
 })
 ```
-<!-- Type in npm test to run your test. Voila, you have just written your first test.  -->
+<!-- Type in pnpm test to run your test. Voila, you have just written your first test.  -->
 
 The `test` function is used to write tests in Jest. The first argument is a string describing the test. The second argument is a function that gets called to run this test. This is what helps to check our expected result. We use the `expect` jest test function to check the expected values. `.toBe()` checks that what the function returns equals to 3.
 
 
-8. To run your tests, type in `npm test` on your terminal. Jest will automatically detect and execute the test files matching the pattern `*.test.js` in your project directory. It will provide a summary of the test results, indicating whether each test passed or failed.
+8. To run your tests, type in `pnpm test` on your terminal. Jest will automatically detect and execute the test files matching the pattern `*.test.js` in your project directory. It will provide a summary of the test results, indicating whether each test passed or failed.
 
 <aside>
 
