@@ -1,8 +1,9 @@
 # More on functions
+In this lesson, we dive deeper into more details about functions.
 
-## Scope of Functions
+## Scope of variables in Functions
 
-Variables defines within the scope of a function has a lifespan within that specific function alone and not available outside of the function in which it was defined
+Variables defined within the scope of a function has a lifespan within that specific function alone and not available outside of the function in which it was defined. Step through the code snippet and watch the demonstration to see how the scopes of the functions and variables change.
 
 ```js
 1 function first(val){
@@ -69,19 +70,23 @@ For more on higher-order functions, check out this [Freecodecamp article](https:
 
 
 ## Functions as Objects
-JavaScript functions can be structured to operate as an object by defining entities such as a variable inside the function and then consequently initialize the values of variables
+JavaScript functions can be structured to operate as an object by defining entities such as a variable inside the function and then consequently initializeing the values of the variables.
 
 ```js
-function func_name() {
-   this.key1 = <value_1>;
+function funcName() {
+   this.key1 = <value_1>;   
    this.key2 = <value_2>;
 }
-var object_instance = new func_name();
-var value = object_instance.key1; // access the value of the object's key
+
+var objectInstance = new funcName();
+var value = objectInstance.key1; // access the value of the object's key
 ```
 
 <aside>
-In the above syntax, the function `func_name` declares two properties (`key` and `key2`). The object is then instantiated and its property subsequently accessed
+
+In the above syntax, the function `func_name` declares two properties, `key1` and `key2`. The object is then instantiated and its property subsequently accessed
 </aside>
+
+The code snippet below gives an example.
 
 <iframe width="800" height="500" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=function%20Student%28%29%20%7B%0A%20%20%20this.first_name%20%3D%20%22Joe%22%3B%0A%20%20%20this.last_name%20%3D%20%22Raymond%22%3B%0A%20%20%20this.age%20%3D%2010%3B%0A%20%20%20this.phone_no%20%3D%20%220101182937%22%3B%0A%7D%0Avar%20student_obj%20%3D%20new%20Student%28%29%3B%0Aconsole.log%28%22Name%3A%22%20%2B%20student_obj.first_name%20%2B%20%22%20%22%20%2B%20student_obj.last_name%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=7&heapPrimitives=nevernest&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>

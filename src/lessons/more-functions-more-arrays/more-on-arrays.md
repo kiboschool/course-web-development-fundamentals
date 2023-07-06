@@ -1,8 +1,9 @@
 # More on Arrays
+Previously, we touched on arrays, in this lesson, we'll take a depper dive into arrays in JavaScript. You'll learn more about how to handle arrays and different array functions that exist.
 
 ## Accessing Every Array Element
 
-There is a `for..of` construct in JavaScript that helps to quickly navigate through every element in an array. The `for...of` statement executes a loop that operates on a sequence of values sourced from an iterable objectsuch as `Array`, and `String`. This construct is similar to the `for` loop syntax in Python.
+There is a `for..of` construct in JavaScript that helps to quickly navigate through every element in an array. The `for...of` statement executes a loop that operates on a sequence of values sourced from an iterable object such as `Array`, and `String`. This construct is similar to the `for` loop syntax in Python.
 
 ```js
 
@@ -33,12 +34,13 @@ Do you remember the `typeof` operator used to determine the datatype of a variab
 
 
 ## Array Methods
-Arrays are also objects, therefore they have properties and methods. We already saw one property of the array, `length`, which returns the size of an array, that is the number of elements in the array.
+Arrays are objects, therefore they have properties and methods. We already saw one property of the array, `length`, which returns the size of an array, that is the number of elements in the array. Next, we'll review some array methods.
 
-
+<strong>Watch this video on Array Methods</strong>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R8rmfD9Y5-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### `isArray()` - Checking for an Array
- From the previous example, we see that the `typeof` function can not help us to confirm precisely whether a data type is actually an object. However, the Array object itself has a static method that can be used to determine if the value passed to it is actually an Array object.
+ From the previous example, we see that the `typeof` function cannot help us to confirm precisely whether a data type is actually an Array object. However, the Array object itself has a static method that can be used to determine if the value passed to it is actually an Array object.
 
  ```js
  	const anArray = [1,2,3,4,5];
@@ -49,7 +51,7 @@ Arrays are also objects, therefore they have properties and methods. We already 
  ```
 <aside>
 
-The `Array.isArray` method returns a Boolean value, either `true` or `false`. `true`, indicating that the value passed is really a  Array, otherwise, it retruns `false`.
+The `Array.isArray` method returns a Boolean value, either `true` or `false`. `true`, indicating that the value passed is an  Array, otherwise, it returns `false`.
 
 </aside>
 
@@ -63,11 +65,12 @@ If you need to modify every element in an array in a similar manner, you can use
 <iframe width="800" height="400" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=function%20triple%28number%29%20%7B%0A%20%20return%20number%20*%203%3B%0A%7D%0Aconst%20numbers%20%3D%20%5B5,%202,%207,%206%5D%3B%0A%0Aconst%20tripled%20%3D%20numbers.map%28triple%29%3B%0Aconsole.log%28tripled%29%3B&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=11&heapPrimitives=nevernest&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
 
 <aside>
+
 As seen from the snippet, a function called `triple` is defined. This function takes in a number and multiples the number by 3.
 
 Next, in line 4, we have an array of numbers. We need to multiply every item in that array by 3.
 
-To do this, the `map` function is used. As seen in line 6, we pass the function name `triple` into the `map` function. The result shows that the function `triple` is applied to every item in the `numbers` array. That is what the `map` function does.
+To do this, the `map` function is used. As seen in line 6, we pass the function named `triple` into the `map` function. The result shows that the function `triple` is applied to every item in the `numbers` array. That is what the `map` function does.
 
 </aside>
 
