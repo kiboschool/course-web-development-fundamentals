@@ -104,3 +104,12 @@ Scroll the example to see the effect.
 > Practice using the `top`, `left`, and `width` CSS properties and `position: absolute` to create a zany and fun face on the robot.
 >
 > [![absolute-robot](https://img.shields.io/static/v1?label=Open%20Project&message=absolute%20robot&color=blue)](https://classroom.github.com/a/qWTGSVp6)
+
+## Check Your Understanding: Positioning
+
+<aside>
+
+Check your understanding of the position attribute by completing this [position test on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Position_skills). 
+
+</aside>
+

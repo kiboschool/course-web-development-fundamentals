@@ -39,10 +39,15 @@ while read -r project; do
 done
 ```
 
+Note: if you use https://github.com/sharkdp/fd as `find`, the command is instead:
+
+```
+find . --type d --max-depth 2 --min-depth 2
+```
+
 ## Update the list of exercises
 
-i.e. if you added or removed an exercise (folder within one of the weeks in
-`exercises`, with a git remote)
+i.e. if you added or removed an exercise (folder within one of the weeks in `exercises`, with a git remote)
 
 from exercises:
 
@@ -73,15 +78,15 @@ while read -r project; do
         echo $project
         git checkout main
         name=$(echo $project | cut -d '/' -f 3)
-        gh repo create "kibo-web-foundations-oct-22/$name" --source=. --private --remote=oct-22 --push 
-        gh repo edit "kibo-web-foundations-oct-22/$name" --template 
+        gh repo create "kibo-web-dev-fundamentals-july-23/$name" --source=. --private --remote=july-23 --push 
+        gh repo edit "kibo-web-dev-fundamentals-july-23/$name" --template 
         popd
 done
 ```
 
 ## For all exercises, push a branch to a given remote
 
-change 'main' and 'oct-22' as appropriate
+change 'main' and 'july-23' as appropriate
 
 from `exercises`:
 
@@ -91,7 +96,7 @@ while read -r project; do
         pushd $project
         echo $project
         git checkout main
-        git push oct-22 main
+        git push july-23 main
         popd
 done
 ```

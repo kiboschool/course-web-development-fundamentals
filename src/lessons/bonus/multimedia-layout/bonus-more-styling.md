@@ -11,6 +11,16 @@ Designing for different screen sizes is hard! MDN has a few guides on strategies
 - [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) details how to include images that work well across screen sizes
 - [Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries) are a core tool you can use to adapt to different screen sizes.
 
+### Practice: Responsive Web Design
+
+<aside>
+
+If you want to check your understanding of Responsive Web Design, try completing the challenges from MDN's [Responsive Web Design skills test](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/rwd_skills).
+
+The test challenges you to update some starter code so that the page renders responsively.
+
+</aside>
+
 ## CSS Units
 
 So far, we’ve used pixels (`px`) as the units in our examples. CSS has lots of different kinds of units that are useful in different situations.
