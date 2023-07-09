@@ -1,6 +1,11 @@
+# Week 1 Quiz
+**Due Date: 12th July, 2023; 11:59 EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 1](https://www.gradescope.com/courses/538288/assignments/2919261). 
+
 # Week 1 Exercises
 
-**Due Date: XXX**
+**Due Date: 16th July, 2023; 11:59 EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. This will be the pattern throughout the course. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
