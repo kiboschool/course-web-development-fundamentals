@@ -6,6 +6,8 @@ Whatever your prior expereince, this week you'll touch on HTML, CSS, and JavaScr
 
 You'll also start practising learning and working together. The internet is social, and technologists build it together. So, that's what you'll learn to do too.
 
+
+
 ## Learning Outcomes
 
 After this week, you will be able to:
@@ -19,5 +21,5 @@ After this week, you will be able to:
 ## An overview of this week content
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="100%" height="415" src="https://www.youtube.com/embed/1GJTuanORg0" title="Linking your CSS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</details>+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/eaJEOoQDvNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</details>

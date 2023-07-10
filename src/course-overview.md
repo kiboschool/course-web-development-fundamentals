@@ -6,9 +6,10 @@ _6 ECTS Credits_
 
 📺 Watch this welcome video from your instructor.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49NZ6lQSLio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </aside>
 
-<!-- TODO: Olaperi to add welcome video -->
 
 
 ## What you'll learn
