@@ -38,3 +38,6 @@ appropriate elements for different pieces of information and writing the HTML fr
 > [![chicken-peanut-stew](https://img.shields.io/static/v1?label=Open%20Project&message=chicken%20peanut%20stew&color=blue)](https://classroom.github.com/a/8GyiVIrS) -->
 
 [Open the exercise on Github Classroom](https://classroom.github.com/a/8GyiVIrS)
+
+## Watch this Video on to download, test and submit your exercises
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJR3aaJ75wI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
