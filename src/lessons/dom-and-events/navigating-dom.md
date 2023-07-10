@@ -1,43 +1,112 @@
-### Navigating the DOM Tree
+# Navigating the DOM Tree
+In this lesson, we'll review how to navigate and access different elements in the DOM. As mentioned, in JavaScript, you can access the DOM through the `document` object. It represents the entry point to the DOM hierarchy and provides methods and properties to navigate and manipulate the document.
 
-#### The `parentNode` Property
 
-#### `childNodes`
-Text nodes are created for whitespace between nodes
+<summary><strong>Watch Video on DOM Manipulation</strong></summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y17RuWkWdn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-`firstChild`
 
-`lastChild`
+We'll be using the html snippet from the previous lesson for our examples.
 
-`previousSibling`
+```html
+<html>
+    <head>
+        <title>My DOM Tree</title>
+    </head>
+    <body>
+        <h1>H1 in body</h1>
+        <p> P in body <h1>H1 in P tag</h1></p>
+        <p>Another p tag</p>
+    </body>
+</html>
+```
 
-`nextSibling`
+## The `parentNode` Property
+Each element in the DOM has properties to access its parent and child nodes. The `parentNode` property is used to get the parent of a particular node. The general syntax for this is: `element.parentNode`. `element` here is a reference to the element for which you want to get its parent. Let's see an example:
 
-`children`, only `child` nodes that are elements.
+```js
+const html = document.documentElement;
 
-Activity
-Write a progam to search a document for test nodes conataining a given string.
--return true when the given string is found. Hint: The nodeValue property of a text node holds the string of text that it represents
+//this displays the #document node as the parent
+console.log(html.parentNode)
+```
+In this example, we get the object representing the `<html>` tag via `document.documentElement`, we then query its parent node which is the `document` object. Try this code snippet in your console.
 
-`getElementsByTagName`
-So if we want to get the href attribute of the link in that document, we
-don’t want to say something like “Get the second child of the sixth child of
-the document body”. It’d be better if we could say “Get the first link in the
-document”. And we can.
-let link = document.body.getElementsByTagName("a")[0];
-console.log(link.href);
+Let's see another example.
+```js
+const h1 = document.querySelector("h1");
+console.log(h1.parentNode);
+```
 
-`getElementById`
-To find a specific single node, you can give it an id attribute and use document.getElementById instead.
+In this example, we get the first `h1` element by using the `querySelector()` method , we then query its parent node, which is the *body* element.
 
+We learnt previously how to use the `querySelector()` method. The `querySelector()` method allows you to select elements from the DOM using the CSS selector syntax. It returns the first element that matches the specified selector or `null` if no matching element is found. A closely related method `querySelectorAll()`, returns all the elements that match the given CSS selector.
+
+## The `childNodes` Property
+Child nodes refer to the elements or nodes that are directly nested within another element. They are the immediate descendants of a particular parent element. Child nodes can include elements, text nodes, comments, and other types of nodes. To access the child nodes of an HTML element, you can use the `childNodes` property. Note that text nodes are created for whitespace between nodes, and are also seen as child nodes. 
+
+Run the given code snippet to see how the `childNodes` property operates. For the `h1` node, it's only child is a text node, while the `html` node has multiple child nodes. The `childNodes` property returns a collection of child nodes.
+
+```js
+const html = document.documentElement;
+const h1 = document.querySelector("h1");
+console.log(h1.childNodes);
+console.log(html.childNodes);
+```
+
+
+<aside>
+
+As you must have seen from the video at the beginning of this lesson, there are several other properties that you can use to navigate the DOM and they include: `firstChild`, 
+`lastChild`, `previousSibling`, `nextSibling`, amongst others. Try out these properties to see how they operate.
+</aside>
+
+
+### The `getElementById()` method
+To find a specific element, you can use it's unique *id* attribute in the html file with the `document.getElementById` method. The basic syntax to use it is shown.
+
+```js
+const element = document.getElementById(id);
+```
+
+### The `getElementsByTagName()`method
+The `getElementsByTagName` method is another built-in method in JavaScript's DOM API that allows you to retrieve a collection of elements based on their tag name such as `<div>`, `<p>`, or `<span>`. It searches for elements with a specific tag name within a given parent element or the entire document. The method returns a live `HTMLCollection` or `NodeList` that contains all the elements matching the specified tag name. You can iterate over this collection to access or manipulate the selected elements. 
+
+Let's see an example.
+
+```js
+//Gets all paragraph elements
+let paragraphs = document.body.getElementsByTagName("p");
+
+//Get the first paragraph element
+firstParagraph = paragraphs[0]
+```
+
+
+
+<!-- ```js
 <p>My ostrich Gertrude:</p>
 <p><img id="gertrude" src="img/ostrich.png"></p>
 <script>
 let ostrich = document.getElementById("gertrude");
 console.log(ostrich.src);
 </script>
+``` -->
 
-`getElementsByClassName`
-A third, similar method is getElementsByClassName, which, like getElementsByTagName
-, searches through the contents of an element node and retrieves all elements
-that have the given string in their class attribute.
+### The `getElementsByClassName()` method
+The `getElementsByClassName` method like `getElementsByTagName,` searches through the contents of an element node and retrieves all elements that have the given string in their class attribute. The method allows you to retrieve a collection of elements that have a specific class name. 
+
+Here's the basic syntax of `getElementsByClassName`.
+
+
+```js
+const elements = parentElement.getElementsByClassName(className);
+```
+
+`className` is the  name of the class to search for. It is case-sensitive. `elements` is usually an `HTMLCollection` or `NodeList` containing the elements that match the specified class name.
+
+### Activity
+Write a function to search a document for text nodes containing a given string. Return `true` when the given string is found. 
+
+Hint: The `nodeValue` property of a text node holds the string of text that it represents.
+

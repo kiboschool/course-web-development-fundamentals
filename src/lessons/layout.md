@@ -1,4 +1,4 @@
-# Layout and Multimedia Elements
+# CSS Layout
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(bonus/multimedia-layout/multimedia/multimedia-4.png); background-size: cover;"></iframe></div>
 

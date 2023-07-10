@@ -3,8 +3,7 @@
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)
 [Weekly Projects](weekly-projects.md)
-[Midterm Project](midterm-project.md)
-[Final Project](final-project.md)
+
 
 ## Lessons
 
@@ -20,7 +19,7 @@
     - [Practice](lessons/foundations/practice.md)
 
 
-### Week 2
+<!-- ### Week 2
 
 - [Advanced HTML](lessons/advanced-html.md)
     - [HTML Tables](lessons/advanced-html/html-tables.md)
@@ -44,7 +43,6 @@
     - [Colors](lessons/web-design/colors.md)
     - [The Box Model](lessons/web-design/the-box-model.md)
     - [Practice](lessons/web-design/practice.md)
-    <!-- - [Project](lessons/web-design/project.md) -->
 
 
 ### Week 4
@@ -84,8 +82,6 @@
 
 ### Week 7
 - [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
-    <!-- [Objects](lessons/more-functions-more-arrays/objects.md)
-    - [Arrays and Loops](lessons/more-functions-more-arrays/arrays-and-loops.md)-->
     - [More on Arrays](lessons/more-functions-more-arrays/more-on-arrays.md)
     - [Math Functions](lessons/more-functions-more-arrays/math-functions.md)
     - [String Functions](lessons/more-functions-more-arrays/string-functions.md)
@@ -107,7 +103,9 @@
     - [Node and NPM](lessons/advanced-javascript/node-and-npm.md)
     - [Modules](lessons/advanced-javascript/modules.md)
     - [Libraries and Frameworks](lessons/advanced-javascript/libraries-frameworks.md)
-    - [Testing](lessons/advanced-javascript/testing.md)
+    - [Testing](lessons/advanced-javascript/testing.md) 
 
+-->
+<!-- [Midterm Project](midterm-project.md) -->
+<!-- [Final Project](final-project.md) -->
 
-    <!-- - [Event Propagation](lessons/dom-and-events/event-propagation.md) -->

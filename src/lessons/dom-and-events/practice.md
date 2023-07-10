@@ -17,12 +17,12 @@ This week, the mandatory exercises are:
 
 1. **Click Counter**: In this exercise, you are going to count the number of times the user has clicked a given button on a website
 
-1. **Hide the Bunny**: In this task, you will make the image of a bunny disappear when the user clicks a given button.
+2. **Hide the Bunny**: In this task, you will make the image of a bunny disappear when the user clicks a given button.
 
 
-1. **Kibo Slide Show**: You can build a slide show using HTML, CSS and JavaScript. Try this exercise to find out how.
+3. **Kibo Slide Show**: You can build a slide show using HTML, CSS and JavaScript. Try this exercise to find out how.
 
-1. **Profile Page**: In this project, you'll be adding JavaScript to your profile page to make it interactive. You're going to implement a toggle, so that when a visitor clicks on one of your headings, the paragraph text is displayed.
+<!-- 1. **Profile Page**: In this project, you'll be adding JavaScript to your profile page to make it interactive. You're going to implement a toggle, so that when a visitor clicks on one of your headings, the paragraph text is displayed. -->
 
 
 ## Accept the Assignment
