@@ -4,18 +4,18 @@ Each week you will have a live class.
 
 Video recordings, slides, and links for the exercises will be posted after the classes each week.
 
-| Week | Topic                       |  Slides     | Live Class Video|  Exercise       | Link     |
-|------|------------------------     |-------------|-----------------|-----------------|-----------|
-| 1    | Foundations                 |             |                 |                 |           |         
-| 2    | Advanced HTML               |             |                 |                 |           |         
-| 3    | Web Design                  |             |                 |                 |           |          
-| 4    | CSS Layout                  |             |                 |                 |           |        
-| 5    | Publishing and sharing      |             |                 |                 |           |         
-| 6    | JavaScript Fundamentals     |             |                 |                 |           |          
-| 7    | More Functions, More Arrays |             |                 |                 |           |          
-| 8    | DOM and Events              |             |                 |                 |           |          
-| 9    | Advanced JavaScript         |             |                 |                 |           |          
-| 10   | Revision and Project Demo   |             |                 |                 |           |          
+| Week | Topic                       |  Slides     | Live Class Video| 
+|------|------------------------     |-------------|-----------------|
+| 1    | Foundations                 |[View][S1]   |  [Watch][V1]    |                                     
+| 2    | Advanced HTML               |             |                 |                                    
+| 3    | Web Design                  |             |                 |                                     
+| 4    | CSS Layout                  |             |                 |                                   
+| 5    | Publishing and sharing      |             |                 |                                     
+| 6    | JavaScript Fundamentals     |             |                 |                                      
+| 7    | More Functions, More Arrays |             |                 |                                      
+| 8    | DOM and Events              |             |                 |                                      
+| 9    | Advanced JavaScript         |             |                 |                                      
+| 10   | Revision and Project Demo   |             |                 |                                      
 
 
 
@@ -36,11 +36,11 @@ exercises in the live class, and scored based on completion, not correctness.
 If you miss a class, first notify your instructor. Then, review the slides and 
 recording of the class and submit the activity or exercise. -->
 
-<!-- Week 1 -->
-<!-- [S1]: https://docs.google.com/presentation/d/1qbgAhQwj_Uiv4ZHzNYVgq0xplYpN3BR4hAliNlF5mTo/edit?usp=sharing
-[V1]: https://youtu.be/FdenvaWdkIA
-[E1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915
-[L1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform -->
+Week 1
+[S1]: https://docs.google.com/presentation/d/1xw9foM1xACAP2u7lH7N0kauO3VvLnXD_UmsNpP1gI1s/edit?usp=sharing
+[V1]: https://youtu.be/W6TfEzi31Jk?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce
+<!-- [E1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915 -->
+<!-- [L1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform -->
 
 <!-- Week 2 -->
 <!-- [S2]: https://docs.google.com/presentation/d/1CliR1sCVeqEFxRNuWDYTyYaEdLMgMwXIfF0A-mcH2is/edit?usp=sharing
