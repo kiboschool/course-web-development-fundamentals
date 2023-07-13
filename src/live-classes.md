@@ -6,7 +6,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 
 | Week | Topic                       |  Slides     | Live Class Video| 
 |------|------------------------     |-------------|-----------------|
-| 1    | Foundations                 |[View][S1]   |  [Watch][V1]    |                                     
+| 1    | Foundations                 |[View](https://docs.google.com/presentation/d/1xw9foM1xACAP2u7lH7N0kauO3VvLnXD_UmsNpP1gI1s/edit?usp=sharing)   |  [Watch](https://youtu.be/W6TfEzi31Jk?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce)    |                                     
 | 2    | Advanced HTML               |             |                 |                                    
 | 3    | Web Design                  |             |                 |                                     
 | 4    | CSS Layout                  |             |                 |                                   
@@ -36,9 +36,9 @@ exercises in the live class, and scored based on completion, not correctness.
 If you miss a class, first notify your instructor. Then, review the slides and 
 recording of the class and submit the activity or exercise. -->
 
-Week 1
+<!-- Week 1
 [S1]: https://docs.google.com/presentation/d/1xw9foM1xACAP2u7lH7N0kauO3VvLnXD_UmsNpP1gI1s/edit?usp=sharing
-[V1]: https://youtu.be/W6TfEzi31Jk?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce
+[V1]: https://youtu.be/W6TfEzi31Jk?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce -->
 <!-- [E1]: https://www.youtube.com/embed/FdenvaWdkIA?start=1915 -->
 <!-- [L1]: https://docs.google.com/forms/d/e/1FAIpQLSefepTvuYSTm7Ed6UV6YFAknse_-1Lg6psi_RX4n-UL4KeGdA/viewform -->
 
