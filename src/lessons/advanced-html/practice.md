@@ -1,6 +1,11 @@
+# Week 2 Quiz
+**Due Date: 17th July, 2023; 01:00PM EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 2](https://www.gradescope.com/courses/538288/assignments/2928273). 
+
 # Week 2 Exercises
 
-**Due Date: XXX**
+**Due Date: 23rd July, 2023; 11:59PM EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
