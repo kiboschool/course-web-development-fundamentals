@@ -5,7 +5,7 @@ This page will list all of the weekly exercises, so you have a convenient place 
 
 * [Week 1](https://classroom.github.com/a/8GyiVIrS)
 * [Week 2](https://classroom.github.com/a/1Ct1e1Rl)
-* [Week 3]()
+* [Week 3](https://classroom.github.com/a/3OUdXjSQ)
 * [Week 4]()
 * [Midterm Project]()
 * [Week 6]()
@@ -21,7 +21,7 @@ This page will list all of the weekly quizzes, so you have a convenient place to
 
 * [Week 1](https://www.gradescope.com/courses/538288/assignments/2919261)
 * [Week 2](https://www.gradescope.com/courses/538288/assignments/2928273)
-* [Week 3]()
+* [Week 3](https://www.gradescope.com/courses/538288/assignments/2930465)
 * [Week 4]()
 * [Week 5]()
 * [Week 6]()

@@ -19,7 +19,7 @@
     - [Practice](lessons/foundations/practice.md)
 
 
- ### Week 2
+### Week 2
 
 - [Advanced HTML](lessons/advanced-html.md)
     - [HTML Tables](lessons/advanced-html/html-tables.md)
@@ -31,7 +31,7 @@
     - [Static and Dynamic](lessons/advanced-html/static-and-dynamic-websites.md)
     - [Practice](lessons/advanced-html/practice.md)
 
-<!--
+
 ### Week 3
 
 - [Web Design](lessons/web-design.md)
@@ -44,6 +44,7 @@
     - [The Box Model](lessons/web-design/the-box-model.md)
     - [Practice](lessons/web-design/practice.md)
 
+<!--
 
 ### Week 4
 

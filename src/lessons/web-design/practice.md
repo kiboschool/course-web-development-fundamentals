@@ -1,6 +1,11 @@
+# Week 3 Quiz
+**Due Date: 24th July, 2023; 1:00PM EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 3](https://www.gradescope.com/courses/538288/assignments/2930465). 
+
 # Week 3 Exercises
 
-**Due Date: XXX**
+**Due Date: 30th July, 2023; 11:59PM EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
