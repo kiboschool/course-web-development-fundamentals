@@ -1,6 +1,11 @@
+# Week 4 Quiz
+**Due Date: 31st July, 2023; 1:00PM EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 4](https://www.gradescope.com/courses/538288/assignments/2930474). 
+
 # Week 4 Exercises
 
-**Due Date: XXX**
+**Due Date: 6th August, 2023; 11:59PM EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 

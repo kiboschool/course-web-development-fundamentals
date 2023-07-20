@@ -44,7 +44,7 @@
     - [The Box Model](lessons/web-design/the-box-model.md)
     - [Practice](lessons/web-design/practice.md)
 
-<!--
+
 
 ### Week 4
 
@@ -66,6 +66,8 @@
     - [Sharing your work](lessons/publishing-and-sharing/sharing-your-work.md)
     - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
+
+<!--
 
 ### Week 6
 
@@ -105,6 +107,7 @@
     - [Modules](lessons/advanced-javascript/modules.md)
     - [Libraries and Frameworks](lessons/advanced-javascript/libraries-frameworks.md)
     - [Testing](lessons/advanced-javascript/testing.md) 
+    - [Practice](lessons/advanced-javascript/practice.md)
 
 -->
 <!-- [Midterm Project](midterm-project.md) -->

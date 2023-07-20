@@ -1,6 +1,11 @@
+# Week 7 Quiz
+**Due Date: 21st August, 2023; 1:00PM EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 7](https://www.gradescope.com/courses/538288/assignments/2955830). 
+
 # Week 7 Exercises
 
-**Due Date: XXX**
+**Due Date: 27th August, 2023; 11:59PM EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
