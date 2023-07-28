@@ -8,7 +8,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 |------|------------------------     |-------------|-----------------|
 | 1    | Foundations                 |[View](https://docs.google.com/presentation/d/1xw9foM1xACAP2u7lH7N0kauO3VvLnXD_UmsNpP1gI1s/edit?usp=sharing)   |  [Watch](https://youtu.be/W6TfEzi31Jk?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce)    |                                     
 | 2    | Advanced HTML               |[View](https://docs.google.com/presentation/d/1KgP5ohW2l9KwyJrk1UHsezE3yDe6iQCjP31zsQ2cOHs/edit?usp=sharing)           |[Watch](https://youtu.be/wy7rAbM-qhc?list=PLEApm5XV23vXb4jyGTf9UP2t4p9mJ2oce)            |                                    
-| 3    | Web Design                  |             |                 |                                     
+| 3    | Web Design                  |[View](https://docs.google.com/presentation/d/1ZlkGBni65H81vO0YgWUfeXuTxqekVQCfH7myYCcRPOQ/edit?usp=sharing)           |[Watch](https://youtu.be/dygob2Xy_iw)              |                                     
 | 4    | CSS Layout                  |             |                 |                                   
 | 5    | Publishing and sharing      |             |                 |                                     
 | 6    | JavaScript Fundamentals     |             |                 |                                      

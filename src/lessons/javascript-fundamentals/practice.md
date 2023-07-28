@@ -1,6 +1,11 @@
+# Week 6 Quiz
+**Due Date: 14th August, 2023; 1:00PM EDT**
+
+The quiz for this week has been released on Gradescope - [Quiz 6](https://www.gradescope.com/courses/538288/assignments/2955146). 
+
 # Week 6 Exercises
 
-**Due Date: XXX**
+**Due Date: 20th August, 2023; 11:59PM EDT**
 
 In this week, there are several exercises for you to engage with. Some of which are optional and others mandatory. You are encouraged to attempt all the exercises, however, you are expected to submit the mandatory exercises to Gradescope.
 
