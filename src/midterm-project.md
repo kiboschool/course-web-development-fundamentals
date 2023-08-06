@@ -1,6 +1,6 @@
 # Midterm Project
 
-**Due Date: XXX**
+**Due Date: 16th August**
 
 ## Landing Page Recreation
 
@@ -11,16 +11,21 @@ This project will stretch your Web Design skills. You’ll work to recreate the 
 
 👥 **This is a team project**.
 
-*You must work in a team of 2-3 students*
+*You must work in a team of 3 students*
 
-* You can work with teammates you’ve worked with
-before, or find new teammates.
-* Communicate with your teammates, then join the
-Github team together and schedule time to work on the project. _DO NOT_ join a team before you have communicated with your teammates.
+* Find teammates to work with, decide on a team name and ensure that you have submitted your details in this [Google form](https://forms.gle/bB9jYU9opJm7sj4U8).
 
-You can work together by sharing your screen, or by creating a new project in
-Replit and sharing the join link with your teammates. You should be sure that
-both of your names are linked to the submission in Github and Gradescope.
+* Accept the assignment, then join the Github team together and schedule time to work on the project. _DO NOT_ join a team before you have communicated with your teammates.
+
+    * Decide on who would create the team. The team should be created only once on Github (when accepting the assignment). Other members should join the already created team.
+
+    * Before creating a team, search for the team to verify that the team has not been created.
+
+* Please notify the instructor  if anyone who is  not a member of your team joins your team on the GitHub Classroom.
+
+* If you join a wrong team on GitHub by accident, please notify the instructor immediately.
+
+* Ensure that you submit the assignment as a team on Gradescope.
 
 </aside>
 

@@ -3,6 +3,7 @@
 [Course Overview](course-overview.md)
 [Live Classes](live-classes.md)
 [Weekly Projects](weekly-projects.md)
+[Midterm Project](midterm-project.md)
 
 
 ## Lessons
