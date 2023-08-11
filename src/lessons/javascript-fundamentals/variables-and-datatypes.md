@@ -53,7 +53,7 @@ The `let` and `const` keywords on the other hand were added to JavaScript in 201
 
 <details>
 
-<summary><strong>Undeclared Variables</strong></summary>
+<summary><strong> `var` vs `let`</strong></summary>
 Read more on the differences between `var` and `let` [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables#a_note_about_var).
 
 </details>

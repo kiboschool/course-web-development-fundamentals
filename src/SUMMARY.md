@@ -68,7 +68,7 @@
     - [Bonus: More about DNS](lessons/publishing-and-sharing/bonus-dns.md)
     - [Practice](lessons/publishing-and-sharing/practice.md)
 
-<!--
+
 
 ### Week 6
 
@@ -83,7 +83,7 @@
     - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
     - [Practice](lessons/javascript-fundamentals/practice.md)
 
-
+<!--
 ### Week 7
 - [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
     - [More on Arrays](lessons/more-functions-more-arrays/more-on-arrays.md)

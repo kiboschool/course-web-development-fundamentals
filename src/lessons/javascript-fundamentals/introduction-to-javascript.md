@@ -1,6 +1,6 @@
 # Introduction to JavaScript
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe src="" title="YouTube video player" frameborder="0"  allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url(./actions/jav.png); background-size: cover;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; margin: 20px 0px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/upDLs1sn7g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 As you’ve heard lots of times by now, HTML is for the content and structure of the page, CSS is for styling how the elements should appear, and JavaScript is for adding interactivity. Now that you’ve learned lots of HTML and CSS, it’s time for some JavaScript.
 
@@ -100,9 +100,9 @@ We also saw how to use the DevTools Console to run small snippets of code. That 
 
 Alternatively, we can also use web-based interactive tools similar to CodePen which we used during our HTML and CSS lessons. One of such tools is the [PythonTutor](https://pythontutor.com/). Although it's called Python Tutor, we can also use it to run JavaScript code (amongst other languages). In the coming lessons, we'll be using this interactive tool to execute our JavaScript code. The cool thing about this tool is that it also helps you to visualize what happens behind the scenes during code execution.
 
-The video below demonstrates how to use this tool.
+<!-- The video below demonstrates how to use this tool.
 
 <details><summary><strong>Watch Video</strong></summary>
 
-</details>
+</details> -->
 
