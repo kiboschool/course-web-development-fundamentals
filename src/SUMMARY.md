@@ -83,7 +83,7 @@
     - [JavaScript and the page](lessons/javascript-fundamentals/javascript-and-the-page.md)
     - [Practice](lessons/javascript-fundamentals/practice.md)
 
-<!--
+
 ### Week 7
 - [More Functions, More Arrays](lessons/more-functions-more-arrays.md)
     - [More on Arrays](lessons/more-functions-more-arrays/more-on-arrays.md)
@@ -94,6 +94,7 @@
     - [Practice](lessons/more-functions-more-arrays/practice.md)
 
 
+<!--
 ### Week 8
 - [DOM and Events](lessons/dom-and-events.md)
     - [The Document Object Model](lessons/dom-and-events/dom.md)
