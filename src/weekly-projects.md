@@ -7,10 +7,10 @@ This page will list all of the weekly exercises, so you have a convenient place 
 * [Week 2](https://classroom.github.com/a/1Ct1e1Rl)
 * [Week 3](https://classroom.github.com/a/3OUdXjSQ)
 * [Week 4](https://classroom.github.com/a/kKcf5Lf7)
-<!-- * [Midterm Project](midterm-project.md)
+* [Midterm Project](midterm-project.md)
 * [Week 6](https://classroom.github.com/a/ooXOUO9n)
 * [Week 7](https://classroom.github.com/a/Z0LVzKVi)
-* [Week 8](https://classroom.github.com/a/8aao_rGO)
+<!--* [Week 8](https://classroom.github.com/a/8aao_rGO)
 * [Final Project](final-project.md) -->
 
 Note that there are no Weekly Exercises in weeks  5, 9 and 10 so that you have time to
