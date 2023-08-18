@@ -131,7 +131,7 @@ console.log(shoppingList);
 The `splice()` method is used to remove an item from a particular position, using its index. In last week's lesson, we saw the use of the `indexOf()` method, it simply returns the index of an item if it is present in the array. We want to remove the `Bread` item from our `shoppingList`, but `Bread` is neither at the beginning nor at the end of our array - the `splice()` method comes to the rescue.
 
 
-
+**Try it!**
 ```js
 const shoppingList = ["Rice", "Bread", "Fish", "Beans"];
 
@@ -150,3 +150,12 @@ What does the `indexOf()` method return if it the value specified is not contain
 <details>-1</details>
 </aside>
 
+<aside>
+
+**Read more on Arrays here.**
+
+- [MDN on Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+- [W3Schools on Arrays](https://www.w3schools.com/js/js_arrays.asp)
+- [Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+
+</aside>

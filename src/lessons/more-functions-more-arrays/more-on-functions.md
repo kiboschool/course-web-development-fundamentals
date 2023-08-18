@@ -1,4 +1,12 @@
 # More on functions
+Last week, we started our discussion on JavaScript functions. If you need a recap on functions, these two videos will be helpful.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N8ap4k_1QEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOD408a0EzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 In this lesson, we dive deeper into more details about functions.
 
 ## Scope of variables in Functions
@@ -33,7 +41,7 @@ let power = (base, exponent) => {
 ```
 
 <aside>
-Note that if you have a single parameter, you can ignore the parenthesis in your arrow function. If the function has no parameter, simply put in an empty parenthesis. If the function is a single expression, you can also ignore the curly brackets an the return statement.
+Note that if you have a single parameter, you can ignore the parenthesis in your arrow function. If the function has no parameter, simply put in an empty parenthesis. If the function is a single expression, you can also ignore the curly brackets and the return statement.
 
 
 
@@ -69,8 +77,8 @@ For more on higher-order functions, check out this [Freecodecamp article](https:
 
 
 
-## Functions as Objects
-JavaScript functions can be structured to operate as an object by defining entities such as a variable inside the function and then consequently initializeing the values of the variables.
+<!-- ## Functions as Objects
+JavaScript functions can be structured to operate as an object by defining entities such as a variable inside the function and then consequently initializing the values of the variables.
 
 ```js
 function funcName() {
@@ -89,4 +97,4 @@ In the above syntax, the function `func_name` declares two properties, `key1` an
 
 The code snippet below gives an example.
 
-<iframe width="800" height="500" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=function%20Student%28%29%20%7B%0A%20%20%20this.first_name%20%3D%20%22Joe%22%3B%0A%20%20%20this.last_name%20%3D%20%22Raymond%22%3B%0A%20%20%20this.age%20%3D%2010%3B%0A%20%20%20this.phone_no%20%3D%20%220101182937%22%3B%0A%7D%0Avar%20student_obj%20%3D%20new%20Student%28%29%3B%0Aconsole.log%28%22Name%3A%22%20%2B%20student_obj.first_name%20%2B%20%22%20%22%20%2B%20student_obj.last_name%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=7&heapPrimitives=nevernest&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
+<iframe width="800" height="500" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=function%20Student%28%29%20%7B%0A%20%20%20this.first_name%20%3D%20%22Joe%22%3B%0A%20%20%20this.last_name%20%3D%20%22Raymond%22%3B%0A%20%20%20this.age%20%3D%2010%3B%0A%20%20%20this.phone_no%20%3D%20%220101182937%22%3B%0A%7D%0Avar%20student_obj%20%3D%20new%20Student%28%29%3B%0Aconsole.log%28%22Name%3A%22%20%2B%20student_obj.first_name%20%2B%20%22%20%22%20%2B%20student_obj.last_name%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=7&heapPrimitives=nevernest&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe> -->

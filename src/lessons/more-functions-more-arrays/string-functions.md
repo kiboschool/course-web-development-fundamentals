@@ -51,3 +51,12 @@ It is similar to indexOf function, however it returns the position of a char val
 
 ## Activity
 **Try It!** Pick 5 of these methods and try them out in your console.
+
+<aside>
+
+**Additional Resources**
+
+- [See how to use more String functions here](https://www.w3schools.com/js/js_string_methods.asp)
+- [MDN -  Useful String methods](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+
+</aside>

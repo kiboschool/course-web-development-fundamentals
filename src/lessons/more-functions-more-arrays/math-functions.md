@@ -7,7 +7,7 @@ The JavaScript `Math` object comprises of several functions and constants that c
 
 
 ## Some Math Properties
-The syntax for Math using properties of the `Math` object is `Math.property`. A few of the properties available are listed next. Try them out in the console to see how they operate.
+The syntax for using properties of the `Math` object is `Math.property`. A few of the properties available are listed next. Try them out in the console to see how they operate.
 
 ### Math Property Examples
 * `Math.LN2`    -  This will return the natural logarithm of 2.
