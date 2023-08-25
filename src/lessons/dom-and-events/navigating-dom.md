@@ -1,12 +1,12 @@
 # Navigating the DOM Tree
-In this lesson, we'll review how to navigate and access different elements in the DOM. As mentioned, in JavaScript, you can access the DOM through the `document` object. It represents the entry point to the DOM hierarchy and provides methods and properties to navigate and manipulate the document.
+In this lesson, we'll review how to navigate and access different elements in the DOM. As mentioned, in JavaScript, you can access the DOM through the `document` object. It represents the entry point to the DOM hierarchy and provides methods and properties to navigate and manipulate the document. There are lots of DOM methods and properties available, in this lesson, we will cover a few and then give reference to the full list.
 
+<summary><strong>Watch Video on DOM Traversal</strong></summary>
 
-<summary><strong>Watch Video on DOM Manipulation</strong></summary>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y17RuWkWdn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7rSSy8CaYE?si=EN5NYo0XaOJ-POjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We'll be using the html snippet from the previous lesson for our examples.
+
 
 ```html
 <html>
@@ -20,6 +20,14 @@ We'll be using the html snippet from the previous lesson for our examples.
     </body>
 </html>
 ```
+<aside>
+
+**To run these examples on your local computer, remember to:**
+- Create an html file containing the given html code. 
+- Create a JavaScript file containing the JavaScript code. 
+- Link both files together using the `<script>` command.
+- Check out the console to see what is being printed.
+</aside>
 
 ## The `parentNode` Property
 Each element in the DOM has properties to access its parent and child nodes. The `parentNode` property is used to get the parent of a particular node. The general syntax for this is: `element.parentNode`. `element` here is a reference to the element for which you want to get its parent. Let's see an example:
@@ -106,7 +114,15 @@ const elements = parentElement.getElementsByClassName(className);
 `className` is the  name of the class to search for. It is case-sensitive. `elements` is usually an `HTMLCollection` or `NodeList` containing the elements that match the specified class name.
 
 ### Activity
-Write a function to search a document for text nodes containing a given string. Return `true` when the given string is found. 
+- If you skipped the video on this page, go back to watch it.
+- Try out all the examples in this lesson on your local computer.
 
-Hint: The `nodeValue` property of a text node holds the string of text that it represents.
+<aside>
+
+**Further Reading**
+- [MDN Tutorial on DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- [DOM - List of Properties and Methods](https://www.w3schools.com/jsref/dom_obj_all.asp)
+- [The DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document)
+
+</aside>
 

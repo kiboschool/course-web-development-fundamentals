@@ -103,14 +103,27 @@ value that was given to `addEventListener`. So, to unregister a handler, you’l
 want to give the function a name (`once`, in the example) to be able to pass the
 same function value to both methods, rather than using an anonymous function.
 
+See this example on CodePen. Unlike the previous example, here if you click the button after the first click, nothing happens. This is because the event listener has been removed.
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/OlaperiKB/embed/NWeGRNm?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/OlaperiKB/pen/NWeGRNm">
+  Untitled</a> by Ola (<a href="https://codepen.io/OlaperiKB">@OlaperiKB</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
 # The `event` Object.
 As seen from the previous examples, we can get the event object that was fired from the event handler function.
 
-The information stored in an event object differs per type of event. The event’s `type` property always holds a string identifying the event (such as "click" or "mousedown"). In the alertBtn function, inert the code:     `alert(event.type);`. This will display *click* indicating that a click event occurred.
+The information stored in an event object differs per type of event. The event’s `type` property always holds a string identifying the event (such as "click" or "mousedown"). In the alertBtn function, insert the code:     `alert(event.type);`. This will display *click* indicating that a click event occurred.
 The `target` property of the event object refers to the element on which the event was originally triggered.
+
+<summary><strong>Watch Video on Events</strong></summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fy9TCcX8Uc?si=8aOqsKsZQEW6AFos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <aside>
 
-For more on events, see the [Event reference on MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
+- For more on events, see the [Event reference on MDN](https://developer.mozilla.org/en-US/docs/Web/Events)
+- [W3Schools Reference on all DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 </aside>
 

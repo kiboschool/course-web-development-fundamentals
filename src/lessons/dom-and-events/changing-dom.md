@@ -1,6 +1,10 @@
 # Changing the Document
 In the previous lesson, we looked at different ways we can navigate through the DOM object, `document`. Beyond navigating the document, we can also change or modify its structure. 
 
+<summary><strong>Watch Video on DOM Manipulation</strong></summary>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y17RuWkWdn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Adding and Removing Nodes
 We can add or remove nodes or change parent-child relationships.
 
@@ -84,10 +88,24 @@ var newDiv = document.createElement("div");
 newDiv.textContent = "Hello, World!";
 newDiv.className = "myClass";
 newDiv.style.color = "red";
+newDiv.setAttribute('id', 'myid');
 
 // Append the new element to an existing element in the document
 document.body.appendChild(newDiv);
 
 ```
 
-In the code snippet above, we created a new `<div>` element. We also set the element's `textContent`, `className` and `color` properties. Finally, we append the new element to the body of the html. Run this code to see the `<div>` element added. Additionally, navigate to the *Elements* pane of your DevTool to see the new `<div>` element and its properties.
+In the code snippet above, we created a new `<div>` element. We also set the element's `textContent`, `className` and `color` properties. Finally, we append the new element to the body of the html. Run this code to see the `<div>` element added. Additionally, navigate to the *Elements* pane of your DevTool to see the new `<div>` element and its properties. 
+
+See the example on CodePen below. As you would observe, the HTML does not have any element containing 'Hello World', but we have created this new element using JavaScript.
+
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/OlaperiKB/embed/LYMpREy?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/OlaperiKB/pen/LYMpREy">
+  Untitled</a> by Ola (<a href="https://codepen.io/OlaperiKB">@OlaperiKB</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
+
+### Activity
+- If you skipped the video on this page, go back to watch it.
+- Try out all the examples in this lesson on your local computer.
+- Here's another short and [helpful video on DOM](https://youtu.be/eaLKqoB9Fu0).

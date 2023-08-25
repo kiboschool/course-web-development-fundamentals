@@ -94,7 +94,7 @@
     - [Practice](lessons/more-functions-more-arrays/practice.md)
 
 
-<!--
+
 ### Week 8
 - [DOM and Events](lessons/dom-and-events.md)
     - [The Document Object Model](lessons/dom-and-events/dom.md)
@@ -111,7 +111,8 @@
     - [Testing](lessons/advanced-javascript/testing.md) 
     - [Practice](lessons/advanced-javascript/practice.md)
 
--->
+
+
 <!-- [Midterm Project](midterm-project.md) -->
 <!-- [Final Project](final-project.md) -->
 

@@ -11,10 +11,10 @@ In JavaScript, there are different testing libraries and frameworks, that help t
 In this course, the tests for your weekly exercises have been written using Jest. Next, let's have a look at the Jest framework.
 
 ## Jest
+
 Jest is a JavaScript Testing framework. Jest provides an extensive feature set and a user-friendly API, making it easy to write and run tests.
 
 <summary><strong>Watch Video on Jest Testing</strong></summary>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FgnxcUQ5vho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Activity - JavaScript Testing with Jest

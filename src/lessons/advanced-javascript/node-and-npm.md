@@ -92,7 +92,7 @@ The `require()` function used is a built in function in Node.js that is used to 
 
 After importing the package, we then use the variable name, `packageAlias` in this case to access the functions exposed by the package.
 
-In the `to-lower-case` package, there is a function called `isLowerCase` which can use.
+In the `to-lower-case` package, there is a function called `isLowerCase` which we can use.
 
 ```js
 var packageAlias = require('is-lower-case')

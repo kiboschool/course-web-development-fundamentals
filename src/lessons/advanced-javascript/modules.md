@@ -3,14 +3,17 @@ In programming, a module is a self-contained unit of code which encapsulates rel
 
 When you have a large project, it is usually great to split up the code into smaller modules which can be reused throughout the project. Each module will focus on a specific functionality or aspect of the larger program. This ensures code organization, encapsulation of related code within a single unit, reusability and modularity. Modularity ensures that you can isolate and test individual components of a program independently.
 
-In JavaScript, a module can be exported, and then imported in another file for reuasbility. It is important to note that in JavaScript, there are two different module systems used. They are the ES modules (ECMAScript modules) and the CommonJS. ES modules are native to modern browsers and can be used directly i nbroswer environments that support ES6 or later. CommonJs modules on the other hand are not natively supported in browsers. This is because they were primarily designed for server-side environments such as Node.js. 
+In JavaScript, a module can be exported, and then imported in another file for reuasbility. It is important to note that in JavaScript, there are two different module systems used. They are the _**ES modules (ECMAScript modules)**_ and the _**CommonJS**_. ES modules are native to modern browsers and can be used directly in broswer environments that support ES6 or later. CommonJs modules on the other hand are not natively supported in browsers. This is because they were primarily designed for server-side environments such as Node.js. 
 
-In the previous lesson on Node.js you saw how to export and import modules using the CommonJS syntax. CommonJS uses `module.exports` to export a module and `require()` to import a module. It is good to note that Node.js supports both CommonJS and ES modules.
+In a future lesson on testing, you will see how to export and import modules using the CommonJS syntax. CommonJS uses `module.exports` to export a module and `require()` to import a module. You might have notices this syntax in your weekly practice exercises. It is good to note that Node.js supports both CommonJS and ES modules.
 
- In this lesson, our focus will be on ES Modules. ES modules are the standardized module system for JavaScript.
+In this lesson, our focus will be on ES Modules. ES modules are the standardized module system for JavaScript.
 
 ## ES Modules
-ES Modules use `import` and `export` statements to import ad export functionality between modules. This closer to the syntax you will find in other programming langauges.
+ES Modules use `import` and `export` statements to import and export functionality between modules. This is closer to the syntax you will find in other programming languages.
+
+<strong>Watch this video on ES6 Modules</strong>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRHQNNcYf6s?si=VDkBXI4PPNFi4Oxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Exporting  a Module
 To get access to a module in another script, the module has to be exported. This is done using the `export` statement. There are two ways to use the export statement.
@@ -24,7 +27,7 @@ export function hello(name){
 }
 ```
 
-2. The second approach is to use a single `export` statetement to export all the items you want to export at once. This is done at the end of the module file. To do this, you specify your export statement, then a pair of curly brackets that contains a comman-separated list of features to export.
+2. The second approach is to use a single `export` statetement to export all the items you want to export at once. This is done at the end of the module file. To do this, you specify your export statement, then a pair of curly brackets that contains a comma-separated list of features to export.
 
 
 ```

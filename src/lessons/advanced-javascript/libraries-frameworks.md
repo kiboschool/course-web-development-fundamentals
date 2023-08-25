@@ -18,8 +18,8 @@ To use jQuery in your project, you can either download the library and include i
 
 The code pen below shows an example of how to use jQuery.
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/OlaperiKB/embed/eYQWONz?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/OlaperiKB/pen/eYQWONz">
+<iframe height="300" style="width: 100%;" scrolling="no" title="Untitled" src="https://codepen.io/OlaperiKB/embed/wvRKBOv?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/OlaperiKB/pen/wvRKBOv">
   Untitled</a> by Ola (<a href="https://codepen.io/OlaperiKB">@OlaperiKB</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
@@ -33,7 +33,7 @@ Feel free to explore the [jQuery Library](https://jquery.com/) for many more rea
 
 
 ## Bootstrap
-Bootstrap is a popular CSS framework that provides a responsive grid system, a collection of pre-styled components, CSS and JavaScript utilities.Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others. Basically, it makes the job of designing your application faster and simpler, minimizing the amount of CSS code that you have to write. With Bootsrap, you can build fast and responsive sites.
+Bootstrap is a popular CSS framework that provides a responsive grid system, a collection of pre-styled components, CSS and JavaScript utilities. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others. Basically, it makes the job of designing your application faster and simpler, minimizing the amount of CSS code that you have to write. With Bootstrap, you can build fast and responsive sites.
 A responsive website is one that automatically adjusts to look good on all devices, from small phones to large desktops.
 
 
@@ -60,7 +60,7 @@ To use Bootstrap, just like any other framework or library, you need to include 
 
 <aside>
 
-- To understand what you just did in the activity, get to the BootStrap [quickstart](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start
+- To understand what you just did in the activity, get to the Bootstrap [quickstart](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start
 ) page.
-- Here are [lots of examples](https://getbootstrap.com/docs/5.3/examples/) from BootStrap to get you started.
+- Here are [lots of examples](https://getbootstrap.com/docs/5.3/examples/) from Bootstrap to get you started.
 </aside>
