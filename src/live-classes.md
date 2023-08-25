@@ -12,7 +12,7 @@ Video recordings, slides, and links for the exercises will be posted after the c
 | 4    | CSS Layout                  |[View](https://docs.google.com/presentation/d/1GmzJb3wJ1sKRSD-J8GKO_B9sPrbrfq3rlhaQ5cTeqAU/edit?usp=sharing)             |[Watch](https://youtu.be/JFqojB_l57Q)                 |                                   
 | 5    | Publishing and sharing      |[View](https://docs.google.com/presentation/d/176dExQM-trAl_M0_FzQW7h1a3BrFyHR611gkJxd09uE/edit?usp=sharing)             |[Watch](https://youtu.be/aC6Qf-Ef7Ms)                 |                                     
 | 6    | JavaScript Fundamentals     |[View](https://youtu.be/hNWkpEL4sqc)             |[Watch](https://docs.google.com/presentation/d/1C4uXT3zb5HRpEOBE1Gyl1cGZkroKediYSQ-H0QRwRdI/edit?usp=sharing)                 |                                      
-| 7    | More Functions, More Arrays |             |                 |                                      
+| 7    | More Functions, More Arrays |[View](https://docs.google.com/presentation/d/1cQVxp-gg5_R3x4k8FpfFwVGp0R6E7svBQrk48yvX7dU/edit?usp=sharing)             |[Watch](https://youtu.be/VdAzQ4cQrQY)                 |                                      
 | 8    | DOM and Events              |             |                 |                                      
 | 9    | Advanced JavaScript         |             |                 |                                      
 | 10   | Revision and Project Demo   |             |                 |                                      
