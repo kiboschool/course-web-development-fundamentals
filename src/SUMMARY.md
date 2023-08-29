@@ -4,6 +4,8 @@
 [Live Classes](live-classes.md)
 [Weekly Projects](weekly-projects.md)
 [Midterm Project](midterm-project.md)
+[Final Project](final-project.md)
+
 
 
 ## Lessons
@@ -114,5 +116,4 @@
 
 
 <!-- [Midterm Project](midterm-project.md) -->
-<!-- [Final Project](final-project.md) -->
 

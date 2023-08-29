@@ -2,21 +2,11 @@
 
 ---
 
-**Due Date: XXX**
+**Due Date: 10th September, 2023**
 
 <aside>
 
-👥 **This is a team project**. You can work with teammates you’ve worked with
-before, or find new teammates. Communicate with your teammates, then join the
-Github team together and schedule time to work on the project.
-
-Your team will have to agree on a project idea. If you have a firm idea of what
-you want to build, make sure to tell your partners before you decide to join
-the team together.
-
-You can work together by sharing your screen, or by creating a new project in
-Replit and sharing the join link with your teammate. You should be sure that
-both of your names are linked to the submission in Github and Gradescope.
+👥 **This is a team project**. You are expected to work with the same teammates as your mid-term project.
 
 </aside>
 
@@ -39,10 +29,11 @@ course, as outlined in the rubric below.
 | 20 pts | Site is complete  | - valid HTML, CSS, JS<br>- no errors<br>- nothing on the site appears incomplete |
 | 10 pts | Site uses appropriate HTML elements | - Should use at least 10 different elements<br>- Elements should be used for their intended purposes |
 | 10 pts | Site is styled effectively | - Color palette creates contrast<br>- Appropriate spacing between elements<br>- Text is styled for readability |
-| 30 pts | Site uses JavaScript for interactions | - Event listeners trigger actions on the page<br>- Trigger at least 10 different actions. Examples:<br>- Change the displayed text of an element <br>- Change an element's colour <br>- Change an element's background colour <br>- Create a new element <br>- Delete an existing element <br>- Hide an element <br>- Display an element|
+| 20 pts | Site uses JavaScript for interactions | - Event listeners trigger actions on the page<br>- Trigger at least 10 different actions. Examples:<br>- Change the displayed text of an element <br>- Change an element's colour <br>- Change an element's background colour <br>- Create a new element <br>- Delete an existing element <br>- Hide an element <br>- Display an element|
 | 10 pts | Code is styled well | - indented properly<br>- organized effectively<br>- appropriately commented |
 | 20 pts |  Deployment | Site is deployed on Github Pages |
-| 10 pts | (Bonus) Additional features | For example, social cards or HTML media elements |
+| 10 pts |  Video Demonstration | A video demonstration of your site in 5 - 7 minutes |
+| 10 pts | (Bonus) Additional features | For example, social cards or HTML media elements; a responsive website |
 | **100** | **Total** | 110 possible points with the bonus, scored out of 100 |
 
 ## Topic and Design Guidelines
@@ -68,6 +59,20 @@ able to complete.
 We haven’t covered how to collect and save data from users. Don’t plan to build
 a banking app, a social media website, or an e-commerce site.
 
+## Submission
+- Submit your work on your Github Repository for the team.
+- Submit your source code on Gradescope as a team.
+- Submit the link to the video demo as a team on Gradescope.
+- Submit your work on Woolf, individually.
+
+### Guidelines on the Video Submission
+- Length of video should be between 5 to 7 minutes.
+- The video should begin with a brief overview/description of your website.
+- Video should show all pages of the website (running on a browser).
+- Video should contain a code walkthrough, going through all your HTML, CSS and JavaScript files.
+  - Explain your choice of HTML elements, CSS layouts etc.
+- Upload the video to Youtube using your Kibo account and submit the link.
+
 ## How should you work together?
 
 You’ll should figure out what works best for your team. The best teams communicate clearly up front, so that there isn’t confusion about what is going on. Try to agree on how you’ll communicate (Discord, Whatsapp, email, or something else), and when you’ll get together to work on the project.
@@ -75,5 +80,7 @@ You’ll should figure out what works best for your team. The best teams communi
 It may be helpful to create a **design doc**. Using Google docs or a text file in Repl.it, write down your ideas. You might include links, images, drawings, and text that helps to explain what you are planning to build.
 
 A design doc can also help you track what work you’ve done, and what work is left to do.
+
+[Accept the assignment](https://classroom.github.com/a/SFQcHL_7)
 
 ### ✨✨Have fun!✨✨
