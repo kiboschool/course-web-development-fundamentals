@@ -37,7 +37,9 @@ node filename.js
 Now is the time to try it out. Download and install Node.js if you don't have it installed already, and try running a JavaScript file.
 
 ## npm
-NPM stands for Node Package Manager. It is the default package manager for the Node.js runtime environment. It consists of both a command line client, called `npm CLI` and an online database of packages, known as the [npm Registry](www.npmjs.com). The online database hosts thousands of free and proprietary packages that you can download and use.
+
+NPM stands for Node Package Manager. It is the default package manager for the Node.js runtime environment. It consists of both a command line client, called `npm CLI` and an online database of packages, known as the [npm Registry](https://www.npmjs.com/).
+The online database hosts thousands of free and proprietary packages that you can download and use. 
 
 The command line tool, `npm` is installed on your computer when you install Node.js. It can be used to download, install and manage packages.
 
@@ -50,7 +52,7 @@ So that the version of each dependency is the same, npm stores a _lock file_ wit
 
 ### pnpm
 
-In this class, we use an alternative to `npm` called `pnpm` ("performant npm"). It has all the same features of npm, with a few exceptions:
+In this class, we use an alternative to `npm` called `pnpm` ("performant npm"). It has all the same features of npm, with a few exceptions: 
 - instead of downloading packages directly to the `node_modules` folder, it downloads them to a central folder that it manages
 - it puts a link to the version of the package in the central folder into `node_modules`, so that there's still a copy of the package for your code to use
 - that means that it doesn't need to download any package that is already installed on your computer. `npm` would download a copy (and use lots of data) every time you install the same library in a different project.
@@ -74,7 +76,7 @@ Recall that to run your weekly exercises, you run `pnpm install`, which usually 
 
 </aside>
 
-Next, let's install a package called `is-lower-case`. To find out about this package and how to use it, search for it on the [npm Registry](npmjs.com).
+Next, let's install a package called `is-lower-case`. To find out about this package and how to use it, search for it on the [npm Registry](https://www.npmjs.com/).
 
 To install it, type the following command on your command prompt: `pnpm install to-lower-case`
 
