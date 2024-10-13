@@ -1,0 +1,574 @@
+name: Web Development Fundamentals
+code: CSF001
+term: Jul-2023
+about_path: src/course-overview.md
+units:
+  - name: Foundations
+    activities:
+      - name: Introduction
+        path: src/lessons/foundations.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: Intro to Web Development
+        path: src/lessons/foundations/intro-to-web-development.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Websites and the Internet
+        path: src/lessons/foundations/websites-and-the-internet.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: HTML Elements and Attributes
+        path: src/lessons/foundations/html-elements-and-attributes.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: CSS Selectors and Properties
+        path: src/lessons/foundations/css-selectors-and-properties.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: A Taste of Javascript
+        path: src/lessons/foundations/a-taste-of-javascript.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Browser Devtools
+        path: src/lessons/foundations/devtools.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/foundations/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 1
+        path: src/lessons/quiz1.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.0
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 1
+        path: src/lessons/assignment1.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.25
+        due: 2023-07-01
+        publish: false
+  - name: Advanced HTML
+    activities:
+      - name: Introduction
+        path: src/lessons/advanced-html.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: HTML Tables
+        path: src/lessons/advanced-html/html-tables.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Multimedia Elements
+        path: src/lessons/advanced-html/multimedia-html-elements.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Interactive Elements
+        path: src/lessons/advanced-html/bonus-interactive-elements.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Semantic HTML
+        path: src/lessons/advanced-html/semantic-html.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: More HTML elements
+        path: src/lessons/advanced-html/bonus-more-html-elements.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: More CSS Selectors
+        path: src/lessons/advanced-html/more-css-selectors.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Static and Dynamic
+        path: src/lessons/advanced-html/static-and-dynamic-websites.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/advanced-html/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 2
+        path: src/lessons/quiz2.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 2
+        path: src/lessons/assignment2.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.25
+        due: 2023-07-01
+        publish: false
+  - name: Web Design
+    activities:
+      - name: Introduction
+        path: src/lessons/web-design.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: What is Web Design?
+        path: src/lessons/web-design/what-is-web-design.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Styling Text
+        path: src/lessons/web-design/styling-text.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: CSS Text Properties
+        path: src/lessons/web-design/styling-text/css-text-properties.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Fonts
+        path: src/lessons/web-design/styling-text/fonts.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Styling Elements
+        path: src/lessons/web-design/styling-text/styling-elements.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Colors
+        path: src/lessons/web-design/colors.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: The Box Model
+        path: src/lessons/web-design/the-box-model.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/web-design/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 3
+        path: src/lessons/quiz3.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 3
+        path: src/lessons/assignment3.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.25
+        due: 2023-07-01
+        publish: false
+  - name: CSS Layout
+    activities:
+      - name: Introduction
+        path: src/lessons/layout.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: Layout
+        path: src/lessons/layout/layout.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Flexbox
+        path: src/lessons/layout/flexbox.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: CSS Grid
+        path: src/lessons/layout/grid.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Positioning
+        path: src/lessons/layout/positioning.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: 'Bonus: More styling'
+        path: src/lessons/bonus/multimedia-layout/bonus-more-styling.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/layout/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 4
+        path: src/lessons/quiz4.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 4
+        path: src/lessons/assignment4.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.25
+        due: 2023-07-01
+        publish: false
+  - name: Publishing and Sharing
+    activities:
+      - name: Introduction
+        path: src/lessons/publishing-and-sharing.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: How the Internet Works
+        path: src/lessons/publishing-and-sharing/how-the-internet-works-again.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Publishing your site
+        path: src/lessons/publishing-and-sharing/publishing-your-site.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Domains and Hosting
+        path: src/lessons/publishing-and-sharing/domains-and-hosting.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Sharing your work
+        path: src/lessons/publishing-and-sharing/sharing-your-work.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: 'Bonus: More about DNS'
+        path: src/lessons/publishing-and-sharing/bonus-dns.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/publishing-and-sharing/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 5
+        path: src/lessons/quiz5.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Midterm Project
+        path: src/lessons/midterm-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 900
+        grade_weight: 10.0
+        due: 2023-07-01
+        publish: false
+  - name: JavaScript Fundamentals
+    activities:
+      - name: Introduction
+        path: src/lessons/javascript-fundamentals.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: Introduction to JavaScript
+        path: src/lessons/javascript-fundamentals/introduction-to-javascript.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Variables and Data Types
+        path: src/lessons/javascript-fundamentals/variables-and-datatypes.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Operators
+        path: src/lessons/javascript-fundamentals/operators.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Arrays
+        path: src/lessons/javascript-fundamentals/arrays.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Conditions
+        path: src/lessons/javascript-fundamentals/conditions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Loops
+        path: src/lessons/javascript-fundamentals/loops.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Functions
+        path: src/lessons/javascript-fundamentals/functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: JavaScript and the page
+        path: src/lessons/javascript-fundamentals/javascript-and-the-page.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/javascript-fundamentals/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 6
+        path: src/lessons/quiz6.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 5
+        path: src/lessons/assignment5.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.5
+        due: 2023-07-01
+        publish: false
+  - name: More Functions, More Arrays
+    activities:
+      - name: Introduction
+        path: src/lessons/more-functions-more-arrays.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: More on Arrays
+        path: src/lessons/more-functions-more-arrays/more-on-arrays.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Math Functions
+        path: src/lessons/more-functions-more-arrays/math-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: String Functions
+        path: src/lessons/more-functions-more-arrays/string-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: More on Functions
+        path: src/lessons/more-functions-more-arrays/more-on-functions.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Debugging
+        path: src/lessons/more-functions-more-arrays/debugging.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/more-functions-more-arrays/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 7
+        path: src/lessons/quiz7.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Assignment 6
+        path: src/lessons/assignment6.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 300
+        grade_weight: 8.5
+        due: 2023-07-01
+        publish: false
+  - name: DOM and Events
+    activities:
+      - name: Introduction
+        path: src/lessons/dom-and-events.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: The Document Object Model
+        path: src/lessons/dom-and-events/dom.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Navigating the DOM
+        path: src/lessons/dom-and-events/navigating-dom.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Changing the DOM
+        path: src/lessons/dom-and-events/changing-dom.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Handling Events
+        path: src/lessons/dom-and-events/events.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/dom-and-events/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 8
+        path: src/lessons/quiz2.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+      - name: Final Project
+        path: src/lessons/final-project.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 900
+        grade_weight: 20.0
+        due: 2023-07-01
+        publish: false
+  - name: Advanced JavaScript
+    activities:
+      - name: Introduction
+        path: src/lessons/advanced-javascript.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: false
+      - name: Node and NPM
+        path: src/lessons/advanced-javascript/node-and-npm.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Modules
+        path: src/lessons/advanced-javascript/modules.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Libraries and Frameworks
+        path: src/lessons/advanced-javascript/libraries-frameworks.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Testing
+        path: src/lessons/advanced-javascript/testing.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Practice
+        path: src/lessons/advanced-javascript/practice.md
+        type: lesson
+        kind: GENERAL
+        workload: 90
+        publish: false
+      - name: Quiz 9
+        path: src/lessons/quiz9.md
+        type: assignment
+        kind: ASSIGNMENT
+        workload: 30
+        grade_weight: 2.25
+        due: 2023-07-01
+        publish: false
+
